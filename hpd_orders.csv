@@ -1,0 +1,2301 @@
+order_id,order_date,season,product_category,items_count,order_amount,channel,neighborhood,density_bucket,is_new_customer
+Fa_00001,2024-08-20,Fall_2024,bed_frame,1,60.0,website,Fenway,high,True
+Fa_00002,2024-09-18,Fall_2024,chair,1,69.0,website,Cambridgeport,high,True
+Fa_00003,2024-09-25,Fall_2024,cleaning_set,1,39.99,other,Revere,low,False
+Fa_00004,2024-10-01,Fall_2024,chair,3,207.0,xiaohongshu_wechat,Fenway,high,True
+Fa_00005,2024-08-06,Fall_2024,mattress,1,210.0,xiaohongshu_wechat,Cambridgeport,high,True
+Fa_00006,2024-10-25,Fall_2024,bed_frame,3,135.0,other,Mission Hill,high,True
+Fa_00007,2024-10-31,Fall_2024,chair,1,69.0,other,Brighton,high,True
+Fa_00008,2024-09-24,Fall_2024,kitchen_set,2,79.98,xiaohongshu_wechat,Quincy,low,True
+Fa_00009,2024-08-24,Fall_2024,desk,1,79.0,xiaohongshu_wechat,Jamaica Plain,medium,True
+Fa_00010,2024-08-25,Fall_2024,cleaning_set,2,79.98,xiaohongshu_wechat,Fenway,high,False
+Fa_00011,2024-10-06,Fall_2024,desk,3,237.0,xiaohongshu_wechat,Mission Hill,high,True
+Fa_00012,2024-09-30,Fall_2024,chair,1,69.0,xiaohongshu_wechat,Somerville,medium,False
+Fa_00013,2024-09-28,Fall_2024,chair,1,69.0,website,Brighton,high,True
+Fa_00014,2024-08-16,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,Allston,high,True
+Fa_00015,2024-10-10,Fall_2024,bed_frame,2,120.0,xiaohongshu_wechat,Cambridgeport,high,True
+Fa_00016,2024-08-10,Fall_2024,mattress,2,420.0,website,Cambridgeport,high,True
+Fa_00017,2024-09-16,Fall_2024,chair,1,69.0,xiaohongshu_wechat,Watertown,medium,True
+Fa_00018,2024-08-18,Fall_2024,chair,2,138.0,other,Watertown,medium,True
+Fa_00019,2024-10-15,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,Cambridgeport,high,True
+Fa_00020,2024-08-05,Fall_2024,desk,1,79.0,xiaohongshu_wechat,Fenway,high,True
+Fa_00021,2024-08-13,Fall_2024,chair,1,69.0,xiaohongshu_wechat,Somerville,medium,True
+Fa_00022,2024-08-13,Fall_2024,bed_frame,2,60.0,xiaohongshu_wechat,Dorchester,medium,True
+Fa_00023,2024-08-20,Fall_2024,desk,1,79.0,xiaohongshu_wechat,Brighton,high,True
+Fa_00024,2024-09-06,Fall_2024,chair,2,138.0,other,Medford,medium,True
+Fa_00025,2024-10-26,Fall_2024,mattress,1,210.0,xiaohongshu_wechat,Fenway,high,True
+Fa_00026,2024-09-08,Fall_2024,desk,1,79.0,xiaohongshu_wechat,Watertown,medium,False
+Fa_00027,2024-09-01,Fall_2024,chair,1,69.0,xiaohongshu_wechat,Watertown,medium,True
+Fa_00028,2024-10-10,Fall_2024,cleaning_set,1,39.99,website,Brookline,medium,True
+Fa_00029,2024-08-10,Fall_2024,chair,1,69.0,website,Cambridgeport,high,False
+Fa_00030,2024-08-31,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,Quincy,low,True
+Fa_00031,2024-08-17,Fall_2024,bed_frame,2,90.0,xiaohongshu_wechat,Cambridgeport,high,False
+Fa_00032,2024-08-05,Fall_2024,bed_frame,1,60.0,other,Medford,medium,True
+Fa_00033,2024-09-05,Fall_2024,chair,2,138.0,xiaohongshu_wechat,East Boston,medium,True
+Fa_00034,2024-08-28,Fall_2024,chair,2,138.0,xiaohongshu_wechat,Brighton,high,False
+Fa_00035,2024-08-09,Fall_2024,chair,2,138.0,xiaohongshu_wechat,East Boston,medium,False
+Fa_00036,2024-10-31,Fall_2024,cleaning_set,1,39.99,website,Allston,high,False
+Fa_00037,2024-09-07,Fall_2024,mattress,2,380.0,xiaohongshu_wechat,Somerville,medium,True
+Fa_00038,2024-09-15,Fall_2024,mattress,2,420.0,xiaohongshu_wechat,Brighton,high,True
+Fa_00039,2024-08-26,Fall_2024,desk,2,158.0,xiaohongshu_wechat,Fenway,high,False
+Fa_00040,2024-08-04,Fall_2024,bed_frame,1,45.0,xiaohongshu_wechat,Brookline,medium,True
+Fa_00041,2024-09-10,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,East Boston,medium,True
+Fa_00042,2024-08-25,Fall_2024,mattress,1,190.0,xiaohongshu_wechat,East Boston,medium,True
+Fa_00043,2024-10-26,Fall_2024,kitchen_set,1,39.99,website,Allston,high,True
+Fa_00044,2024-08-20,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,Dorchester,medium,True
+Fa_00045,2024-09-05,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,East Boston,medium,True
+Fa_00046,2024-08-17,Fall_2024,kitchen_set,2,79.98,other,Mission Hill,high,True
+Fa_00047,2024-09-03,Fall_2024,kitchen_set,1,39.99,website,Mission Hill,high,True
+Fa_00048,2024-10-28,Fall_2024,chair,1,69.0,xiaohongshu_wechat,Allston,high,False
+Fa_00049,2024-10-22,Fall_2024,desk,1,79.0,xiaohongshu_wechat,Fenway,high,False
+Fa_00050,2024-09-10,Fall_2024,desk,1,79.0,xiaohongshu_wechat,Allston,high,True
+Fa_00051,2024-08-02,Fall_2024,mattress,2,380.0,xiaohongshu_wechat,Cambridgeport,high,True
+Fa_00052,2024-08-17,Fall_2024,mattress,1,210.0,xiaohongshu_wechat,Brighton,high,False
+Fa_00053,2024-10-23,Fall_2024,cleaning_set,2,79.98,other,Brighton,high,True
+Fa_00054,2024-08-20,Fall_2024,bed_frame,1,30.0,xiaohongshu_wechat,Fenway,high,True
+Fa_00055,2024-09-24,Fall_2024,bed_frame,2,90.0,website,Jamaica Plain,medium,False
+Fa_00056,2024-08-19,Fall_2024,mattress,2,420.0,xiaohongshu_wechat,Brookline,medium,False
+Fa_00057,2024-09-22,Fall_2024,kitchen_set,1,39.99,website,Cambridgeport,high,True
+Fa_00058,2024-08-25,Fall_2024,mattress,2,380.0,website,Cambridgeport,high,True
+Fa_00059,2024-09-25,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,Fenway,high,True
+Fa_00060,2024-10-25,Fall_2024,kitchen_set,3,119.97,xiaohongshu_wechat,Mission Hill,high,True
+Fa_00061,2024-08-21,Fall_2024,mattress,1,190.0,xiaohongshu_wechat,Fenway,high,True
+Fa_00062,2024-09-01,Fall_2024,cleaning_set,2,79.98,xiaohongshu_wechat,Fenway,high,True
+Fa_00063,2024-08-02,Fall_2024,desk,1,79.0,website,Brighton,high,True
+Fa_00064,2024-10-11,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,Fenway,high,True
+Fa_00065,2024-10-09,Fall_2024,mattress,2,380.0,xiaohongshu_wechat,Allston,high,True
+Fa_00066,2024-08-14,Fall_2024,chair,1,69.0,xiaohongshu_wechat,Allston,high,True
+Fa_00067,2024-08-12,Fall_2024,bed_frame,1,45.0,xiaohongshu_wechat,Revere,low,True
+Fa_00068,2024-10-29,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,Mission Hill,high,True
+Fa_00069,2024-08-01,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,Cambridgeport,high,True
+Fa_00070,2024-10-21,Fall_2024,mattress,2,380.0,website,Brighton,high,True
+Fa_00071,2024-08-20,Fall_2024,desk,1,79.0,xiaohongshu_wechat,Mission Hill,high,False
+Fa_00072,2024-10-14,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,Watertown,medium,True
+Fa_00073,2024-10-06,Fall_2024,desk,3,237.0,xiaohongshu_wechat,Somerville,medium,False
+Fa_00074,2024-10-07,Fall_2024,chair,3,207.0,xiaohongshu_wechat,Brighton,high,True
+Fa_00075,2024-08-01,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,East Boston,medium,False
+Fa_00076,2024-10-19,Fall_2024,desk,2,158.0,xiaohongshu_wechat,Watertown,medium,False
+Fa_00077,2024-08-19,Fall_2024,desk,1,79.0,xiaohongshu_wechat,Fenway,high,True
+Fa_00078,2024-08-05,Fall_2024,cleaning_set,2,79.98,xiaohongshu_wechat,Fenway,high,False
+Fa_00079,2024-09-11,Fall_2024,mattress,1,210.0,xiaohongshu_wechat,Cambridgeport,high,False
+Fa_00080,2024-08-06,Fall_2024,bed_frame,2,120.0,xiaohongshu_wechat,Cambridgeport,high,False
+Fa_00081,2024-10-29,Fall_2024,bed_frame,2,120.0,xiaohongshu_wechat,Brighton,high,False
+Fa_00082,2024-09-21,Fall_2024,chair,1,69.0,website,Brighton,high,True
+Fa_00083,2024-09-30,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,Fenway,high,True
+Fa_00084,2024-08-14,Fall_2024,bed_frame,1,60.0,xiaohongshu_wechat,East Boston,medium,True
+Fa_00085,2024-08-31,Fall_2024,bed_frame,1,30.0,website,Revere,low,False
+Fa_00086,2024-08-26,Fall_2024,chair,1,69.0,xiaohongshu_wechat,East Boston,medium,True
+Fa_00087,2024-08-27,Fall_2024,cleaning_set,1,39.99,website,Fenway,high,False
+Fa_00088,2024-09-05,Fall_2024,chair,1,69.0,xiaohongshu_wechat,Medford,medium,False
+Fa_00089,2024-08-19,Fall_2024,kitchen_set,3,119.97,xiaohongshu_wechat,Brookline,medium,True
+Fa_00090,2024-10-16,Fall_2024,mattress,1,190.0,xiaohongshu_wechat,Brighton,high,False
+Fa_00091,2024-10-22,Fall_2024,chair,1,69.0,website,Allston,high,False
+Fa_00092,2024-08-15,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,Allston,high,True
+Fa_00093,2024-10-20,Fall_2024,chair,1,69.0,xiaohongshu_wechat,Medford,medium,True
+Fa_00094,2024-09-03,Fall_2024,bed_frame,1,30.0,xiaohongshu_wechat,Mission Hill,high,True
+Fa_00095,2024-08-05,Fall_2024,kitchen_set,2,79.98,other,East Boston,medium,True
+Fa_00096,2024-08-22,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,Revere,low,False
+Fa_00097,2024-09-08,Fall_2024,bed_frame,2,60.0,website,Fenway,high,True
+Fa_00098,2024-08-22,Fall_2024,desk,1,79.0,xiaohongshu_wechat,Brighton,high,True
+Fa_00099,2024-09-21,Fall_2024,mattress,1,210.0,xiaohongshu_wechat,Somerville,medium,True
+Fa_00100,2024-10-19,Fall_2024,desk,2,158.0,xiaohongshu_wechat,Mission Hill,high,True
+Fa_00101,2024-09-11,Fall_2024,chair,1,69.0,xiaohongshu_wechat,Fenway,high,True
+Fa_00102,2024-08-23,Fall_2024,chair,1,69.0,xiaohongshu_wechat,Fenway,high,True
+Fa_00103,2024-09-12,Fall_2024,chair,2,138.0,xiaohongshu_wechat,Brighton,high,True
+Fa_00104,2024-09-20,Fall_2024,cleaning_set,1,39.99,website,Cambridgeport,high,False
+Fa_00105,2024-08-03,Fall_2024,chair,1,69.0,xiaohongshu_wechat,Mission Hill,high,True
+Fa_00106,2024-08-18,Fall_2024,mattress,1,210.0,xiaohongshu_wechat,Cambridgeport,high,False
+Fa_00107,2024-08-24,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,Cambridgeport,high,True
+Fa_00108,2024-08-08,Fall_2024,mattress,1,190.0,website,Quincy,low,True
+Fa_00109,2024-09-03,Fall_2024,mattress,1,190.0,xiaohongshu_wechat,East Boston,medium,False
+Fa_00110,2024-09-08,Fall_2024,kitchen_set,2,79.98,xiaohongshu_wechat,Brighton,high,True
+Fa_00111,2024-09-06,Fall_2024,mattress,2,380.0,xiaohongshu_wechat,Revere,low,True
+Fa_00112,2024-08-05,Fall_2024,desk,2,158.0,xiaohongshu_wechat,Brighton,high,True
+Fa_00113,2024-09-06,Fall_2024,bed_frame,1,60.0,other,Dorchester,medium,False
+Fa_00114,2024-10-21,Fall_2024,bed_frame,1,60.0,xiaohongshu_wechat,Fenway,high,True
+Fa_00115,2024-09-24,Fall_2024,bed_frame,3,135.0,xiaohongshu_wechat,Fenway,high,True
+Fa_00116,2024-10-12,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,Fenway,high,False
+Fa_00117,2024-10-28,Fall_2024,cleaning_set,2,79.98,xiaohongshu_wechat,Quincy,low,True
+Fa_00118,2024-08-03,Fall_2024,cleaning_set,2,79.98,xiaohongshu_wechat,Allston,high,True
+Fa_00119,2024-08-20,Fall_2024,chair,1,69.0,xiaohongshu_wechat,Medford,medium,True
+Fa_00120,2024-09-19,Fall_2024,kitchen_set,3,119.97,xiaohongshu_wechat,Mission Hill,high,True
+Fa_00121,2024-10-17,Fall_2024,desk,2,158.0,other,Fenway,high,True
+Fa_00122,2024-09-17,Fall_2024,chair,3,207.0,xiaohongshu_wechat,Mission Hill,high,True
+Fa_00123,2024-10-31,Fall_2024,chair,2,138.0,xiaohongshu_wechat,Allston,high,True
+Fa_00124,2024-09-30,Fall_2024,mattress,2,420.0,xiaohongshu_wechat,Fenway,high,False
+Fa_00125,2024-08-13,Fall_2024,chair,3,207.0,other,Mission Hill,high,True
+Fa_00126,2024-10-11,Fall_2024,chair,3,207.0,xiaohongshu_wechat,Brighton,high,False
+Fa_00127,2024-09-06,Fall_2024,mattress,2,380.0,xiaohongshu_wechat,Brighton,high,False
+Fa_00128,2024-08-24,Fall_2024,kitchen_set,2,79.98,xiaohongshu_wechat,Watertown,medium,True
+Fa_00129,2024-09-17,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,East Boston,medium,True
+Fa_00130,2024-08-27,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,Mission Hill,high,False
+Fa_00131,2024-10-27,Fall_2024,kitchen_set,1,39.99,website,Cambridgeport,high,True
+Fa_00132,2024-10-29,Fall_2024,desk,1,79.0,other,Allston,high,True
+Fa_00133,2024-09-25,Fall_2024,cleaning_set,1,39.99,website,Fenway,high,True
+Fa_00134,2024-08-05,Fall_2024,mattress,1,190.0,website,Allston,high,True
+Fa_00135,2024-08-08,Fall_2024,mattress,2,380.0,website,Quincy,low,False
+Fa_00136,2024-08-25,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,Brighton,high,False
+Fa_00137,2024-09-05,Fall_2024,chair,2,138.0,xiaohongshu_wechat,Fenway,high,True
+Fa_00138,2024-09-29,Fall_2024,kitchen_set,1,39.99,website,Medford,medium,False
+Fa_00139,2024-10-09,Fall_2024,chair,1,69.0,xiaohongshu_wechat,Mission Hill,high,True
+Fa_00140,2024-10-13,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,Allston,high,True
+Fa_00141,2024-08-18,Fall_2024,cleaning_set,2,79.98,xiaohongshu_wechat,Watertown,medium,True
+Fa_00142,2024-09-28,Fall_2024,mattress,2,380.0,website,Watertown,medium,False
+Fa_00143,2024-09-16,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,Allston,high,False
+Fa_00144,2024-10-01,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,Dorchester,medium,True
+Fa_00145,2024-08-16,Fall_2024,bed_frame,1,45.0,xiaohongshu_wechat,Quincy,low,False
+Fa_00146,2024-08-13,Fall_2024,chair,1,69.0,xiaohongshu_wechat,Allston,high,False
+Fa_00147,2024-10-28,Fall_2024,bed_frame,1,45.0,xiaohongshu_wechat,Fenway,high,True
+Fa_00148,2024-10-05,Fall_2024,bed_frame,1,30.0,xiaohongshu_wechat,Allston,high,True
+Fa_00149,2024-08-10,Fall_2024,kitchen_set,1,39.99,other,Medford,medium,True
+Fa_00150,2024-09-08,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,Mission Hill,high,False
+Fa_00151,2024-10-21,Fall_2024,chair,1,69.0,website,Fenway,high,False
+Fa_00152,2024-09-02,Fall_2024,cleaning_set,2,79.98,other,Mission Hill,high,False
+Fa_00153,2024-08-03,Fall_2024,bed_frame,1,60.0,other,Malden,medium,True
+Fa_00154,2024-09-20,Fall_2024,chair,2,138.0,xiaohongshu_wechat,Brighton,high,False
+Fa_00155,2024-08-07,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,Allston,high,True
+Fa_00156,2024-08-10,Fall_2024,mattress,1,210.0,xiaohongshu_wechat,Dorchester,medium,True
+Fa_00157,2024-10-25,Fall_2024,mattress,1,190.0,website,Malden,medium,False
+Fa_00158,2024-09-15,Fall_2024,desk,2,158.0,xiaohongshu_wechat,Brighton,high,False
+Fa_00159,2024-08-19,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,Brighton,high,True
+Fa_00160,2024-08-30,Fall_2024,chair,1,69.0,xiaohongshu_wechat,Fenway,high,True
+Fa_00161,2024-09-01,Fall_2024,desk,2,158.0,xiaohongshu_wechat,Fenway,high,True
+Fa_00162,2024-10-03,Fall_2024,cleaning_set,2,79.98,other,Mission Hill,high,False
+Fa_00163,2024-09-22,Fall_2024,bed_frame,1,30.0,xiaohongshu_wechat,Revere,low,True
+Fa_00164,2024-10-07,Fall_2024,desk,1,79.0,xiaohongshu_wechat,Fenway,high,True
+Fa_00165,2024-08-20,Fall_2024,chair,1,69.0,website,Allston,high,False
+Fa_00166,2024-08-17,Fall_2024,desk,1,79.0,other,Cambridgeport,high,False
+Fa_00167,2024-09-10,Fall_2024,chair,1,69.0,website,Fenway,high,False
+Fa_00168,2024-10-28,Fall_2024,desk,2,158.0,xiaohongshu_wechat,Jamaica Plain,medium,True
+Fa_00169,2024-09-25,Fall_2024,mattress,1,190.0,other,Medford,medium,True
+Fa_00170,2024-09-09,Fall_2024,kitchen_set,1,39.99,other,Mission Hill,high,False
+Fa_00171,2024-10-23,Fall_2024,kitchen_set,3,119.97,xiaohongshu_wechat,Allston,high,False
+Fa_00172,2024-10-26,Fall_2024,cleaning_set,2,79.98,xiaohongshu_wechat,East Boston,medium,False
+Fa_00173,2024-08-21,Fall_2024,desk,1,79.0,xiaohongshu_wechat,Cambridgeport,high,True
+Fa_00174,2024-09-20,Fall_2024,desk,1,79.0,xiaohongshu_wechat,Mission Hill,high,True
+Fa_00175,2024-09-11,Fall_2024,chair,2,138.0,xiaohongshu_wechat,Watertown,medium,True
+Fa_00176,2024-08-09,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,Fenway,high,True
+Fa_00177,2024-08-15,Fall_2024,cleaning_set,3,119.97,website,Fenway,high,True
+Fa_00178,2024-09-22,Fall_2024,kitchen_set,3,119.97,website,Revere,low,True
+Fa_00179,2024-10-16,Fall_2024,mattress,2,380.0,website,Fenway,high,False
+Fa_00180,2024-08-31,Fall_2024,bed_frame,2,90.0,xiaohongshu_wechat,Brighton,high,False
+Fa_00181,2024-08-22,Fall_2024,bed_frame,1,30.0,website,Quincy,low,True
+Fa_00182,2024-09-24,Fall_2024,bed_frame,3,90.0,other,Cambridgeport,high,False
+Fa_00183,2024-09-08,Fall_2024,desk,1,79.0,xiaohongshu_wechat,Malden,medium,True
+Fa_00184,2024-08-20,Fall_2024,kitchen_set,1,39.99,website,Dorchester,medium,True
+Fa_00185,2024-10-04,Fall_2024,mattress,1,190.0,other,Cambridgeport,high,True
+Fa_00186,2024-08-19,Fall_2024,chair,1,69.0,xiaohongshu_wechat,Brighton,high,True
+Fa_00187,2024-10-27,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,Brighton,high,False
+Fa_00188,2024-10-31,Fall_2024,bed_frame,1,45.0,xiaohongshu_wechat,Cambridgeport,high,False
+Fa_00189,2024-09-08,Fall_2024,bed_frame,2,120.0,other,Fenway,high,False
+Fa_00190,2024-10-28,Fall_2024,chair,2,138.0,xiaohongshu_wechat,Fenway,high,True
+Fa_00191,2024-08-27,Fall_2024,chair,1,69.0,xiaohongshu_wechat,Cambridgeport,high,False
+Fa_00192,2024-10-04,Fall_2024,bed_frame,2,60.0,xiaohongshu_wechat,Dorchester,medium,True
+Fa_00193,2024-08-08,Fall_2024,bed_frame,2,120.0,xiaohongshu_wechat,Jamaica Plain,medium,False
+Fa_00194,2024-10-21,Fall_2024,mattress,1,190.0,xiaohongshu_wechat,Fenway,high,False
+Fa_00195,2024-09-06,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,Mission Hill,high,True
+Fa_00196,2024-08-22,Fall_2024,kitchen_set,1,39.99,website,Dorchester,medium,True
+Fa_00197,2024-08-14,Fall_2024,cleaning_set,2,79.98,xiaohongshu_wechat,Brighton,high,False
+Fa_00198,2024-08-26,Fall_2024,cleaning_set,2,79.98,other,Cambridgeport,high,True
+Fa_00199,2024-09-16,Fall_2024,kitchen_set,1,39.99,other,Mission Hill,high,False
+Fa_00200,2024-09-18,Fall_2024,bed_frame,1,60.0,website,Mission Hill,high,True
+Fa_00201,2024-10-12,Fall_2024,kitchen_set,1,39.99,other,Allston,high,False
+Fa_00202,2024-09-21,Fall_2024,bed_frame,2,60.0,xiaohongshu_wechat,Medford,medium,True
+Fa_00203,2024-10-28,Fall_2024,kitchen_set,1,39.99,other,Brighton,high,True
+Fa_00204,2024-08-14,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,Jamaica Plain,medium,False
+Fa_00205,2024-09-22,Fall_2024,bed_frame,2,120.0,xiaohongshu_wechat,Brighton,high,True
+Fa_00206,2024-08-20,Fall_2024,desk,2,158.0,website,Malden,medium,False
+Fa_00207,2024-09-10,Fall_2024,chair,1,69.0,other,East Boston,medium,True
+Fa_00208,2024-10-27,Fall_2024,mattress,1,190.0,xiaohongshu_wechat,Somerville,medium,True
+Fa_00209,2024-09-29,Fall_2024,bed_frame,1,45.0,xiaohongshu_wechat,Cambridgeport,high,False
+Fa_00210,2024-10-12,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,Allston,high,False
+Fa_00211,2024-10-15,Fall_2024,kitchen_set,1,39.99,other,Malden,medium,True
+Fa_00212,2024-08-01,Fall_2024,desk,1,79.0,website,Cambridgeport,high,True
+Fa_00213,2024-09-09,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,Watertown,medium,False
+Fa_00214,2024-09-15,Fall_2024,mattress,1,190.0,xiaohongshu_wechat,Malden,medium,False
+Fa_00215,2024-09-28,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,Quincy,low,False
+Fa_00216,2024-10-15,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,Brighton,high,True
+Fa_00217,2024-10-02,Fall_2024,chair,3,207.0,xiaohongshu_wechat,Allston,high,False
+Fa_00218,2024-10-14,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,Allston,high,True
+Fa_00219,2024-10-09,Fall_2024,chair,1,69.0,xiaohongshu_wechat,Medford,medium,True
+Fa_00220,2024-09-06,Fall_2024,bed_frame,2,120.0,xiaohongshu_wechat,Brighton,high,True
+Fa_00221,2024-10-14,Fall_2024,kitchen_set,2,79.98,xiaohongshu_wechat,Revere,low,True
+Fa_00222,2024-08-19,Fall_2024,cleaning_set,1,39.99,website,Mission Hill,high,True
+Fa_00223,2024-08-07,Fall_2024,kitchen_set,3,119.97,website,Dorchester,medium,False
+Fa_00224,2024-10-22,Fall_2024,mattress,1,190.0,xiaohongshu_wechat,Mission Hill,high,True
+Fa_00225,2024-10-08,Fall_2024,bed_frame,1,30.0,other,Mission Hill,high,False
+Fa_00226,2024-09-23,Fall_2024,kitchen_set,2,79.98,xiaohongshu_wechat,Mission Hill,high,True
+Fa_00227,2024-09-21,Fall_2024,kitchen_set,2,79.98,other,Jamaica Plain,medium,False
+Fa_00228,2024-09-26,Fall_2024,cleaning_set,3,119.97,other,Dorchester,medium,False
+Fa_00229,2024-08-15,Fall_2024,desk,1,79.0,website,East Boston,medium,False
+Fa_00230,2024-09-05,Fall_2024,desk,1,79.0,xiaohongshu_wechat,Dorchester,medium,True
+Fa_00231,2024-09-23,Fall_2024,chair,2,138.0,xiaohongshu_wechat,Fenway,high,True
+Fa_00232,2024-08-30,Fall_2024,cleaning_set,2,79.98,xiaohongshu_wechat,Brookline,medium,True
+Fa_00233,2024-08-02,Fall_2024,mattress,1,190.0,other,Fenway,high,True
+Fa_00234,2024-09-05,Fall_2024,bed_frame,1,60.0,xiaohongshu_wechat,Malden,medium,False
+Fa_00235,2024-09-25,Fall_2024,kitchen_set,2,79.98,xiaohongshu_wechat,Cambridgeport,high,False
+Fa_00236,2024-10-18,Fall_2024,desk,1,79.0,xiaohongshu_wechat,Brighton,high,True
+Fa_00237,2024-10-21,Fall_2024,bed_frame,1,30.0,xiaohongshu_wechat,Allston,high,True
+Fa_00238,2024-09-18,Fall_2024,desk,1,79.0,xiaohongshu_wechat,Brookline,medium,True
+Fa_00239,2024-08-28,Fall_2024,cleaning_set,3,119.97,website,Cambridgeport,high,True
+Fa_00240,2024-09-27,Fall_2024,mattress,1,210.0,xiaohongshu_wechat,Quincy,low,False
+Fa_00241,2024-10-31,Fall_2024,mattress,2,380.0,website,Allston,high,True
+Fa_00242,2024-09-19,Fall_2024,desk,2,158.0,xiaohongshu_wechat,Cambridgeport,high,False
+Fa_00243,2024-08-13,Fall_2024,bed_frame,2,90.0,xiaohongshu_wechat,Cambridgeport,high,True
+Fa_00244,2024-08-04,Fall_2024,bed_frame,1,30.0,xiaohongshu_wechat,Quincy,low,True
+Fa_00245,2024-08-05,Fall_2024,chair,1,69.0,xiaohongshu_wechat,Brighton,high,False
+Fa_00246,2024-08-14,Fall_2024,cleaning_set,2,79.98,xiaohongshu_wechat,Cambridgeport,high,True
+Fa_00247,2024-10-06,Fall_2024,chair,1,69.0,xiaohongshu_wechat,Cambridgeport,high,True
+Fa_00248,2024-09-05,Fall_2024,desk,1,79.0,xiaohongshu_wechat,Medford,medium,True
+Fa_00249,2024-08-27,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,Medford,medium,False
+Fa_00250,2024-08-28,Fall_2024,cleaning_set,2,79.98,website,Revere,low,True
+Fa_00251,2024-10-23,Fall_2024,kitchen_set,1,39.99,other,Cambridgeport,high,True
+Fa_00252,2024-08-29,Fall_2024,desk,1,79.0,xiaohongshu_wechat,Revere,low,True
+Fa_00253,2024-10-21,Fall_2024,mattress,1,190.0,xiaohongshu_wechat,Allston,high,False
+Fa_00254,2024-10-25,Fall_2024,desk,2,158.0,xiaohongshu_wechat,Brighton,high,True
+Fa_00255,2024-09-01,Fall_2024,desk,1,79.0,xiaohongshu_wechat,Mission Hill,high,True
+Fa_00256,2024-08-04,Fall_2024,mattress,3,570.0,xiaohongshu_wechat,Medford,medium,True
+Fa_00257,2024-08-08,Fall_2024,mattress,1,190.0,xiaohongshu_wechat,Brookline,medium,True
+Fa_00258,2024-09-24,Fall_2024,chair,1,69.0,other,East Boston,medium,True
+Fa_00259,2024-09-12,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,Brighton,high,True
+Fa_00260,2024-09-04,Fall_2024,desk,1,79.0,other,Allston,high,False
+Fa_00261,2024-10-25,Fall_2024,kitchen_set,1,39.99,website,Mission Hill,high,True
+Fa_00262,2024-08-24,Fall_2024,bed_frame,3,90.0,website,Cambridgeport,high,True
+Fa_00263,2024-09-18,Fall_2024,cleaning_set,2,79.98,xiaohongshu_wechat,Watertown,medium,False
+Fa_00264,2024-09-12,Fall_2024,bed_frame,1,45.0,xiaohongshu_wechat,East Boston,medium,True
+Fa_00265,2024-09-04,Fall_2024,mattress,3,570.0,xiaohongshu_wechat,Quincy,low,True
+Fa_00266,2024-08-15,Fall_2024,bed_frame,1,30.0,website,Jamaica Plain,medium,True
+Fa_00267,2024-08-05,Fall_2024,desk,1,79.0,xiaohongshu_wechat,Brighton,high,False
+Fa_00268,2024-08-10,Fall_2024,bed_frame,2,60.0,xiaohongshu_wechat,Watertown,medium,True
+Fa_00269,2024-09-22,Fall_2024,bed_frame,1,30.0,xiaohongshu_wechat,Fenway,high,True
+Fa_00270,2024-09-04,Fall_2024,mattress,2,380.0,xiaohongshu_wechat,Fenway,high,True
+Fa_00271,2024-08-22,Fall_2024,bed_frame,1,30.0,xiaohongshu_wechat,Brookline,medium,False
+Fa_00272,2024-10-21,Fall_2024,chair,1,69.0,other,Malden,medium,False
+Fa_00273,2024-09-16,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,Allston,high,True
+Fa_00274,2024-10-21,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,Mission Hill,high,True
+Fa_00275,2024-10-01,Fall_2024,chair,1,69.0,xiaohongshu_wechat,Medford,medium,True
+Fa_00276,2024-08-12,Fall_2024,bed_frame,2,90.0,xiaohongshu_wechat,Watertown,medium,False
+Fa_00277,2024-08-02,Fall_2024,kitchen_set,1,39.99,website,Jamaica Plain,medium,True
+Fa_00278,2024-10-24,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,Mission Hill,high,True
+Fa_00279,2024-10-27,Fall_2024,bed_frame,1,45.0,xiaohongshu_wechat,Cambridgeport,high,True
+Fa_00280,2024-10-17,Fall_2024,desk,2,158.0,xiaohongshu_wechat,Cambridgeport,high,False
+Fa_00281,2024-08-05,Fall_2024,mattress,2,420.0,xiaohongshu_wechat,Medford,medium,True
+Fa_00282,2024-09-28,Fall_2024,chair,1,69.0,website,Cambridgeport,high,True
+Fa_00283,2024-08-11,Fall_2024,mattress,2,420.0,xiaohongshu_wechat,Fenway,high,False
+Fa_00284,2024-09-25,Fall_2024,bed_frame,2,90.0,other,Brighton,high,True
+Fa_00285,2024-08-01,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,Watertown,medium,False
+Fa_00286,2024-08-10,Fall_2024,kitchen_set,1,39.99,website,Allston,high,False
+Fa_00287,2024-08-16,Fall_2024,kitchen_set,1,39.99,other,Brighton,high,True
+Fa_00288,2024-10-06,Fall_2024,mattress,1,210.0,website,Revere,low,True
+Fa_00289,2024-09-01,Fall_2024,mattress,3,630.0,website,Cambridgeport,high,True
+Fa_00290,2024-08-14,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,Cambridgeport,high,True
+Fa_00291,2024-08-28,Fall_2024,mattress,1,210.0,xiaohongshu_wechat,Allston,high,True
+Fa_00292,2024-10-01,Fall_2024,mattress,3,630.0,xiaohongshu_wechat,Dorchester,medium,True
+Fa_00293,2024-10-12,Fall_2024,cleaning_set,2,79.98,xiaohongshu_wechat,Mission Hill,high,False
+Fa_00294,2024-10-29,Fall_2024,bed_frame,1,60.0,xiaohongshu_wechat,Mission Hill,high,True
+Fa_00295,2024-09-29,Fall_2024,desk,1,79.0,xiaohongshu_wechat,Allston,high,False
+Fa_00296,2024-10-02,Fall_2024,chair,1,69.0,website,Revere,low,True
+Fa_00297,2024-08-04,Fall_2024,mattress,1,190.0,xiaohongshu_wechat,Brighton,high,True
+Fa_00298,2024-09-22,Fall_2024,bed_frame,1,60.0,xiaohongshu_wechat,Mission Hill,high,True
+Fa_00299,2024-09-07,Fall_2024,desk,2,158.0,xiaohongshu_wechat,Fenway,high,True
+Fa_00300,2024-09-07,Fall_2024,desk,1,79.0,website,Brighton,high,True
+Fa_00301,2024-10-17,Fall_2024,chair,1,69.0,xiaohongshu_wechat,Revere,low,True
+Fa_00302,2024-10-20,Fall_2024,desk,1,79.0,xiaohongshu_wechat,Allston,high,True
+Fa_00303,2024-10-10,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,Malden,medium,True
+Fa_00304,2024-09-24,Fall_2024,mattress,1,190.0,xiaohongshu_wechat,Fenway,high,True
+Fa_00305,2024-09-17,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,Brighton,high,True
+Fa_00306,2024-09-28,Fall_2024,mattress,2,380.0,xiaohongshu_wechat,Brighton,high,False
+Fa_00307,2024-09-13,Fall_2024,chair,1,69.0,xiaohongshu_wechat,Medford,medium,True
+Fa_00308,2024-10-04,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,Cambridgeport,high,True
+Fa_00309,2024-10-20,Fall_2024,kitchen_set,2,79.98,xiaohongshu_wechat,Cambridgeport,high,True
+Fa_00310,2024-10-29,Fall_2024,kitchen_set,1,39.99,other,Cambridgeport,high,True
+Fa_00311,2024-08-31,Fall_2024,bed_frame,1,45.0,xiaohongshu_wechat,Mission Hill,high,False
+Fa_00312,2024-09-26,Fall_2024,mattress,1,210.0,xiaohongshu_wechat,Somerville,medium,True
+Fa_00313,2024-08-15,Fall_2024,bed_frame,1,45.0,other,Mission Hill,high,True
+Fa_00314,2024-10-06,Fall_2024,mattress,1,190.0,xiaohongshu_wechat,Somerville,medium,True
+Fa_00315,2024-10-09,Fall_2024,chair,3,207.0,website,Cambridgeport,high,True
+Fa_00316,2024-10-25,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,Brighton,high,True
+Fa_00317,2024-10-13,Fall_2024,mattress,1,190.0,xiaohongshu_wechat,East Boston,medium,True
+Fa_00318,2024-10-09,Fall_2024,cleaning_set,1,39.99,website,Mission Hill,high,True
+Fa_00319,2024-09-06,Fall_2024,desk,1,79.0,xiaohongshu_wechat,Cambridgeport,high,True
+Fa_00320,2024-08-20,Fall_2024,desk,2,158.0,xiaohongshu_wechat,Allston,high,False
+Fa_00321,2024-10-30,Fall_2024,mattress,3,630.0,xiaohongshu_wechat,Dorchester,medium,True
+Fa_00322,2024-09-05,Fall_2024,bed_frame,1,45.0,other,Quincy,low,True
+Fa_00323,2024-09-11,Fall_2024,chair,1,69.0,xiaohongshu_wechat,Allston,high,True
+Fa_00324,2024-10-01,Fall_2024,chair,1,69.0,website,Mission Hill,high,False
+Fa_00325,2024-10-30,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,East Boston,medium,True
+Fa_00326,2024-09-26,Fall_2024,kitchen_set,2,79.98,xiaohongshu_wechat,Brighton,high,True
+Fa_00327,2024-09-30,Fall_2024,desk,1,79.0,website,Allston,high,False
+Fa_00328,2024-10-19,Fall_2024,mattress,1,210.0,xiaohongshu_wechat,Mission Hill,high,True
+Fa_00329,2024-08-16,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,Mission Hill,high,True
+Fa_00330,2024-10-19,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,Brighton,high,False
+Fa_00331,2024-08-20,Fall_2024,kitchen_set,3,119.97,xiaohongshu_wechat,Fenway,high,True
+Fa_00332,2024-08-24,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,Cambridgeport,high,True
+Fa_00333,2024-08-14,Fall_2024,mattress,1,190.0,xiaohongshu_wechat,Fenway,high,True
+Fa_00334,2024-10-26,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,Quincy,low,True
+Fa_00335,2024-10-19,Fall_2024,mattress,1,210.0,xiaohongshu_wechat,Brookline,medium,False
+Fa_00336,2024-08-29,Fall_2024,chair,2,138.0,xiaohongshu_wechat,Fenway,high,True
+Fa_00337,2024-10-17,Fall_2024,mattress,1,210.0,other,Brighton,high,True
+Fa_00338,2024-09-19,Fall_2024,kitchen_set,1,39.99,website,Cambridgeport,high,True
+Fa_00339,2024-09-21,Fall_2024,mattress,2,380.0,xiaohongshu_wechat,Fenway,high,True
+Fa_00340,2024-08-18,Fall_2024,bed_frame,1,60.0,xiaohongshu_wechat,Brighton,high,False
+Fa_00341,2024-08-12,Fall_2024,bed_frame,1,60.0,xiaohongshu_wechat,Allston,high,True
+Fa_00342,2024-08-28,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,Revere,low,False
+Fa_00343,2024-09-07,Fall_2024,desk,2,158.0,xiaohongshu_wechat,Dorchester,medium,True
+Fa_00344,2024-08-23,Fall_2024,cleaning_set,1,39.99,other,Fenway,high,True
+Fa_00345,2024-09-16,Fall_2024,cleaning_set,2,79.98,xiaohongshu_wechat,Medford,medium,True
+Fa_00346,2024-10-09,Fall_2024,chair,1,69.0,other,Brighton,high,False
+Fa_00347,2024-10-27,Fall_2024,mattress,1,210.0,other,Jamaica Plain,medium,True
+Fa_00348,2024-08-25,Fall_2024,mattress,3,630.0,other,East Boston,medium,True
+Fa_00349,2024-08-10,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,Brighton,high,True
+Fa_00350,2024-10-18,Fall_2024,desk,1,79.0,other,Cambridgeport,high,False
+Fa_00351,2024-10-29,Fall_2024,cleaning_set,3,119.97,xiaohongshu_wechat,Allston,high,False
+Fa_00352,2024-08-01,Fall_2024,chair,3,207.0,other,East Boston,medium,True
+Fa_00353,2024-09-22,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,Revere,low,True
+Fa_00354,2024-08-15,Fall_2024,desk,2,158.0,website,Dorchester,medium,True
+Fa_00355,2024-08-09,Fall_2024,mattress,2,420.0,xiaohongshu_wechat,Mission Hill,high,True
+Fa_00356,2024-08-24,Fall_2024,desk,1,79.0,xiaohongshu_wechat,Mission Hill,high,True
+Fa_00357,2024-08-10,Fall_2024,chair,2,138.0,xiaohongshu_wechat,Allston,high,False
+Fa_00358,2024-08-30,Fall_2024,cleaning_set,2,79.98,xiaohongshu_wechat,Cambridgeport,high,True
+Fa_00359,2024-10-12,Fall_2024,mattress,1,190.0,xiaohongshu_wechat,Brighton,high,False
+Fa_00360,2024-10-13,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,Allston,high,True
+Fa_00361,2024-09-22,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,Mission Hill,high,True
+Fa_00362,2024-10-04,Fall_2024,cleaning_set,2,79.98,website,Mission Hill,high,True
+Fa_00363,2024-09-07,Fall_2024,bed_frame,1,60.0,website,Watertown,medium,True
+Fa_00364,2024-08-15,Fall_2024,chair,1,69.0,website,East Boston,medium,True
+Fa_00365,2024-10-06,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,Quincy,low,True
+Fa_00366,2024-08-27,Fall_2024,chair,1,69.0,xiaohongshu_wechat,Dorchester,medium,True
+Fa_00367,2024-10-20,Fall_2024,kitchen_set,2,79.98,xiaohongshu_wechat,Revere,low,True
+Fa_00368,2024-10-31,Fall_2024,desk,2,158.0,xiaohongshu_wechat,Cambridgeport,high,True
+Fa_00369,2024-10-03,Fall_2024,bed_frame,1,60.0,xiaohongshu_wechat,Brighton,high,True
+Fa_00370,2024-10-28,Fall_2024,bed_frame,1,60.0,other,Allston,high,True
+Fa_00371,2024-08-29,Fall_2024,chair,1,69.0,other,Fenway,high,False
+Fa_00372,2024-10-16,Fall_2024,bed_frame,2,90.0,xiaohongshu_wechat,Allston,high,False
+Fa_00373,2024-08-11,Fall_2024,mattress,2,380.0,xiaohongshu_wechat,Fenway,high,False
+Fa_00374,2024-09-08,Fall_2024,mattress,1,190.0,xiaohongshu_wechat,Mission Hill,high,True
+Fa_00375,2024-10-30,Fall_2024,chair,1,69.0,xiaohongshu_wechat,Fenway,high,False
+Fa_00376,2024-10-17,Fall_2024,cleaning_set,3,119.97,xiaohongshu_wechat,Brighton,high,True
+Fa_00377,2024-08-10,Fall_2024,chair,2,138.0,other,East Boston,medium,True
+Fa_00378,2024-10-11,Fall_2024,desk,1,79.0,xiaohongshu_wechat,Quincy,low,False
+Fa_00379,2024-08-23,Fall_2024,chair,1,69.0,xiaohongshu_wechat,Allston,high,False
+Fa_00380,2024-10-26,Fall_2024,desk,1,79.0,other,Mission Hill,high,True
+Fa_00381,2024-10-26,Fall_2024,mattress,3,630.0,xiaohongshu_wechat,Revere,low,True
+Fa_00382,2024-09-08,Fall_2024,bed_frame,1,30.0,xiaohongshu_wechat,Brighton,high,True
+Fa_00383,2024-08-25,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,Fenway,high,True
+Fa_00384,2024-09-06,Fall_2024,bed_frame,1,60.0,other,Medford,medium,True
+Fa_00385,2024-10-24,Fall_2024,bed_frame,2,60.0,other,Brookline,medium,False
+Fa_00386,2024-10-12,Fall_2024,cleaning_set,2,79.98,xiaohongshu_wechat,Allston,high,False
+Fa_00387,2024-10-24,Fall_2024,desk,1,79.0,xiaohongshu_wechat,Fenway,high,True
+Fa_00388,2024-10-29,Fall_2024,bed_frame,2,60.0,website,Cambridgeport,high,False
+Fa_00389,2024-10-08,Fall_2024,mattress,1,190.0,xiaohongshu_wechat,Brookline,medium,True
+Fa_00390,2024-10-15,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,Brighton,high,True
+Fa_00391,2024-10-06,Fall_2024,kitchen_set,2,79.98,xiaohongshu_wechat,Brighton,high,True
+Fa_00392,2024-10-26,Fall_2024,mattress,1,210.0,website,Brighton,high,True
+Fa_00393,2024-10-08,Fall_2024,bed_frame,3,135.0,website,Brookline,medium,False
+Fa_00394,2024-09-09,Fall_2024,cleaning_set,1,39.99,website,Brookline,medium,False
+Fa_00395,2024-09-24,Fall_2024,desk,2,158.0,xiaohongshu_wechat,Brighton,high,True
+Fa_00396,2024-08-10,Fall_2024,cleaning_set,2,79.98,website,Cambridgeport,high,True
+Fa_00397,2024-09-07,Fall_2024,cleaning_set,2,79.98,xiaohongshu_wechat,Mission Hill,high,False
+Fa_00398,2024-08-22,Fall_2024,chair,1,69.0,xiaohongshu_wechat,Fenway,high,False
+Fa_00399,2024-10-12,Fall_2024,chair,1,69.0,website,East Boston,medium,True
+Fa_00400,2024-09-25,Fall_2024,chair,1,69.0,xiaohongshu_wechat,Mission Hill,high,False
+Fa_00401,2024-09-27,Fall_2024,chair,1,69.0,xiaohongshu_wechat,Watertown,medium,True
+Fa_00402,2024-10-08,Fall_2024,mattress,3,630.0,xiaohongshu_wechat,Allston,high,True
+Fa_00403,2024-08-01,Fall_2024,desk,1,79.0,xiaohongshu_wechat,Medford,medium,False
+Fa_00404,2024-08-01,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,Mission Hill,high,True
+Fa_00405,2024-09-12,Fall_2024,desk,1,79.0,other,Fenway,high,True
+Fa_00406,2024-10-27,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,Cambridgeport,high,True
+Fa_00407,2024-10-24,Fall_2024,bed_frame,1,45.0,other,Cambridgeport,high,False
+Fa_00408,2024-09-30,Fall_2024,desk,1,79.0,xiaohongshu_wechat,Somerville,medium,True
+Fa_00409,2024-08-11,Fall_2024,mattress,1,190.0,other,Mission Hill,high,True
+Fa_00410,2024-08-25,Fall_2024,mattress,1,190.0,website,Watertown,medium,True
+Fa_00411,2024-10-11,Fall_2024,chair,2,138.0,xiaohongshu_wechat,Fenway,high,False
+Fa_00412,2024-10-09,Fall_2024,kitchen_set,1,39.99,website,Revere,low,True
+Fa_00413,2024-09-15,Fall_2024,bed_frame,1,45.0,website,Mission Hill,high,False
+Fa_00414,2024-08-04,Fall_2024,desk,1,79.0,xiaohongshu_wechat,Allston,high,True
+Fa_00415,2024-10-29,Fall_2024,bed_frame,1,45.0,website,Revere,low,True
+Fa_00416,2024-09-30,Fall_2024,chair,1,69.0,xiaohongshu_wechat,Brighton,high,False
+Fa_00417,2024-09-14,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,Watertown,medium,False
+Fa_00418,2024-08-26,Fall_2024,mattress,2,420.0,website,Allston,high,True
+Fa_00419,2024-10-22,Fall_2024,chair,1,69.0,xiaohongshu_wechat,Cambridgeport,high,True
+Fa_00420,2024-09-29,Fall_2024,mattress,2,380.0,xiaohongshu_wechat,Fenway,high,True
+Fa_00421,2024-10-25,Fall_2024,desk,2,158.0,website,Medford,medium,False
+Fa_00422,2024-08-28,Fall_2024,bed_frame,1,45.0,xiaohongshu_wechat,Cambridgeport,high,True
+Fa_00423,2024-08-29,Fall_2024,chair,2,138.0,xiaohongshu_wechat,Cambridgeport,high,True
+Fa_00424,2024-10-31,Fall_2024,cleaning_set,1,39.99,website,Jamaica Plain,medium,True
+Fa_00425,2024-08-31,Fall_2024,cleaning_set,3,119.97,xiaohongshu_wechat,Malden,medium,False
+Fa_00426,2024-09-01,Fall_2024,mattress,1,190.0,xiaohongshu_wechat,Brighton,high,True
+Fa_00427,2024-09-18,Fall_2024,mattress,1,190.0,xiaohongshu_wechat,Allston,high,True
+Fa_00428,2024-09-08,Fall_2024,chair,1,69.0,other,Allston,high,True
+Fa_00429,2024-09-21,Fall_2024,mattress,2,380.0,xiaohongshu_wechat,Brighton,high,True
+Fa_00430,2024-09-18,Fall_2024,kitchen_set,1,39.99,other,Allston,high,True
+Fa_00431,2024-09-07,Fall_2024,kitchen_set,2,79.98,website,Watertown,medium,True
+Fa_00432,2024-08-19,Fall_2024,bed_frame,2,120.0,xiaohongshu_wechat,Allston,high,True
+Fa_00433,2024-08-11,Fall_2024,chair,1,69.0,xiaohongshu_wechat,Dorchester,medium,True
+Fa_00434,2024-09-17,Fall_2024,chair,1,69.0,xiaohongshu_wechat,Allston,high,True
+Fa_00435,2024-08-19,Fall_2024,mattress,1,190.0,xiaohongshu_wechat,Jamaica Plain,medium,True
+Fa_00436,2024-09-26,Fall_2024,chair,2,138.0,other,Brookline,medium,True
+Fa_00437,2024-09-01,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,Quincy,low,True
+Fa_00438,2024-09-07,Fall_2024,cleaning_set,3,119.97,website,Revere,low,True
+Fa_00439,2024-10-12,Fall_2024,mattress,1,210.0,xiaohongshu_wechat,Watertown,medium,False
+Fa_00440,2024-08-19,Fall_2024,chair,2,138.0,xiaohongshu_wechat,Allston,high,True
+Fa_00441,2024-09-11,Fall_2024,mattress,1,210.0,other,Malden,medium,True
+Fa_00442,2024-09-24,Fall_2024,cleaning_set,2,79.98,website,Revere,low,True
+Fa_00443,2024-10-19,Fall_2024,desk,1,79.0,xiaohongshu_wechat,Fenway,high,True
+Fa_00444,2024-09-05,Fall_2024,bed_frame,2,60.0,website,Fenway,high,True
+Fa_00445,2024-09-22,Fall_2024,bed_frame,1,45.0,website,Brighton,high,True
+Fa_00446,2024-10-20,Fall_2024,kitchen_set,2,79.98,xiaohongshu_wechat,Somerville,medium,False
+Fa_00447,2024-09-13,Fall_2024,desk,1,79.0,xiaohongshu_wechat,Somerville,medium,True
+Fa_00448,2024-09-12,Fall_2024,mattress,1,190.0,xiaohongshu_wechat,Mission Hill,high,True
+Fa_00449,2024-08-28,Fall_2024,desk,1,79.0,xiaohongshu_wechat,Cambridgeport,high,False
+Fa_00450,2024-09-28,Fall_2024,desk,1,79.0,xiaohongshu_wechat,Brookline,medium,True
+Fa_00451,2024-08-29,Fall_2024,desk,2,158.0,xiaohongshu_wechat,Quincy,low,True
+Fa_00452,2024-08-22,Fall_2024,bed_frame,1,30.0,website,Somerville,medium,True
+Fa_00453,2024-10-18,Fall_2024,kitchen_set,3,119.97,xiaohongshu_wechat,Fenway,high,True
+Fa_00454,2024-09-14,Fall_2024,mattress,1,190.0,xiaohongshu_wechat,Quincy,low,True
+Fa_00455,2024-08-25,Fall_2024,chair,3,207.0,other,Mission Hill,high,False
+Fa_00456,2024-08-08,Fall_2024,chair,1,69.0,xiaohongshu_wechat,Brighton,high,False
+Fa_00457,2024-10-19,Fall_2024,chair,1,69.0,xiaohongshu_wechat,Mission Hill,high,True
+Fa_00458,2024-10-28,Fall_2024,bed_frame,1,60.0,website,Brighton,high,False
+Fa_00459,2024-08-06,Fall_2024,mattress,1,210.0,xiaohongshu_wechat,Brighton,high,True
+Fa_00460,2024-08-02,Fall_2024,chair,3,207.0,website,Brighton,high,False
+Fa_00461,2024-08-15,Fall_2024,desk,3,237.0,xiaohongshu_wechat,Fenway,high,False
+Fa_00462,2024-10-28,Fall_2024,bed_frame,1,45.0,xiaohongshu_wechat,Cambridgeport,high,True
+Fa_00463,2024-10-12,Fall_2024,mattress,1,210.0,xiaohongshu_wechat,Dorchester,medium,False
+Fa_00464,2024-08-17,Fall_2024,bed_frame,3,180.0,website,Allston,high,False
+Fa_00465,2024-09-14,Fall_2024,chair,1,69.0,website,Medford,medium,True
+Fa_00466,2024-09-08,Fall_2024,desk,1,79.0,xiaohongshu_wechat,Brighton,high,True
+Fa_00467,2024-09-03,Fall_2024,bed_frame,1,60.0,website,Quincy,low,False
+Fa_00468,2024-10-20,Fall_2024,mattress,1,210.0,xiaohongshu_wechat,Brighton,high,False
+Fa_00469,2024-10-23,Fall_2024,desk,2,158.0,xiaohongshu_wechat,Brighton,high,True
+Fa_00470,2024-08-10,Fall_2024,desk,1,79.0,xiaohongshu_wechat,Malden,medium,True
+Fa_00471,2024-09-20,Fall_2024,cleaning_set,3,119.97,xiaohongshu_wechat,Cambridgeport,high,False
+Fa_00472,2024-09-29,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,Brookline,medium,True
+Fa_00473,2024-10-25,Fall_2024,kitchen_set,1,39.99,other,Quincy,low,True
+Fa_00474,2024-09-10,Fall_2024,bed_frame,2,90.0,xiaohongshu_wechat,Somerville,medium,False
+Fa_00475,2024-08-29,Fall_2024,chair,1,69.0,xiaohongshu_wechat,Revere,low,False
+Fa_00476,2024-09-15,Fall_2024,mattress,2,420.0,xiaohongshu_wechat,Mission Hill,high,True
+Fa_00477,2024-09-01,Fall_2024,cleaning_set,2,79.98,xiaohongshu_wechat,Fenway,high,True
+Fa_00478,2024-09-29,Fall_2024,bed_frame,2,60.0,xiaohongshu_wechat,East Boston,medium,False
+Fa_00479,2024-08-27,Fall_2024,desk,1,79.0,xiaohongshu_wechat,Watertown,medium,False
+Fa_00480,2024-10-04,Fall_2024,mattress,1,210.0,xiaohongshu_wechat,Fenway,high,True
+Fa_00481,2024-08-02,Fall_2024,mattress,2,380.0,other,Somerville,medium,True
+Fa_00482,2024-09-24,Fall_2024,cleaning_set,2,79.98,xiaohongshu_wechat,Cambridgeport,high,True
+Fa_00483,2024-08-17,Fall_2024,desk,1,79.0,other,Allston,high,True
+Fa_00484,2024-09-08,Fall_2024,mattress,1,190.0,xiaohongshu_wechat,Mission Hill,high,False
+Fa_00485,2024-10-19,Fall_2024,kitchen_set,2,79.98,xiaohongshu_wechat,Jamaica Plain,medium,True
+Fa_00486,2024-08-21,Fall_2024,kitchen_set,1,39.99,website,Somerville,medium,True
+Fa_00487,2024-10-13,Fall_2024,kitchen_set,1,39.99,website,Dorchester,medium,True
+Fa_00488,2024-08-13,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,Revere,low,True
+Fa_00489,2024-09-22,Fall_2024,desk,2,158.0,xiaohongshu_wechat,Cambridgeport,high,True
+Fa_00490,2024-10-11,Fall_2024,kitchen_set,1,39.99,website,Cambridgeport,high,True
+Fa_00491,2024-09-13,Fall_2024,mattress,1,190.0,xiaohongshu_wechat,Mission Hill,high,False
+Fa_00492,2024-08-14,Fall_2024,chair,2,138.0,xiaohongshu_wechat,Watertown,medium,True
+Fa_00493,2024-10-04,Fall_2024,desk,2,158.0,xiaohongshu_wechat,East Boston,medium,True
+Fa_00494,2024-10-29,Fall_2024,kitchen_set,2,79.98,website,Dorchester,medium,False
+Fa_00495,2024-09-12,Fall_2024,desk,1,79.0,other,Brighton,high,True
+Fa_00496,2024-10-01,Fall_2024,desk,2,158.0,xiaohongshu_wechat,Fenway,high,False
+Fa_00497,2024-09-15,Fall_2024,mattress,1,210.0,xiaohongshu_wechat,Fenway,high,True
+Fa_00498,2024-09-21,Fall_2024,desk,1,79.0,xiaohongshu_wechat,Mission Hill,high,True
+Fa_00499,2024-08-06,Fall_2024,kitchen_set,2,79.98,xiaohongshu_wechat,Dorchester,medium,True
+Fa_00500,2024-08-22,Fall_2024,kitchen_set,2,79.98,xiaohongshu_wechat,Revere,low,True
+Fa_00501,2024-09-28,Fall_2024,desk,3,237.0,other,Mission Hill,high,False
+Fa_00502,2024-10-11,Fall_2024,bed_frame,2,90.0,website,Brighton,high,True
+Fa_00503,2024-10-03,Fall_2024,desk,1,79.0,other,Brighton,high,True
+Fa_00504,2024-08-21,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,Brighton,high,True
+Fa_00505,2024-08-01,Fall_2024,desk,3,237.0,xiaohongshu_wechat,Quincy,low,True
+Fa_00506,2024-09-23,Fall_2024,chair,1,69.0,xiaohongshu_wechat,Brookline,medium,True
+Fa_00507,2024-08-12,Fall_2024,kitchen_set,3,119.97,xiaohongshu_wechat,Watertown,medium,True
+Fa_00508,2024-09-07,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,Brighton,high,True
+Fa_00509,2024-10-10,Fall_2024,desk,1,79.0,website,East Boston,medium,True
+Fa_00510,2024-08-05,Fall_2024,chair,2,138.0,xiaohongshu_wechat,Mission Hill,high,True
+Fa_00511,2024-10-07,Fall_2024,mattress,3,570.0,website,Brookline,medium,False
+Fa_00512,2024-08-26,Fall_2024,desk,1,79.0,xiaohongshu_wechat,Medford,medium,False
+Fa_00513,2024-09-19,Fall_2024,mattress,1,210.0,other,Quincy,low,True
+Fa_00514,2024-08-01,Fall_2024,cleaning_set,1,39.99,other,Fenway,high,False
+Fa_00515,2024-09-19,Fall_2024,chair,1,69.0,xiaohongshu_wechat,Mission Hill,high,False
+Fa_00516,2024-09-13,Fall_2024,cleaning_set,1,39.99,website,Dorchester,medium,True
+Fa_00517,2024-09-07,Fall_2024,chair,1,69.0,xiaohongshu_wechat,Mission Hill,high,True
+Fa_00518,2024-10-09,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,Brighton,high,True
+Fa_00519,2024-08-13,Fall_2024,desk,2,158.0,xiaohongshu_wechat,Brighton,high,False
+Fa_00520,2024-10-30,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,Allston,high,True
+Fa_00521,2024-10-23,Fall_2024,kitchen_set,1,39.99,other,Mission Hill,high,False
+Fa_00522,2024-09-20,Fall_2024,bed_frame,1,30.0,xiaohongshu_wechat,Dorchester,medium,True
+Fa_00523,2024-10-15,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,Cambridgeport,high,True
+Fa_00524,2024-08-25,Fall_2024,cleaning_set,3,119.97,other,Quincy,low,True
+Fa_00525,2024-10-25,Fall_2024,desk,1,79.0,xiaohongshu_wechat,Fenway,high,False
+Fa_00526,2024-09-06,Fall_2024,desk,1,79.0,xiaohongshu_wechat,Medford,medium,False
+Fa_00527,2024-09-26,Fall_2024,kitchen_set,2,79.98,xiaohongshu_wechat,Mission Hill,high,True
+Fa_00528,2024-10-07,Fall_2024,desk,1,79.0,xiaohongshu_wechat,Brighton,high,True
+Fa_00529,2024-08-05,Fall_2024,chair,2,138.0,xiaohongshu_wechat,Watertown,medium,True
+Fa_00530,2024-09-06,Fall_2024,mattress,2,420.0,xiaohongshu_wechat,Allston,high,True
+Fa_00531,2024-10-01,Fall_2024,desk,3,237.0,xiaohongshu_wechat,Mission Hill,high,False
+Fa_00532,2024-10-01,Fall_2024,bed_frame,3,180.0,xiaohongshu_wechat,Brighton,high,True
+Fa_00533,2024-08-27,Fall_2024,desk,1,79.0,other,East Boston,medium,True
+Fa_00534,2024-08-19,Fall_2024,desk,2,158.0,xiaohongshu_wechat,Cambridgeport,high,True
+Fa_00535,2024-08-13,Fall_2024,bed_frame,3,135.0,xiaohongshu_wechat,Mission Hill,high,True
+Fa_00536,2024-08-15,Fall_2024,cleaning_set,2,79.98,other,East Boston,medium,True
+Fa_00537,2024-09-03,Fall_2024,bed_frame,1,60.0,xiaohongshu_wechat,Jamaica Plain,medium,False
+Fa_00538,2024-08-16,Fall_2024,desk,2,158.0,xiaohongshu_wechat,Brighton,high,True
+Fa_00539,2024-08-07,Fall_2024,cleaning_set,1,39.99,website,Mission Hill,high,True
+Fa_00540,2024-08-03,Fall_2024,cleaning_set,2,79.98,xiaohongshu_wechat,Somerville,medium,False
+Fa_00541,2024-08-04,Fall_2024,desk,1,79.0,xiaohongshu_wechat,Mission Hill,high,True
+Fa_00542,2024-09-15,Fall_2024,mattress,2,380.0,xiaohongshu_wechat,Brookline,medium,False
+Fa_00543,2024-09-23,Fall_2024,chair,2,138.0,xiaohongshu_wechat,Mission Hill,high,True
+Fa_00544,2024-08-25,Fall_2024,bed_frame,1,45.0,other,Cambridgeport,high,True
+Fa_00545,2024-08-11,Fall_2024,cleaning_set,1,39.99,other,Brighton,high,True
+Fa_00546,2024-09-14,Fall_2024,desk,1,79.0,xiaohongshu_wechat,Revere,low,True
+Fa_00547,2024-08-21,Fall_2024,bed_frame,1,30.0,xiaohongshu_wechat,Brighton,high,True
+Fa_00548,2024-10-28,Fall_2024,mattress,1,210.0,xiaohongshu_wechat,Brookline,medium,False
+Fa_00549,2024-10-19,Fall_2024,chair,1,69.0,other,Malden,medium,False
+Fa_00550,2024-10-05,Fall_2024,cleaning_set,2,79.98,website,East Boston,medium,True
+Fa_00551,2024-08-04,Fall_2024,cleaning_set,2,79.98,other,Brighton,high,True
+Fa_00552,2024-08-17,Fall_2024,bed_frame,1,30.0,website,Watertown,medium,True
+Fa_00553,2024-09-11,Fall_2024,mattress,3,570.0,website,East Boston,medium,False
+Fa_00554,2024-10-14,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,Mission Hill,high,True
+Fa_00555,2024-10-03,Fall_2024,mattress,1,210.0,website,Medford,medium,True
+Fa_00556,2024-09-12,Fall_2024,mattress,1,210.0,other,Malden,medium,False
+Fa_00557,2024-09-09,Fall_2024,chair,2,138.0,website,Malden,medium,True
+Fa_00558,2024-10-14,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,Malden,medium,True
+Fa_00559,2024-09-22,Fall_2024,chair,1,69.0,xiaohongshu_wechat,Mission Hill,high,False
+Fa_00560,2024-08-11,Fall_2024,desk,1,79.0,xiaohongshu_wechat,East Boston,medium,False
+Fa_00561,2024-08-23,Fall_2024,bed_frame,1,30.0,xiaohongshu_wechat,Mission Hill,high,True
+Fa_00562,2024-08-02,Fall_2024,mattress,1,210.0,xiaohongshu_wechat,East Boston,medium,True
+Fa_00563,2024-10-06,Fall_2024,bed_frame,2,120.0,xiaohongshu_wechat,Mission Hill,high,False
+Fa_00564,2024-09-16,Fall_2024,cleaning_set,2,79.98,xiaohongshu_wechat,Cambridgeport,high,False
+Fa_00565,2024-09-29,Fall_2024,cleaning_set,2,79.98,xiaohongshu_wechat,Fenway,high,True
+Fa_00566,2024-10-01,Fall_2024,mattress,2,380.0,xiaohongshu_wechat,Medford,medium,True
+Fa_00567,2024-10-02,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,East Boston,medium,True
+Fa_00568,2024-08-08,Fall_2024,kitchen_set,2,79.98,xiaohongshu_wechat,Cambridgeport,high,False
+Fa_00569,2024-10-18,Fall_2024,mattress,2,380.0,other,Somerville,medium,False
+Fa_00570,2024-10-04,Fall_2024,desk,1,79.0,xiaohongshu_wechat,Brookline,medium,True
+Fa_00571,2024-09-09,Fall_2024,desk,3,237.0,website,Jamaica Plain,medium,True
+Fa_00572,2024-10-19,Fall_2024,chair,1,69.0,website,East Boston,medium,True
+Fa_00573,2024-09-29,Fall_2024,chair,3,207.0,xiaohongshu_wechat,Medford,medium,True
+Fa_00574,2024-10-21,Fall_2024,mattress,1,210.0,xiaohongshu_wechat,Brookline,medium,True
+Fa_00575,2024-09-06,Fall_2024,cleaning_set,2,79.98,website,Cambridgeport,high,False
+Fa_00576,2024-10-09,Fall_2024,mattress,2,420.0,xiaohongshu_wechat,Dorchester,medium,False
+Fa_00577,2024-09-29,Fall_2024,mattress,1,190.0,xiaohongshu_wechat,Allston,high,True
+Fa_00578,2024-08-18,Fall_2024,kitchen_set,2,79.98,website,Mission Hill,high,False
+Fa_00579,2024-09-04,Fall_2024,desk,1,79.0,website,Mission Hill,high,False
+Fa_00580,2024-08-25,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,Cambridgeport,high,False
+Fa_00581,2024-10-02,Fall_2024,chair,1,69.0,xiaohongshu_wechat,Medford,medium,True
+Fa_00582,2024-10-05,Fall_2024,mattress,1,190.0,xiaohongshu_wechat,Mission Hill,high,True
+Fa_00583,2024-09-20,Fall_2024,mattress,2,380.0,xiaohongshu_wechat,Allston,high,True
+Fa_00584,2024-08-10,Fall_2024,desk,1,79.0,website,Brighton,high,True
+Fa_00585,2024-09-18,Fall_2024,chair,1,69.0,website,Cambridgeport,high,True
+Fa_00586,2024-09-19,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,Malden,medium,True
+Fa_00587,2024-08-15,Fall_2024,desk,3,237.0,website,Brighton,high,True
+Fa_00588,2024-08-26,Fall_2024,mattress,1,210.0,xiaohongshu_wechat,Brookline,medium,True
+Fa_00589,2024-08-04,Fall_2024,kitchen_set,3,119.97,xiaohongshu_wechat,Somerville,medium,True
+Fa_00590,2024-09-10,Fall_2024,mattress,2,380.0,other,Fenway,high,True
+Fa_00591,2024-09-23,Fall_2024,bed_frame,1,60.0,xiaohongshu_wechat,Medford,medium,True
+Fa_00592,2024-09-19,Fall_2024,mattress,2,420.0,xiaohongshu_wechat,Watertown,medium,True
+Fa_00593,2024-10-12,Fall_2024,desk,1,79.0,website,Watertown,medium,True
+Fa_00594,2024-10-26,Fall_2024,cleaning_set,2,79.98,xiaohongshu_wechat,Fenway,high,False
+Fa_00595,2024-10-20,Fall_2024,kitchen_set,3,119.97,xiaohongshu_wechat,Fenway,high,True
+Fa_00596,2024-09-30,Fall_2024,mattress,2,420.0,xiaohongshu_wechat,Dorchester,medium,True
+Fa_00597,2024-10-13,Fall_2024,chair,2,138.0,xiaohongshu_wechat,Brighton,high,True
+Fa_00598,2024-09-12,Fall_2024,chair,1,69.0,website,Allston,high,True
+Fa_00599,2024-09-11,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,Brighton,high,True
+Fa_00600,2024-08-10,Fall_2024,bed_frame,1,60.0,website,East Boston,medium,True
+Fa_00601,2024-10-31,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,East Boston,medium,True
+Fa_00602,2024-10-05,Fall_2024,kitchen_set,3,119.97,xiaohongshu_wechat,Cambridgeport,high,False
+Fa_00603,2024-09-22,Fall_2024,desk,1,79.0,website,Brighton,high,True
+Fa_00604,2024-10-01,Fall_2024,bed_frame,1,60.0,xiaohongshu_wechat,Fenway,high,False
+Fa_00605,2024-08-15,Fall_2024,bed_frame,1,60.0,xiaohongshu_wechat,Revere,low,False
+Fa_00606,2024-08-02,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,Mission Hill,high,True
+Fa_00607,2024-08-15,Fall_2024,desk,1,79.0,other,Fenway,high,True
+Fa_00608,2024-10-16,Fall_2024,desk,1,79.0,xiaohongshu_wechat,Fenway,high,True
+Fa_00609,2024-09-29,Fall_2024,cleaning_set,2,79.98,website,East Boston,medium,False
+Fa_00610,2024-09-21,Fall_2024,mattress,1,190.0,xiaohongshu_wechat,Cambridgeport,high,False
+Fa_00611,2024-08-06,Fall_2024,desk,2,158.0,other,Jamaica Plain,medium,True
+Fa_00612,2024-10-08,Fall_2024,cleaning_set,1,39.99,website,Brighton,high,False
+Fa_00613,2024-09-30,Fall_2024,bed_frame,2,120.0,website,Cambridgeport,high,True
+Fa_00614,2024-09-22,Fall_2024,kitchen_set,1,39.99,other,Brookline,medium,True
+Fa_00615,2024-08-17,Fall_2024,cleaning_set,1,39.99,website,Brighton,high,True
+Fa_00616,2024-08-18,Fall_2024,cleaning_set,2,79.98,xiaohongshu_wechat,Cambridgeport,high,False
+Fa_00617,2024-09-24,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,Fenway,high,False
+Fa_00618,2024-10-14,Fall_2024,chair,1,69.0,xiaohongshu_wechat,Allston,high,True
+Fa_00619,2024-08-24,Fall_2024,chair,1,69.0,xiaohongshu_wechat,Jamaica Plain,medium,True
+Fa_00620,2024-08-13,Fall_2024,kitchen_set,2,79.98,website,Revere,low,False
+Fa_00621,2024-08-17,Fall_2024,mattress,1,190.0,xiaohongshu_wechat,Allston,high,True
+Fa_00622,2024-10-13,Fall_2024,chair,2,138.0,xiaohongshu_wechat,Medford,medium,False
+Fa_00623,2024-10-11,Fall_2024,mattress,1,190.0,website,Brighton,high,True
+Fa_00624,2024-10-22,Fall_2024,kitchen_set,1,39.99,website,Brookline,medium,True
+Fa_00625,2024-08-15,Fall_2024,mattress,2,380.0,xiaohongshu_wechat,East Boston,medium,True
+Fa_00626,2024-10-28,Fall_2024,mattress,1,210.0,xiaohongshu_wechat,Mission Hill,high,True
+Fa_00627,2024-09-18,Fall_2024,cleaning_set,3,119.97,xiaohongshu_wechat,Jamaica Plain,medium,True
+Fa_00628,2024-09-19,Fall_2024,kitchen_set,1,39.99,website,Watertown,medium,True
+Fa_00629,2024-08-07,Fall_2024,mattress,3,630.0,xiaohongshu_wechat,Allston,high,True
+Fa_00630,2024-10-04,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,Brighton,high,True
+Fa_00631,2024-10-26,Fall_2024,kitchen_set,1,39.99,website,Somerville,medium,True
+Fa_00632,2024-10-26,Fall_2024,desk,1,79.0,xiaohongshu_wechat,Allston,high,False
+Fa_00633,2024-09-20,Fall_2024,bed_frame,2,120.0,xiaohongshu_wechat,Allston,high,True
+Fa_00634,2024-08-21,Fall_2024,cleaning_set,3,119.97,xiaohongshu_wechat,Fenway,high,True
+Fa_00635,2024-08-16,Fall_2024,desk,3,237.0,xiaohongshu_wechat,Cambridgeport,high,False
+Fa_00636,2024-08-02,Fall_2024,mattress,1,190.0,website,Mission Hill,high,False
+Fa_00637,2024-09-11,Fall_2024,chair,1,69.0,xiaohongshu_wechat,Mission Hill,high,True
+Fa_00638,2024-09-04,Fall_2024,desk,1,79.0,xiaohongshu_wechat,Allston,high,True
+Fa_00639,2024-10-07,Fall_2024,bed_frame,2,60.0,other,Fenway,high,True
+Fa_00640,2024-09-27,Fall_2024,mattress,2,420.0,xiaohongshu_wechat,Quincy,low,True
+Fa_00641,2024-08-14,Fall_2024,mattress,2,420.0,xiaohongshu_wechat,Fenway,high,True
+Fa_00642,2024-09-02,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,Revere,low,True
+Fa_00643,2024-10-02,Fall_2024,bed_frame,1,30.0,xiaohongshu_wechat,Cambridgeport,high,True
+Fa_00644,2024-08-29,Fall_2024,bed_frame,2,120.0,xiaohongshu_wechat,Quincy,low,True
+Fa_00645,2024-09-02,Fall_2024,desk,1,79.0,xiaohongshu_wechat,Mission Hill,high,True
+Fa_00646,2024-09-05,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,Allston,high,True
+Fa_00647,2024-08-13,Fall_2024,kitchen_set,2,79.98,xiaohongshu_wechat,Mission Hill,high,False
+Fa_00648,2024-09-23,Fall_2024,mattress,2,380.0,xiaohongshu_wechat,Quincy,low,False
+Fa_00649,2024-08-20,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,Brighton,high,True
+Fa_00650,2024-08-08,Fall_2024,bed_frame,2,120.0,xiaohongshu_wechat,Cambridgeport,high,True
+Fa_00651,2024-08-13,Fall_2024,kitchen_set,3,119.97,xiaohongshu_wechat,Jamaica Plain,medium,True
+Fa_00652,2024-09-07,Fall_2024,chair,3,207.0,website,Quincy,low,False
+Fa_00653,2024-08-13,Fall_2024,mattress,2,380.0,other,Malden,medium,True
+Fa_00654,2024-10-24,Fall_2024,kitchen_set,2,79.98,xiaohongshu_wechat,Watertown,medium,True
+Fa_00655,2024-10-04,Fall_2024,desk,1,79.0,website,Allston,high,True
+Fa_00656,2024-08-16,Fall_2024,chair,2,138.0,xiaohongshu_wechat,Jamaica Plain,medium,True
+Fa_00657,2024-10-15,Fall_2024,bed_frame,2,90.0,website,Allston,high,False
+Fa_00658,2024-08-07,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,Brighton,high,True
+Fa_00659,2024-08-07,Fall_2024,desk,1,79.0,xiaohongshu_wechat,Allston,high,True
+Fa_00660,2024-10-24,Fall_2024,mattress,2,380.0,other,Allston,high,True
+Fa_00661,2024-09-07,Fall_2024,kitchen_set,2,79.98,xiaohongshu_wechat,Fenway,high,False
+Fa_00662,2024-10-03,Fall_2024,cleaning_set,1,39.99,other,Malden,medium,False
+Fa_00663,2024-09-19,Fall_2024,kitchen_set,1,39.99,website,Fenway,high,True
+Fa_00664,2024-09-03,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,Watertown,medium,True
+Fa_00665,2024-10-02,Fall_2024,kitchen_set,2,79.98,other,Brookline,medium,False
+Fa_00666,2024-10-19,Fall_2024,desk,1,79.0,website,Jamaica Plain,medium,True
+Fa_00667,2024-10-22,Fall_2024,mattress,1,210.0,xiaohongshu_wechat,Somerville,medium,True
+Fa_00668,2024-08-29,Fall_2024,kitchen_set,1,39.99,other,Brighton,high,True
+Fa_00669,2024-09-04,Fall_2024,cleaning_set,2,79.98,website,Cambridgeport,high,True
+Fa_00670,2024-09-24,Fall_2024,bed_frame,1,45.0,website,East Boston,medium,False
+Fa_00671,2024-10-30,Fall_2024,desk,2,158.0,xiaohongshu_wechat,Allston,high,False
+Fa_00672,2024-10-25,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,Brookline,medium,True
+Fa_00673,2024-09-11,Fall_2024,mattress,2,420.0,xiaohongshu_wechat,Watertown,medium,True
+Fa_00674,2024-09-12,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,Brighton,high,False
+Fa_00675,2024-10-12,Fall_2024,desk,2,158.0,website,Fenway,high,False
+Fa_00676,2024-10-05,Fall_2024,desk,2,158.0,other,Mission Hill,high,True
+Fa_00677,2024-09-06,Fall_2024,desk,2,158.0,other,Brighton,high,False
+Fa_00678,2024-10-17,Fall_2024,chair,3,207.0,xiaohongshu_wechat,Allston,high,True
+Fa_00679,2024-08-13,Fall_2024,desk,1,79.0,other,Quincy,low,True
+Fa_00680,2024-09-02,Fall_2024,cleaning_set,2,79.98,xiaohongshu_wechat,Brookline,medium,True
+Fa_00681,2024-08-01,Fall_2024,mattress,1,190.0,website,Allston,high,True
+Fa_00682,2024-09-22,Fall_2024,chair,1,69.0,xiaohongshu_wechat,Cambridgeport,high,True
+Fa_00683,2024-08-07,Fall_2024,desk,1,79.0,xiaohongshu_wechat,Cambridgeport,high,True
+Fa_00684,2024-10-22,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,Fenway,high,True
+Fa_00685,2024-10-06,Fall_2024,desk,1,79.0,other,Brighton,high,True
+Fa_00686,2024-09-18,Fall_2024,chair,3,207.0,website,Revere,low,True
+Fa_00687,2024-08-17,Fall_2024,desk,2,158.0,website,Malden,medium,True
+Fa_00688,2024-08-02,Fall_2024,desk,1,79.0,xiaohongshu_wechat,Quincy,low,True
+Fa_00689,2024-09-09,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,Dorchester,medium,True
+Fa_00690,2024-08-27,Fall_2024,kitchen_set,1,39.99,website,Brighton,high,True
+Fa_00691,2024-09-09,Fall_2024,kitchen_set,2,79.98,xiaohongshu_wechat,East Boston,medium,True
+Fa_00692,2024-08-13,Fall_2024,chair,1,69.0,xiaohongshu_wechat,Mission Hill,high,False
+Fa_00693,2024-09-08,Fall_2024,mattress,1,190.0,xiaohongshu_wechat,Allston,high,True
+Fa_00694,2024-10-07,Fall_2024,chair,1,69.0,website,Brookline,medium,False
+Fa_00695,2024-08-04,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,Mission Hill,high,False
+Fa_00696,2024-10-27,Fall_2024,chair,1,69.0,xiaohongshu_wechat,Mission Hill,high,True
+Fa_00697,2024-09-25,Fall_2024,chair,1,69.0,xiaohongshu_wechat,Watertown,medium,True
+Fa_00698,2024-08-23,Fall_2024,mattress,1,210.0,xiaohongshu_wechat,Allston,high,True
+Fa_00699,2024-10-27,Fall_2024,desk,2,158.0,xiaohongshu_wechat,Fenway,high,True
+Fa_00700,2024-08-18,Fall_2024,desk,1,79.0,xiaohongshu_wechat,Medford,medium,True
+Fa_00701,2024-08-29,Fall_2024,bed_frame,3,90.0,xiaohongshu_wechat,Jamaica Plain,medium,True
+Fa_00702,2024-10-28,Fall_2024,bed_frame,2,90.0,xiaohongshu_wechat,Fenway,high,True
+Fa_00703,2024-09-18,Fall_2024,mattress,3,630.0,xiaohongshu_wechat,Brighton,high,True
+Fa_00704,2024-10-02,Fall_2024,chair,2,138.0,xiaohongshu_wechat,Malden,medium,True
+Fa_00705,2024-09-21,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,Dorchester,medium,False
+Fa_00706,2024-09-15,Fall_2024,desk,2,158.0,xiaohongshu_wechat,Brookline,medium,True
+Fa_00707,2024-10-12,Fall_2024,desk,1,79.0,other,Brighton,high,False
+Fa_00708,2024-08-07,Fall_2024,mattress,2,420.0,xiaohongshu_wechat,Cambridgeport,high,True
+Fa_00709,2024-10-07,Fall_2024,desk,3,237.0,xiaohongshu_wechat,Fenway,high,False
+Fa_00710,2024-09-01,Fall_2024,cleaning_set,2,79.98,xiaohongshu_wechat,Malden,medium,True
+Fa_00711,2024-08-17,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,Cambridgeport,high,False
+Fa_00712,2024-09-22,Fall_2024,chair,1,69.0,xiaohongshu_wechat,Brighton,high,True
+Fa_00713,2024-08-30,Fall_2024,chair,2,138.0,xiaohongshu_wechat,Allston,high,True
+Fa_00714,2024-08-09,Fall_2024,mattress,1,190.0,xiaohongshu_wechat,Fenway,high,True
+Fa_00715,2024-09-18,Fall_2024,kitchen_set,2,79.98,xiaohongshu_wechat,East Boston,medium,False
+Fa_00716,2024-09-26,Fall_2024,desk,3,237.0,xiaohongshu_wechat,Cambridgeport,high,True
+Fa_00717,2024-08-29,Fall_2024,mattress,2,380.0,xiaohongshu_wechat,Watertown,medium,False
+Fa_00718,2024-08-03,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,Brookline,medium,False
+Fa_00719,2024-10-01,Fall_2024,mattress,2,380.0,xiaohongshu_wechat,Cambridgeport,high,False
+Fa_00720,2024-08-18,Fall_2024,bed_frame,1,30.0,xiaohongshu_wechat,Fenway,high,True
+Fa_00721,2024-10-22,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,Allston,high,False
+Fa_00722,2024-08-29,Fall_2024,mattress,1,190.0,other,Dorchester,medium,False
+Fa_00723,2024-08-07,Fall_2024,chair,1,69.0,xiaohongshu_wechat,Brighton,high,False
+Fa_00724,2024-10-25,Fall_2024,mattress,2,420.0,website,Allston,high,True
+Fa_00725,2024-08-24,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,Fenway,high,False
+Fa_00726,2024-09-04,Fall_2024,mattress,3,570.0,xiaohongshu_wechat,Dorchester,medium,False
+Fa_00727,2024-08-18,Fall_2024,chair,3,207.0,xiaohongshu_wechat,Cambridgeport,high,True
+Fa_00728,2024-08-30,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,Brookline,medium,True
+Fa_00729,2024-09-19,Fall_2024,chair,2,138.0,xiaohongshu_wechat,Mission Hill,high,True
+Fa_00730,2024-09-10,Fall_2024,chair,2,138.0,xiaohongshu_wechat,Cambridgeport,high,False
+Fa_00731,2024-08-20,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,Brighton,high,True
+Fa_00732,2024-08-14,Fall_2024,chair,1,69.0,other,Fenway,high,True
+Fa_00733,2024-10-08,Fall_2024,kitchen_set,2,79.98,other,Dorchester,medium,True
+Fa_00734,2024-10-31,Fall_2024,chair,2,138.0,website,Allston,high,True
+Fa_00735,2024-08-27,Fall_2024,kitchen_set,3,119.97,website,Cambridgeport,high,True
+Fa_00736,2024-09-07,Fall_2024,mattress,1,190.0,xiaohongshu_wechat,Mission Hill,high,True
+Fa_00737,2024-10-13,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,Mission Hill,high,False
+Fa_00738,2024-08-06,Fall_2024,chair,3,207.0,xiaohongshu_wechat,Malden,medium,False
+Fa_00739,2024-08-11,Fall_2024,chair,2,138.0,xiaohongshu_wechat,East Boston,medium,True
+Fa_00740,2024-09-01,Fall_2024,cleaning_set,1,39.99,website,Revere,low,False
+Fa_00741,2024-08-06,Fall_2024,mattress,1,190.0,other,Fenway,high,False
+Fa_00742,2024-09-23,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,Somerville,medium,True
+Fa_00743,2024-09-12,Fall_2024,bed_frame,1,30.0,website,Allston,high,True
+Fa_00744,2024-09-11,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,Jamaica Plain,medium,True
+Fa_00745,2024-10-27,Fall_2024,bed_frame,2,60.0,xiaohongshu_wechat,Brighton,high,True
+Fa_00746,2024-10-25,Fall_2024,mattress,1,210.0,xiaohongshu_wechat,Cambridgeport,high,True
+Fa_00747,2024-09-04,Fall_2024,desk,2,158.0,xiaohongshu_wechat,Fenway,high,False
+Fa_00748,2024-08-11,Fall_2024,mattress,1,190.0,xiaohongshu_wechat,Mission Hill,high,True
+Fa_00749,2024-08-15,Fall_2024,cleaning_set,2,79.98,xiaohongshu_wechat,Fenway,high,True
+Fa_00750,2024-08-13,Fall_2024,chair,1,69.0,xiaohongshu_wechat,Cambridgeport,high,True
+Fa_00751,2024-08-14,Fall_2024,chair,1,69.0,website,Fenway,high,True
+Fa_00752,2024-09-07,Fall_2024,kitchen_set,2,79.98,website,Medford,medium,False
+Fa_00753,2024-08-02,Fall_2024,kitchen_set,2,79.98,other,Mission Hill,high,False
+Fa_00754,2024-10-14,Fall_2024,chair,1,69.0,xiaohongshu_wechat,Medford,medium,False
+Fa_00755,2024-10-27,Fall_2024,desk,1,79.0,other,Medford,medium,False
+Fa_00756,2024-08-31,Fall_2024,desk,2,158.0,xiaohongshu_wechat,Cambridgeport,high,True
+Fa_00757,2024-09-28,Fall_2024,kitchen_set,3,119.97,xiaohongshu_wechat,Brighton,high,True
+Fa_00758,2024-08-17,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,Medford,medium,False
+Fa_00759,2024-09-07,Fall_2024,mattress,1,210.0,xiaohongshu_wechat,East Boston,medium,False
+Fa_00760,2024-09-07,Fall_2024,mattress,3,570.0,xiaohongshu_wechat,Mission Hill,high,False
+Fa_00761,2024-09-19,Fall_2024,cleaning_set,2,79.98,website,Cambridgeport,high,True
+Fa_00762,2024-08-20,Fall_2024,cleaning_set,2,79.98,xiaohongshu_wechat,East Boston,medium,True
+Fa_00763,2024-08-25,Fall_2024,chair,1,69.0,xiaohongshu_wechat,Allston,high,False
+Fa_00764,2024-10-04,Fall_2024,chair,1,69.0,xiaohongshu_wechat,Allston,high,True
+Fa_00765,2024-10-04,Fall_2024,bed_frame,3,180.0,xiaohongshu_wechat,Medford,medium,True
+Fa_00766,2024-10-18,Fall_2024,cleaning_set,2,79.98,other,Watertown,medium,False
+Fa_00767,2024-10-26,Fall_2024,mattress,1,190.0,xiaohongshu_wechat,Brighton,high,True
+Fa_00768,2024-09-09,Fall_2024,bed_frame,2,120.0,xiaohongshu_wechat,Mission Hill,high,False
+Fa_00769,2024-10-27,Fall_2024,mattress,1,190.0,xiaohongshu_wechat,Cambridgeport,high,False
+Fa_00770,2024-10-04,Fall_2024,mattress,1,210.0,website,Allston,high,True
+Fa_00771,2024-10-04,Fall_2024,bed_frame,2,90.0,xiaohongshu_wechat,Revere,low,True
+Fa_00772,2024-09-26,Fall_2024,cleaning_set,2,79.98,website,Allston,high,True
+Fa_00773,2024-08-21,Fall_2024,chair,2,138.0,website,Fenway,high,True
+Fa_00774,2024-10-28,Fall_2024,kitchen_set,1,39.99,website,Quincy,low,True
+Fa_00775,2024-09-20,Fall_2024,kitchen_set,1,39.99,website,Allston,high,False
+Fa_00776,2024-09-06,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,Jamaica Plain,medium,True
+Fa_00777,2024-10-25,Fall_2024,chair,1,69.0,xiaohongshu_wechat,Revere,low,True
+Fa_00778,2024-10-18,Fall_2024,bed_frame,1,45.0,xiaohongshu_wechat,Fenway,high,False
+Fa_00779,2024-10-13,Fall_2024,mattress,3,630.0,xiaohongshu_wechat,Mission Hill,high,False
+Fa_00780,2024-08-30,Fall_2024,cleaning_set,1,39.99,other,Cambridgeport,high,True
+Fa_00781,2024-10-02,Fall_2024,bed_frame,1,45.0,xiaohongshu_wechat,Medford,medium,True
+Fa_00782,2024-10-04,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,Brighton,high,True
+Fa_00783,2024-08-11,Fall_2024,kitchen_set,2,79.98,other,Mission Hill,high,True
+Fa_00784,2024-09-10,Fall_2024,desk,1,79.0,website,Quincy,low,True
+Fa_00785,2024-10-09,Fall_2024,kitchen_set,3,119.97,xiaohongshu_wechat,Mission Hill,high,True
+Fa_00786,2024-09-21,Fall_2024,chair,2,138.0,website,Mission Hill,high,True
+Fa_00787,2024-08-03,Fall_2024,chair,1,69.0,xiaohongshu_wechat,Fenway,high,False
+Fa_00788,2024-10-09,Fall_2024,bed_frame,1,30.0,xiaohongshu_wechat,Brighton,high,True
+Fa_00789,2024-09-26,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,Watertown,medium,False
+Fa_00790,2024-09-22,Fall_2024,mattress,3,570.0,xiaohongshu_wechat,Cambridgeport,high,True
+Fa_00791,2024-08-04,Fall_2024,mattress,1,190.0,website,Cambridgeport,high,False
+Fa_00792,2024-08-23,Fall_2024,mattress,1,210.0,xiaohongshu_wechat,Mission Hill,high,True
+Fa_00793,2024-10-31,Fall_2024,bed_frame,1,45.0,website,Revere,low,True
+Fa_00794,2024-10-29,Fall_2024,desk,2,158.0,website,Allston,high,True
+Fa_00795,2024-10-09,Fall_2024,desk,1,79.0,xiaohongshu_wechat,Dorchester,medium,False
+Fa_00796,2024-09-16,Fall_2024,cleaning_set,3,119.97,xiaohongshu_wechat,Fenway,high,True
+Fa_00797,2024-08-03,Fall_2024,mattress,3,630.0,website,Jamaica Plain,medium,True
+Fa_00798,2024-10-07,Fall_2024,bed_frame,2,90.0,xiaohongshu_wechat,Allston,high,True
+Fa_00799,2024-10-03,Fall_2024,mattress,2,380.0,other,Somerville,medium,True
+Fa_00800,2024-09-22,Fall_2024,mattress,1,210.0,xiaohongshu_wechat,Somerville,medium,True
+Fa_00801,2024-09-18,Fall_2024,desk,1,79.0,website,Allston,high,True
+Fa_00802,2024-08-24,Fall_2024,bed_frame,2,120.0,xiaohongshu_wechat,Fenway,high,True
+Fa_00803,2024-08-23,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,Somerville,medium,False
+Fa_00804,2024-10-09,Fall_2024,desk,2,158.0,xiaohongshu_wechat,Cambridgeport,high,True
+Fa_00805,2024-08-11,Fall_2024,bed_frame,1,45.0,xiaohongshu_wechat,Mission Hill,high,True
+Fa_00806,2024-09-27,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,Dorchester,medium,True
+Fa_00807,2024-08-02,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,Cambridgeport,high,True
+Fa_00808,2024-08-15,Fall_2024,mattress,3,630.0,xiaohongshu_wechat,Fenway,high,True
+Fa_00809,2024-09-23,Fall_2024,cleaning_set,2,79.98,other,Fenway,high,False
+Fa_00810,2024-09-15,Fall_2024,bed_frame,3,90.0,other,Brighton,high,True
+Fa_00811,2024-08-31,Fall_2024,cleaning_set,2,79.98,other,Fenway,high,False
+Fa_00812,2024-10-21,Fall_2024,cleaning_set,1,39.99,other,Revere,low,True
+Fa_00813,2024-09-11,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,Brighton,high,False
+Fa_00814,2024-10-14,Fall_2024,bed_frame,1,60.0,website,Allston,high,True
+Fa_00815,2024-08-21,Fall_2024,cleaning_set,2,79.98,xiaohongshu_wechat,Revere,low,True
+Fa_00816,2024-08-29,Fall_2024,kitchen_set,2,79.98,other,Malden,medium,True
+Fa_00817,2024-09-09,Fall_2024,cleaning_set,2,79.98,xiaohongshu_wechat,Fenway,high,False
+Fa_00818,2024-08-29,Fall_2024,cleaning_set,1,39.99,other,Allston,high,False
+Fa_00819,2024-08-01,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,Medford,medium,True
+Fa_00820,2024-08-30,Fall_2024,chair,1,69.0,xiaohongshu_wechat,Fenway,high,False
+Fa_00821,2024-09-11,Fall_2024,cleaning_set,2,79.98,xiaohongshu_wechat,Brighton,high,False
+Fa_00822,2024-09-12,Fall_2024,bed_frame,1,45.0,xiaohongshu_wechat,Jamaica Plain,medium,True
+Fa_00823,2024-09-15,Fall_2024,chair,3,207.0,xiaohongshu_wechat,Malden,medium,True
+Fa_00824,2024-08-01,Fall_2024,bed_frame,1,30.0,xiaohongshu_wechat,Cambridgeport,high,True
+Fa_00825,2024-10-02,Fall_2024,bed_frame,2,90.0,xiaohongshu_wechat,Fenway,high,True
+Fa_00826,2024-08-11,Fall_2024,mattress,2,420.0,website,Brighton,high,False
+Fa_00827,2024-09-30,Fall_2024,kitchen_set,2,79.98,website,Mission Hill,high,True
+Fa_00828,2024-10-29,Fall_2024,mattress,2,380.0,other,Mission Hill,high,False
+Fa_00829,2024-08-15,Fall_2024,chair,2,138.0,xiaohongshu_wechat,Somerville,medium,True
+Fa_00830,2024-09-14,Fall_2024,cleaning_set,2,79.98,xiaohongshu_wechat,Fenway,high,False
+Fa_00831,2024-09-13,Fall_2024,mattress,1,210.0,other,Fenway,high,False
+Fa_00832,2024-10-17,Fall_2024,cleaning_set,1,39.99,website,Watertown,medium,True
+Fa_00833,2024-09-06,Fall_2024,cleaning_set,1,39.99,other,Brighton,high,True
+Fa_00834,2024-08-04,Fall_2024,chair,1,69.0,website,Revere,low,True
+Fa_00835,2024-10-22,Fall_2024,mattress,2,380.0,other,Fenway,high,False
+Fa_00836,2024-09-13,Fall_2024,cleaning_set,1,39.99,other,Allston,high,True
+Fa_00837,2024-08-24,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,Medford,medium,True
+Fa_00838,2024-09-17,Fall_2024,bed_frame,1,45.0,website,Fenway,high,True
+Fa_00839,2024-10-25,Fall_2024,mattress,3,570.0,xiaohongshu_wechat,Brighton,high,True
+Fa_00840,2024-09-26,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,Mission Hill,high,False
+Fa_00841,2024-08-11,Fall_2024,bed_frame,2,60.0,xiaohongshu_wechat,Mission Hill,high,True
+Fa_00842,2024-08-17,Fall_2024,kitchen_set,2,79.98,xiaohongshu_wechat,Cambridgeport,high,True
+Fa_00843,2024-10-17,Fall_2024,kitchen_set,2,79.98,other,Fenway,high,True
+Fa_00844,2024-09-11,Fall_2024,mattress,1,210.0,xiaohongshu_wechat,Brighton,high,True
+Fa_00845,2024-10-12,Fall_2024,cleaning_set,1,39.99,other,Somerville,medium,True
+Fa_00846,2024-10-16,Fall_2024,desk,1,79.0,website,Allston,high,True
+Fa_00847,2024-10-15,Fall_2024,chair,1,69.0,website,Fenway,high,True
+Fa_00848,2024-09-16,Fall_2024,kitchen_set,3,119.97,website,Malden,medium,True
+Fa_00849,2024-10-21,Fall_2024,kitchen_set,1,39.99,website,Mission Hill,high,False
+Fa_00850,2024-08-25,Fall_2024,desk,1,79.0,xiaohongshu_wechat,Watertown,medium,True
+Fa_00851,2024-10-02,Fall_2024,chair,1,69.0,xiaohongshu_wechat,East Boston,medium,True
+Fa_00852,2024-08-06,Fall_2024,cleaning_set,2,79.98,xiaohongshu_wechat,Allston,high,False
+Fa_00853,2024-10-26,Fall_2024,cleaning_set,3,119.97,xiaohongshu_wechat,Cambridgeport,high,True
+Fa_00854,2024-09-14,Fall_2024,bed_frame,1,60.0,other,Allston,high,False
+Fa_00855,2024-10-11,Fall_2024,bed_frame,1,60.0,xiaohongshu_wechat,Brighton,high,True
+Fa_00856,2024-10-04,Fall_2024,mattress,1,210.0,website,Revere,low,False
+Fa_00857,2024-09-07,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,Cambridgeport,high,True
+Fa_00858,2024-10-18,Fall_2024,desk,1,79.0,xiaohongshu_wechat,Medford,medium,True
+Fa_00859,2024-10-28,Fall_2024,mattress,1,190.0,xiaohongshu_wechat,Mission Hill,high,True
+Fa_00860,2024-10-18,Fall_2024,bed_frame,1,60.0,xiaohongshu_wechat,Cambridgeport,high,True
+Fa_00861,2024-10-09,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,Brighton,high,True
+Fa_00862,2024-08-23,Fall_2024,mattress,2,380.0,xiaohongshu_wechat,Brighton,high,True
+Fa_00863,2024-10-25,Fall_2024,desk,2,158.0,xiaohongshu_wechat,Cambridgeport,high,True
+Fa_00864,2024-08-10,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,Mission Hill,high,True
+Fa_00865,2024-10-21,Fall_2024,desk,1,79.0,xiaohongshu_wechat,Mission Hill,high,True
+Fa_00866,2024-08-29,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,Brighton,high,True
+Fa_00867,2024-09-21,Fall_2024,desk,1,79.0,xiaohongshu_wechat,Allston,high,True
+Fa_00868,2024-09-10,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,Cambridgeport,high,True
+Fa_00869,2024-09-01,Fall_2024,mattress,1,190.0,xiaohongshu_wechat,Malden,medium,True
+Fa_00870,2024-09-13,Fall_2024,kitchen_set,1,39.99,other,East Boston,medium,False
+Fa_00871,2024-10-31,Fall_2024,cleaning_set,1,39.99,website,Fenway,high,True
+Fa_00872,2024-09-29,Fall_2024,bed_frame,2,120.0,xiaohongshu_wechat,Fenway,high,True
+Fa_00873,2024-08-10,Fall_2024,kitchen_set,2,79.98,xiaohongshu_wechat,Jamaica Plain,medium,True
+Fa_00874,2024-09-13,Fall_2024,bed_frame,1,30.0,xiaohongshu_wechat,Fenway,high,True
+Fa_00875,2024-09-02,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,Cambridgeport,high,True
+Fa_00876,2024-08-31,Fall_2024,desk,1,79.0,xiaohongshu_wechat,Fenway,high,True
+Fa_00877,2024-08-14,Fall_2024,desk,1,79.0,other,Allston,high,True
+Fa_00878,2024-10-30,Fall_2024,kitchen_set,2,79.98,xiaohongshu_wechat,Allston,high,True
+Fa_00879,2024-10-03,Fall_2024,desk,2,158.0,other,Cambridgeport,high,False
+Fa_00880,2024-08-21,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,Cambridgeport,high,False
+Fa_00881,2024-09-22,Fall_2024,desk,1,79.0,xiaohongshu_wechat,Jamaica Plain,medium,True
+Fa_00882,2024-10-09,Fall_2024,chair,2,138.0,xiaohongshu_wechat,Dorchester,medium,False
+Fa_00883,2024-08-01,Fall_2024,cleaning_set,1,39.99,website,Medford,medium,True
+Fa_00884,2024-10-21,Fall_2024,bed_frame,2,60.0,xiaohongshu_wechat,Brookline,medium,True
+Fa_00885,2024-08-12,Fall_2024,mattress,1,190.0,xiaohongshu_wechat,Watertown,medium,False
+Fa_00886,2024-08-24,Fall_2024,bed_frame,1,30.0,website,Jamaica Plain,medium,True
+Fa_00887,2024-09-10,Fall_2024,kitchen_set,3,119.97,other,Fenway,high,True
+Fa_00888,2024-09-03,Fall_2024,chair,1,69.0,xiaohongshu_wechat,Mission Hill,high,True
+Fa_00889,2024-10-13,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,Allston,high,True
+Fa_00890,2024-10-23,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,Malden,medium,True
+Fa_00891,2024-09-20,Fall_2024,mattress,2,420.0,xiaohongshu_wechat,Jamaica Plain,medium,False
+Fa_00892,2024-09-07,Fall_2024,desk,2,158.0,website,Brighton,high,True
+Fa_00893,2024-09-26,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,Mission Hill,high,True
+Fa_00894,2024-08-17,Fall_2024,bed_frame,3,135.0,website,Fenway,high,True
+Fa_00895,2024-08-27,Fall_2024,mattress,1,190.0,xiaohongshu_wechat,Allston,high,True
+Fa_00896,2024-10-01,Fall_2024,desk,2,158.0,xiaohongshu_wechat,Medford,medium,True
+Fa_00897,2024-08-29,Fall_2024,bed_frame,1,45.0,xiaohongshu_wechat,Fenway,high,True
+Fa_00898,2024-10-25,Fall_2024,desk,1,79.0,other,Jamaica Plain,medium,False
+Fa_00899,2024-08-10,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,Malden,medium,True
+Fa_00900,2024-10-05,Fall_2024,bed_frame,1,45.0,xiaohongshu_wechat,Mission Hill,high,True
+Fa_00901,2024-08-17,Fall_2024,cleaning_set,2,79.98,other,Brighton,high,True
+Fa_00902,2024-08-30,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,Revere,low,False
+Fa_00903,2024-10-28,Fall_2024,chair,1,69.0,xiaohongshu_wechat,Brighton,high,True
+Fa_00904,2024-10-02,Fall_2024,cleaning_set,2,79.98,xiaohongshu_wechat,Mission Hill,high,False
+Fa_00905,2024-10-08,Fall_2024,cleaning_set,2,79.98,xiaohongshu_wechat,Allston,high,True
+Fa_00906,2024-09-15,Fall_2024,mattress,3,630.0,other,Fenway,high,True
+Fa_00907,2024-10-10,Fall_2024,mattress,1,210.0,xiaohongshu_wechat,Fenway,high,True
+Fa_00908,2024-08-20,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,Allston,high,True
+Fa_00909,2024-09-03,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,Somerville,medium,False
+Fa_00910,2024-08-21,Fall_2024,bed_frame,1,45.0,other,Brookline,medium,True
+Fa_00911,2024-10-13,Fall_2024,bed_frame,2,90.0,xiaohongshu_wechat,Cambridgeport,high,True
+Fa_00912,2024-10-21,Fall_2024,bed_frame,1,45.0,other,Brighton,high,True
+Fa_00913,2024-08-23,Fall_2024,chair,3,207.0,xiaohongshu_wechat,Quincy,low,False
+Fa_00914,2024-09-23,Fall_2024,cleaning_set,1,39.99,website,Brighton,high,False
+Fa_00915,2024-10-28,Fall_2024,chair,1,69.0,xiaohongshu_wechat,Medford,medium,False
+Fa_00916,2024-10-24,Fall_2024,kitchen_set,1,39.99,website,Cambridgeport,high,True
+Fa_00917,2024-08-27,Fall_2024,mattress,2,380.0,xiaohongshu_wechat,Allston,high,False
+Fa_00918,2024-08-13,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,Malden,medium,True
+Fa_00919,2024-09-20,Fall_2024,chair,3,207.0,xiaohongshu_wechat,Medford,medium,False
+Fa_00920,2024-10-26,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,Medford,medium,True
+Fa_00921,2024-08-11,Fall_2024,bed_frame,1,45.0,xiaohongshu_wechat,Allston,high,False
+Fa_00922,2024-08-07,Fall_2024,bed_frame,1,30.0,website,Mission Hill,high,True
+Fa_00923,2024-09-14,Fall_2024,mattress,1,190.0,website,Somerville,medium,True
+Fa_00924,2024-10-29,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,Mission Hill,high,True
+Fa_00925,2024-10-01,Fall_2024,cleaning_set,3,119.97,xiaohongshu_wechat,Allston,high,True
+Fa_00926,2024-10-06,Fall_2024,cleaning_set,2,79.98,other,Brookline,medium,True
+Fa_00927,2024-09-29,Fall_2024,bed_frame,2,120.0,other,Brighton,high,False
+Fa_00928,2024-10-12,Fall_2024,bed_frame,1,45.0,xiaohongshu_wechat,Dorchester,medium,True
+Fa_00929,2024-10-03,Fall_2024,bed_frame,2,60.0,xiaohongshu_wechat,Fenway,high,True
+Fa_00930,2024-09-17,Fall_2024,cleaning_set,1,39.99,other,Medford,medium,False
+Fa_00931,2024-08-06,Fall_2024,cleaning_set,2,79.98,xiaohongshu_wechat,Brighton,high,True
+Fa_00932,2024-08-07,Fall_2024,kitchen_set,1,39.99,website,Allston,high,True
+Fa_00933,2024-09-26,Fall_2024,desk,1,79.0,website,Brighton,high,True
+Fa_00934,2024-10-10,Fall_2024,kitchen_set,2,79.98,xiaohongshu_wechat,Brighton,high,False
+Fa_00935,2024-09-16,Fall_2024,mattress,2,380.0,other,Brookline,medium,True
+Fa_00936,2024-08-16,Fall_2024,desk,2,158.0,xiaohongshu_wechat,Mission Hill,high,True
+Fa_00937,2024-08-26,Fall_2024,cleaning_set,1,39.99,website,Jamaica Plain,medium,True
+Fa_00938,2024-10-04,Fall_2024,bed_frame,1,30.0,xiaohongshu_wechat,Fenway,high,True
+Fa_00939,2024-09-06,Fall_2024,mattress,2,380.0,xiaohongshu_wechat,Allston,high,False
+Fa_00940,2024-08-24,Fall_2024,kitchen_set,3,119.97,xiaohongshu_wechat,Dorchester,medium,True
+Fa_00941,2024-10-02,Fall_2024,chair,1,69.0,xiaohongshu_wechat,Fenway,high,False
+Fa_00942,2024-10-31,Fall_2024,mattress,2,420.0,xiaohongshu_wechat,Fenway,high,True
+Fa_00943,2024-08-31,Fall_2024,chair,2,138.0,xiaohongshu_wechat,Mission Hill,high,False
+Fa_00944,2024-09-27,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,Watertown,medium,False
+Fa_00945,2024-08-03,Fall_2024,chair,2,138.0,xiaohongshu_wechat,Mission Hill,high,True
+Fa_00946,2024-09-30,Fall_2024,chair,3,207.0,xiaohongshu_wechat,Mission Hill,high,True
+Fa_00947,2024-08-12,Fall_2024,bed_frame,1,30.0,xiaohongshu_wechat,Cambridgeport,high,True
+Fa_00948,2024-09-01,Fall_2024,mattress,1,190.0,other,Malden,medium,True
+Fa_00949,2024-08-17,Fall_2024,bed_frame,1,60.0,xiaohongshu_wechat,Dorchester,medium,True
+Fa_00950,2024-09-24,Fall_2024,desk,2,158.0,website,Cambridgeport,high,True
+Fa_00951,2024-09-25,Fall_2024,kitchen_set,2,79.98,other,Medford,medium,True
+Fa_00952,2024-10-13,Fall_2024,bed_frame,3,135.0,other,Mission Hill,high,True
+Fa_00953,2024-10-30,Fall_2024,desk,1,79.0,xiaohongshu_wechat,Fenway,high,True
+Fa_00954,2024-09-23,Fall_2024,mattress,2,380.0,xiaohongshu_wechat,Revere,low,False
+Fa_00955,2024-08-19,Fall_2024,bed_frame,2,60.0,xiaohongshu_wechat,Watertown,medium,False
+Fa_00956,2024-09-29,Fall_2024,cleaning_set,1,39.99,website,Allston,high,True
+Fa_00957,2024-10-28,Fall_2024,kitchen_set,1,39.99,website,Brighton,high,True
+Fa_00958,2024-10-19,Fall_2024,cleaning_set,2,79.98,xiaohongshu_wechat,Somerville,medium,False
+Fa_00959,2024-08-04,Fall_2024,bed_frame,1,45.0,xiaohongshu_wechat,Jamaica Plain,medium,True
+Fa_00960,2024-08-18,Fall_2024,kitchen_set,2,79.98,xiaohongshu_wechat,Brighton,high,False
+Fa_00961,2024-08-09,Fall_2024,desk,1,79.0,xiaohongshu_wechat,Fenway,high,True
+Fa_00962,2024-09-15,Fall_2024,bed_frame,1,30.0,other,Cambridgeport,high,True
+Fa_00963,2024-08-07,Fall_2024,kitchen_set,2,79.98,other,Allston,high,False
+Fa_00964,2024-09-02,Fall_2024,cleaning_set,2,79.98,website,Fenway,high,True
+Fa_00965,2024-09-21,Fall_2024,bed_frame,2,120.0,website,Cambridgeport,high,True
+Fa_00966,2024-09-27,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,Mission Hill,high,True
+Fa_00967,2024-09-01,Fall_2024,mattress,2,380.0,xiaohongshu_wechat,Mission Hill,high,True
+Fa_00968,2024-09-05,Fall_2024,bed_frame,1,45.0,xiaohongshu_wechat,Allston,high,True
+Fa_00969,2024-08-04,Fall_2024,bed_frame,2,60.0,website,Allston,high,False
+Fa_00970,2024-10-16,Fall_2024,desk,1,79.0,other,Malden,medium,True
+Fa_00971,2024-09-06,Fall_2024,chair,1,69.0,xiaohongshu_wechat,Allston,high,True
+Fa_00972,2024-10-13,Fall_2024,kitchen_set,1,39.99,other,Allston,high,False
+Fa_00973,2024-10-03,Fall_2024,desk,3,237.0,xiaohongshu_wechat,Cambridgeport,high,False
+Fa_00974,2024-09-11,Fall_2024,chair,3,207.0,xiaohongshu_wechat,Malden,medium,False
+Fa_00975,2024-09-28,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,Fenway,high,True
+Fa_00976,2024-08-16,Fall_2024,chair,1,69.0,xiaohongshu_wechat,Mission Hill,high,True
+Fa_00977,2024-08-26,Fall_2024,mattress,2,380.0,website,Somerville,medium,True
+Fa_00978,2024-10-10,Fall_2024,mattress,1,210.0,other,Brookline,medium,False
+Fa_00979,2024-10-30,Fall_2024,desk,3,237.0,xiaohongshu_wechat,Brighton,high,True
+Fa_00980,2024-10-25,Fall_2024,mattress,1,190.0,xiaohongshu_wechat,Mission Hill,high,True
+Fa_00981,2024-08-04,Fall_2024,cleaning_set,2,79.98,website,Mission Hill,high,True
+Fa_00982,2024-09-15,Fall_2024,desk,3,237.0,xiaohongshu_wechat,Allston,high,True
+Fa_00983,2024-08-14,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,Somerville,medium,True
+Fa_00984,2024-10-07,Fall_2024,chair,1,69.0,other,Cambridgeport,high,True
+Fa_00985,2024-08-03,Fall_2024,kitchen_set,2,79.98,website,Brighton,high,True
+Fa_00986,2024-08-19,Fall_2024,bed_frame,2,60.0,xiaohongshu_wechat,Watertown,medium,False
+Fa_00987,2024-08-10,Fall_2024,desk,2,158.0,xiaohongshu_wechat,Mission Hill,high,True
+Fa_00988,2024-08-12,Fall_2024,chair,1,69.0,xiaohongshu_wechat,Mission Hill,high,True
+Fa_00989,2024-09-30,Fall_2024,chair,2,138.0,xiaohongshu_wechat,Cambridgeport,high,False
+Fa_00990,2024-10-26,Fall_2024,bed_frame,2,90.0,xiaohongshu_wechat,Brookline,medium,True
+Fa_00991,2024-09-01,Fall_2024,bed_frame,2,120.0,xiaohongshu_wechat,Revere,low,True
+Fa_00992,2024-09-18,Fall_2024,chair,1,69.0,xiaohongshu_wechat,Brookline,medium,True
+Fa_00993,2024-10-23,Fall_2024,chair,2,138.0,other,Brighton,high,True
+Fa_00994,2024-09-23,Fall_2024,bed_frame,2,90.0,xiaohongshu_wechat,Cambridgeport,high,True
+Fa_00995,2024-10-24,Fall_2024,bed_frame,3,180.0,xiaohongshu_wechat,Brighton,high,True
+Fa_00996,2024-08-01,Fall_2024,mattress,2,420.0,xiaohongshu_wechat,Fenway,high,False
+Fa_00997,2024-08-16,Fall_2024,chair,2,138.0,xiaohongshu_wechat,Mission Hill,high,True
+Fa_00998,2024-10-30,Fall_2024,kitchen_set,2,79.98,xiaohongshu_wechat,Fenway,high,True
+Fa_00999,2024-08-11,Fall_2024,cleaning_set,1,39.99,other,Brighton,high,True
+Fa_01000,2024-09-08,Fall_2024,chair,2,138.0,xiaohongshu_wechat,Medford,medium,True
+Fa_01001,2024-10-05,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,Dorchester,medium,False
+Fa_01002,2024-09-07,Fall_2024,desk,1,79.0,xiaohongshu_wechat,Allston,high,True
+Fa_01003,2024-10-09,Fall_2024,mattress,2,420.0,xiaohongshu_wechat,Fenway,high,True
+Fa_01004,2024-08-08,Fall_2024,desk,1,79.0,xiaohongshu_wechat,Allston,high,True
+Fa_01005,2024-09-04,Fall_2024,mattress,1,190.0,xiaohongshu_wechat,Dorchester,medium,True
+Fa_01006,2024-09-10,Fall_2024,chair,1,69.0,xiaohongshu_wechat,East Boston,medium,False
+Fa_01007,2024-08-10,Fall_2024,cleaning_set,2,79.98,xiaohongshu_wechat,Brighton,high,True
+Fa_01008,2024-08-08,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,Jamaica Plain,medium,True
+Fa_01009,2024-10-26,Fall_2024,desk,1,79.0,xiaohongshu_wechat,Mission Hill,high,True
+Fa_01010,2024-08-30,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,East Boston,medium,False
+Fa_01011,2024-08-18,Fall_2024,chair,2,138.0,xiaohongshu_wechat,Allston,high,True
+Fa_01012,2024-10-20,Fall_2024,desk,1,79.0,other,Brookline,medium,False
+Fa_01013,2024-09-25,Fall_2024,mattress,1,210.0,other,Jamaica Plain,medium,True
+Fa_01014,2024-08-11,Fall_2024,kitchen_set,2,79.98,xiaohongshu_wechat,Cambridgeport,high,False
+Fa_01015,2024-08-10,Fall_2024,chair,1,69.0,other,Cambridgeport,high,True
+Fa_01016,2024-10-31,Fall_2024,chair,2,138.0,xiaohongshu_wechat,Quincy,low,True
+Fa_01017,2024-10-18,Fall_2024,bed_frame,3,180.0,other,Cambridgeport,high,True
+Fa_01018,2024-09-06,Fall_2024,bed_frame,2,90.0,xiaohongshu_wechat,Revere,low,True
+Fa_01019,2024-10-27,Fall_2024,mattress,1,210.0,xiaohongshu_wechat,Fenway,high,False
+Fa_01020,2024-09-14,Fall_2024,cleaning_set,2,79.98,xiaohongshu_wechat,Brighton,high,True
+Fa_01021,2024-09-08,Fall_2024,mattress,2,380.0,other,Fenway,high,True
+Fa_01022,2024-09-02,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,Allston,high,False
+Fa_01023,2024-10-01,Fall_2024,chair,1,69.0,other,Mission Hill,high,True
+Fa_01024,2024-10-20,Fall_2024,cleaning_set,2,79.98,other,Somerville,medium,False
+Fa_01025,2024-10-24,Fall_2024,bed_frame,1,30.0,xiaohongshu_wechat,Brighton,high,True
+Fa_01026,2024-08-30,Fall_2024,chair,2,138.0,website,Brighton,high,True
+Fa_01027,2024-08-23,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,Dorchester,medium,True
+Fa_01028,2024-08-10,Fall_2024,mattress,1,210.0,xiaohongshu_wechat,Brighton,high,False
+Fa_01029,2024-10-05,Fall_2024,desk,2,158.0,website,Fenway,high,False
+Fa_01030,2024-08-30,Fall_2024,desk,1,79.0,xiaohongshu_wechat,Mission Hill,high,True
+Fa_01031,2024-10-08,Fall_2024,chair,2,138.0,website,Allston,high,True
+Fa_01032,2024-09-20,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,Jamaica Plain,medium,True
+Fa_01033,2024-09-28,Fall_2024,cleaning_set,2,79.98,other,Revere,low,False
+Fa_01034,2024-10-05,Fall_2024,bed_frame,1,45.0,website,Mission Hill,high,True
+Fa_01035,2024-08-19,Fall_2024,mattress,1,210.0,xiaohongshu_wechat,Mission Hill,high,True
+Fa_01036,2024-10-31,Fall_2024,chair,3,207.0,website,Brighton,high,True
+Fa_01037,2024-08-27,Fall_2024,chair,1,69.0,xiaohongshu_wechat,Fenway,high,True
+Fa_01038,2024-08-24,Fall_2024,cleaning_set,3,119.97,xiaohongshu_wechat,Cambridgeport,high,False
+Fa_01039,2024-09-07,Fall_2024,chair,2,138.0,xiaohongshu_wechat,Brighton,high,True
+Fa_01040,2024-10-07,Fall_2024,kitchen_set,2,79.98,website,Medford,medium,True
+Fa_01041,2024-09-06,Fall_2024,mattress,3,570.0,website,Watertown,medium,True
+Fa_01042,2024-09-22,Fall_2024,chair,1,69.0,website,Allston,high,True
+Fa_01043,2024-10-23,Fall_2024,desk,1,79.0,xiaohongshu_wechat,Mission Hill,high,False
+Fa_01044,2024-09-27,Fall_2024,chair,1,69.0,xiaohongshu_wechat,Fenway,high,True
+Fa_01045,2024-09-13,Fall_2024,desk,1,79.0,website,Allston,high,False
+Fa_01046,2024-10-19,Fall_2024,desk,1,79.0,xiaohongshu_wechat,Cambridgeport,high,True
+Fa_01047,2024-09-08,Fall_2024,chair,2,138.0,xiaohongshu_wechat,Brighton,high,True
+Fa_01048,2024-10-18,Fall_2024,chair,1,69.0,xiaohongshu_wechat,Cambridgeport,high,False
+Fa_01049,2024-08-14,Fall_2024,bed_frame,3,90.0,other,Allston,high,True
+Fa_01050,2024-09-22,Fall_2024,chair,1,69.0,xiaohongshu_wechat,Cambridgeport,high,True
+Fa_01051,2024-08-26,Fall_2024,mattress,1,210.0,xiaohongshu_wechat,Fenway,high,True
+Fa_01052,2024-10-08,Fall_2024,mattress,1,190.0,website,Mission Hill,high,True
+Fa_01053,2024-10-24,Fall_2024,chair,2,138.0,other,Brighton,high,False
+Fa_01054,2024-09-09,Fall_2024,mattress,2,380.0,xiaohongshu_wechat,Jamaica Plain,medium,False
+Fa_01055,2024-09-14,Fall_2024,bed_frame,1,45.0,xiaohongshu_wechat,Mission Hill,high,False
+Fa_01056,2024-08-29,Fall_2024,mattress,1,190.0,xiaohongshu_wechat,Medford,medium,True
+Fa_01057,2024-08-28,Fall_2024,bed_frame,1,60.0,xiaohongshu_wechat,Brighton,high,False
+Fa_01058,2024-08-30,Fall_2024,chair,1,69.0,xiaohongshu_wechat,Mission Hill,high,True
+Fa_01059,2024-08-20,Fall_2024,chair,1,69.0,xiaohongshu_wechat,Dorchester,medium,True
+Fa_01060,2024-09-28,Fall_2024,bed_frame,1,60.0,xiaohongshu_wechat,Cambridgeport,high,True
+Fa_01061,2024-08-16,Fall_2024,chair,1,69.0,other,Jamaica Plain,medium,True
+Fa_01062,2024-09-20,Fall_2024,desk,1,79.0,website,Fenway,high,True
+Fa_01063,2024-09-30,Fall_2024,chair,1,69.0,xiaohongshu_wechat,Brighton,high,True
+Fa_01064,2024-10-07,Fall_2024,bed_frame,2,90.0,xiaohongshu_wechat,Medford,medium,True
+Fa_01065,2024-10-17,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,Medford,medium,True
+Fa_01066,2024-10-25,Fall_2024,chair,2,138.0,xiaohongshu_wechat,Fenway,high,True
+Fa_01067,2024-08-27,Fall_2024,mattress,1,190.0,xiaohongshu_wechat,Mission Hill,high,True
+Fa_01068,2024-09-26,Fall_2024,mattress,2,380.0,xiaohongshu_wechat,Cambridgeport,high,False
+Fa_01069,2024-10-13,Fall_2024,bed_frame,1,60.0,website,Cambridgeport,high,True
+Fa_01070,2024-08-22,Fall_2024,chair,2,138.0,xiaohongshu_wechat,Dorchester,medium,True
+Fa_01071,2024-10-18,Fall_2024,chair,2,138.0,xiaohongshu_wechat,Medford,medium,False
+Fa_01072,2024-08-26,Fall_2024,cleaning_set,2,79.98,xiaohongshu_wechat,Mission Hill,high,True
+Fa_01073,2024-09-15,Fall_2024,desk,1,79.0,other,Watertown,medium,True
+Fa_01074,2024-10-01,Fall_2024,desk,1,79.0,xiaohongshu_wechat,Quincy,low,False
+Fa_01075,2024-10-09,Fall_2024,desk,2,158.0,xiaohongshu_wechat,Watertown,medium,False
+Fa_01076,2024-10-08,Fall_2024,cleaning_set,2,79.98,xiaohongshu_wechat,Fenway,high,True
+Fa_01077,2024-08-09,Fall_2024,kitchen_set,2,79.98,xiaohongshu_wechat,Watertown,medium,True
+Fa_01078,2024-08-29,Fall_2024,chair,1,69.0,website,Revere,low,True
+Fa_01079,2024-08-03,Fall_2024,desk,2,158.0,xiaohongshu_wechat,Cambridgeport,high,True
+Fa_01080,2024-09-26,Fall_2024,bed_frame,3,90.0,xiaohongshu_wechat,Cambridgeport,high,False
+Fa_01081,2024-08-09,Fall_2024,desk,2,158.0,xiaohongshu_wechat,Allston,high,False
+Fa_01082,2024-08-06,Fall_2024,bed_frame,2,60.0,other,Cambridgeport,high,True
+Fa_01083,2024-09-19,Fall_2024,bed_frame,2,90.0,xiaohongshu_wechat,Allston,high,True
+Fa_01084,2024-10-10,Fall_2024,cleaning_set,1,39.99,other,Brighton,high,False
+Fa_01085,2024-10-27,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,Revere,low,True
+Fa_01086,2024-10-11,Fall_2024,desk,1,79.0,website,Fenway,high,False
+Fa_01087,2024-08-13,Fall_2024,mattress,1,190.0,website,Brookline,medium,True
+Fa_01088,2024-08-20,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,Fenway,high,True
+Fa_01089,2024-10-14,Fall_2024,chair,1,69.0,website,Dorchester,medium,True
+Fa_01090,2024-08-08,Fall_2024,bed_frame,2,60.0,xiaohongshu_wechat,East Boston,medium,True
+Fa_01091,2024-09-10,Fall_2024,bed_frame,1,45.0,xiaohongshu_wechat,Medford,medium,True
+Fa_01092,2024-09-25,Fall_2024,desk,1,79.0,website,East Boston,medium,True
+Fa_01093,2024-10-05,Fall_2024,desk,1,79.0,xiaohongshu_wechat,Mission Hill,high,True
+Fa_01094,2024-09-03,Fall_2024,bed_frame,1,45.0,xiaohongshu_wechat,Fenway,high,True
+Fa_01095,2024-08-12,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,Somerville,medium,True
+Fa_01096,2024-10-04,Fall_2024,mattress,2,380.0,xiaohongshu_wechat,Malden,medium,True
+Fa_01097,2024-09-16,Fall_2024,cleaning_set,2,79.98,xiaohongshu_wechat,Mission Hill,high,False
+Fa_01098,2024-10-12,Fall_2024,mattress,1,210.0,website,Malden,medium,True
+Fa_01099,2024-10-18,Fall_2024,bed_frame,2,60.0,xiaohongshu_wechat,Fenway,high,True
+Fa_01100,2024-08-03,Fall_2024,desk,1,79.0,website,Mission Hill,high,True
+Fa_01101,2024-09-05,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,Brighton,high,True
+Fa_01102,2024-10-08,Fall_2024,mattress,2,420.0,xiaohongshu_wechat,Fenway,high,True
+Fa_01103,2024-08-04,Fall_2024,desk,1,79.0,xiaohongshu_wechat,Brighton,high,True
+Fa_01104,2024-09-05,Fall_2024,mattress,2,420.0,other,Cambridgeport,high,True
+Fa_01105,2024-08-07,Fall_2024,mattress,2,380.0,website,Brighton,high,False
+Fa_01106,2024-09-19,Fall_2024,chair,1,69.0,other,Malden,medium,False
+Fa_01107,2024-10-22,Fall_2024,mattress,2,420.0,xiaohongshu_wechat,Brighton,high,True
+Fa_01108,2024-08-29,Fall_2024,bed_frame,1,60.0,xiaohongshu_wechat,Allston,high,True
+Fa_01109,2024-10-12,Fall_2024,chair,3,207.0,xiaohongshu_wechat,Mission Hill,high,True
+Fa_01110,2024-08-02,Fall_2024,cleaning_set,2,79.98,xiaohongshu_wechat,Allston,high,True
+Fa_01111,2024-10-27,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,Malden,medium,True
+Fa_01112,2024-10-16,Fall_2024,kitchen_set,1,39.99,other,East Boston,medium,True
+Fa_01113,2024-10-28,Fall_2024,cleaning_set,2,79.98,other,Cambridgeport,high,True
+Fa_01114,2024-10-26,Fall_2024,desk,2,158.0,xiaohongshu_wechat,Revere,low,True
+Fa_01115,2024-10-08,Fall_2024,mattress,1,190.0,xiaohongshu_wechat,Allston,high,False
+Fa_01116,2024-09-16,Fall_2024,bed_frame,1,60.0,website,Malden,medium,True
+Fa_01117,2024-10-07,Fall_2024,desk,1,79.0,xiaohongshu_wechat,Fenway,high,False
+Fa_01118,2024-10-01,Fall_2024,mattress,3,630.0,xiaohongshu_wechat,Fenway,high,True
+Fa_01119,2024-10-18,Fall_2024,chair,2,138.0,xiaohongshu_wechat,Malden,medium,False
+Fa_01120,2024-09-24,Fall_2024,chair,2,138.0,xiaohongshu_wechat,Allston,high,True
+Fa_01121,2024-10-20,Fall_2024,desk,3,237.0,xiaohongshu_wechat,Brighton,high,True
+Fa_01122,2024-09-06,Fall_2024,chair,3,207.0,xiaohongshu_wechat,Watertown,medium,False
+Fa_01123,2024-08-16,Fall_2024,bed_frame,3,135.0,xiaohongshu_wechat,Cambridgeport,high,False
+Fa_01124,2024-09-29,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,Mission Hill,high,False
+Fa_01125,2024-10-13,Fall_2024,kitchen_set,3,119.97,website,Fenway,high,True
+Fa_01126,2024-08-31,Fall_2024,chair,2,138.0,xiaohongshu_wechat,Revere,low,True
+Fa_01127,2024-09-12,Fall_2024,cleaning_set,2,79.98,xiaohongshu_wechat,Brookline,medium,True
+Fa_01128,2024-08-23,Fall_2024,kitchen_set,3,119.97,xiaohongshu_wechat,Cambridgeport,high,True
+Fa_01129,2024-10-06,Fall_2024,mattress,2,420.0,other,Dorchester,medium,True
+Fa_01130,2024-09-04,Fall_2024,bed_frame,2,90.0,xiaohongshu_wechat,Cambridgeport,high,True
+Fa_01131,2024-10-12,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,Mission Hill,high,True
+Fa_01132,2024-08-16,Fall_2024,cleaning_set,2,79.98,other,Medford,medium,True
+Fa_01133,2024-10-16,Fall_2024,chair,1,69.0,other,Fenway,high,True
+Fa_01134,2024-10-16,Fall_2024,chair,2,138.0,xiaohongshu_wechat,Jamaica Plain,medium,False
+Fa_01135,2024-10-16,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,Brighton,high,True
+Fa_01136,2024-08-11,Fall_2024,desk,1,79.0,xiaohongshu_wechat,Quincy,low,True
+Fa_01137,2024-10-26,Fall_2024,desk,1,79.0,xiaohongshu_wechat,Allston,high,False
+Fa_01138,2024-09-09,Fall_2024,desk,1,79.0,website,Brighton,high,True
+Fa_01139,2024-08-27,Fall_2024,desk,1,79.0,xiaohongshu_wechat,Quincy,low,False
+Fa_01140,2024-08-06,Fall_2024,kitchen_set,2,79.98,xiaohongshu_wechat,Mission Hill,high,True
+Fa_01141,2024-08-28,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,Watertown,medium,True
+Fa_01142,2024-09-13,Fall_2024,kitchen_set,2,79.98,xiaohongshu_wechat,Cambridgeport,high,True
+Fa_01143,2024-08-15,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,Brighton,high,True
+Fa_01144,2024-08-11,Fall_2024,desk,1,79.0,website,Fenway,high,True
+Fa_01145,2024-10-16,Fall_2024,cleaning_set,3,119.97,website,Fenway,high,False
+Fa_01146,2024-08-08,Fall_2024,chair,2,138.0,other,Jamaica Plain,medium,True
+Fa_01147,2024-08-14,Fall_2024,desk,1,79.0,website,Fenway,high,False
+Fa_01148,2024-10-30,Fall_2024,cleaning_set,2,79.98,xiaohongshu_wechat,Mission Hill,high,True
+Fa_01149,2024-10-08,Fall_2024,chair,1,69.0,xiaohongshu_wechat,Allston,high,True
+Fa_01150,2024-08-24,Fall_2024,chair,1,69.0,xiaohongshu_wechat,Malden,medium,False
+Fa_01151,2024-08-22,Fall_2024,kitchen_set,2,79.98,xiaohongshu_wechat,Revere,low,True
+Fa_01152,2024-10-14,Fall_2024,chair,3,207.0,website,Dorchester,medium,True
+Fa_01153,2024-08-03,Fall_2024,chair,2,138.0,website,Fenway,high,True
+Fa_01154,2024-09-07,Fall_2024,chair,2,138.0,xiaohongshu_wechat,Allston,high,True
+Fa_01155,2024-08-15,Fall_2024,mattress,1,210.0,website,Mission Hill,high,True
+Fa_01156,2024-08-09,Fall_2024,desk,1,79.0,xiaohongshu_wechat,East Boston,medium,True
+Fa_01157,2024-08-24,Fall_2024,bed_frame,1,60.0,xiaohongshu_wechat,Cambridgeport,high,True
+Fa_01158,2024-10-29,Fall_2024,cleaning_set,1,39.99,other,Fenway,high,False
+Fa_01159,2024-09-09,Fall_2024,desk,1,79.0,website,Fenway,high,True
+Fa_01160,2024-10-12,Fall_2024,chair,1,69.0,xiaohongshu_wechat,Mission Hill,high,True
+Fa_01161,2024-08-29,Fall_2024,chair,1,69.0,xiaohongshu_wechat,East Boston,medium,True
+Fa_01162,2024-08-13,Fall_2024,mattress,1,190.0,xiaohongshu_wechat,Mission Hill,high,True
+Fa_01163,2024-10-07,Fall_2024,cleaning_set,1,39.99,other,Allston,high,True
+Fa_01164,2024-08-09,Fall_2024,chair,1,69.0,website,Fenway,high,False
+Fa_01165,2024-08-23,Fall_2024,mattress,2,380.0,xiaohongshu_wechat,Fenway,high,True
+Fa_01166,2024-10-28,Fall_2024,mattress,1,210.0,xiaohongshu_wechat,Cambridgeport,high,True
+Fa_01167,2024-09-05,Fall_2024,bed_frame,1,45.0,xiaohongshu_wechat,Fenway,high,True
+Fa_01168,2024-09-26,Fall_2024,mattress,2,380.0,website,East Boston,medium,False
+Fa_01169,2024-08-18,Fall_2024,chair,3,207.0,xiaohongshu_wechat,Fenway,high,True
+Fa_01170,2024-10-19,Fall_2024,kitchen_set,1,39.99,other,Fenway,high,True
+Fa_01171,2024-08-23,Fall_2024,chair,3,207.0,website,Cambridgeport,high,True
+Fa_01172,2024-10-01,Fall_2024,chair,1,69.0,other,Allston,high,True
+Fa_01173,2024-08-25,Fall_2024,cleaning_set,2,79.98,xiaohongshu_wechat,Allston,high,True
+Fa_01174,2024-09-03,Fall_2024,mattress,1,210.0,xiaohongshu_wechat,Cambridgeport,high,True
+Fa_01175,2024-09-10,Fall_2024,desk,1,79.0,website,Allston,high,True
+Fa_01176,2024-10-01,Fall_2024,desk,1,79.0,xiaohongshu_wechat,Brighton,high,False
+Fa_01177,2024-10-07,Fall_2024,bed_frame,3,135.0,xiaohongshu_wechat,Dorchester,medium,False
+Fa_01178,2024-10-14,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,Revere,low,False
+Fa_01179,2024-08-06,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,Cambridgeport,high,False
+Fa_01180,2024-09-16,Fall_2024,kitchen_set,2,79.98,xiaohongshu_wechat,East Boston,medium,False
+Fa_01181,2024-08-11,Fall_2024,bed_frame,1,45.0,xiaohongshu_wechat,Fenway,high,False
+Fa_01182,2024-09-15,Fall_2024,mattress,1,190.0,xiaohongshu_wechat,Cambridgeport,high,True
+Fa_01183,2024-09-10,Fall_2024,chair,1,69.0,xiaohongshu_wechat,Malden,medium,True
+Fa_01184,2024-09-12,Fall_2024,desk,1,79.0,xiaohongshu_wechat,Revere,low,False
+Fa_01185,2024-08-02,Fall_2024,mattress,2,380.0,xiaohongshu_wechat,Dorchester,medium,False
+Fa_01186,2024-10-07,Fall_2024,cleaning_set,1,39.99,other,Fenway,high,True
+Fa_01187,2024-10-25,Fall_2024,mattress,1,210.0,other,Brighton,high,True
+Fa_01188,2024-10-24,Fall_2024,chair,3,207.0,website,Watertown,medium,True
+Fa_01189,2024-10-23,Fall_2024,chair,3,207.0,xiaohongshu_wechat,Dorchester,medium,True
+Fa_01190,2024-10-12,Fall_2024,mattress,1,210.0,xiaohongshu_wechat,Medford,medium,False
+Fa_01191,2024-08-10,Fall_2024,chair,1,69.0,xiaohongshu_wechat,Brookline,medium,True
+Fa_01192,2024-10-13,Fall_2024,cleaning_set,2,79.98,xiaohongshu_wechat,Medford,medium,False
+Fa_01193,2024-08-10,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,Fenway,high,True
+Fa_01194,2024-09-21,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,Somerville,medium,True
+Fa_01195,2024-10-31,Fall_2024,bed_frame,1,60.0,xiaohongshu_wechat,Fenway,high,True
+Fa_01196,2024-09-26,Fall_2024,desk,2,158.0,xiaohongshu_wechat,Allston,high,True
+Fa_01197,2024-08-17,Fall_2024,chair,2,138.0,xiaohongshu_wechat,Cambridgeport,high,True
+Fa_01198,2024-09-14,Fall_2024,chair,2,138.0,xiaohongshu_wechat,Watertown,medium,False
+Fa_01199,2024-08-27,Fall_2024,bed_frame,1,45.0,xiaohongshu_wechat,Cambridgeport,high,True
+Fa_01200,2024-08-23,Fall_2024,bed_frame,2,90.0,xiaohongshu_wechat,Brighton,high,True
+Fa_01201,2024-10-09,Fall_2024,mattress,2,420.0,other,Medford,medium,True
+Fa_01202,2024-10-04,Fall_2024,bed_frame,2,90.0,other,Medford,medium,True
+Fa_01203,2024-08-29,Fall_2024,kitchen_set,1,39.99,website,Mission Hill,high,True
+Fa_01204,2024-10-19,Fall_2024,cleaning_set,3,119.97,website,Cambridgeport,high,False
+Fa_01205,2024-08-08,Fall_2024,kitchen_set,2,79.98,other,Allston,high,True
+Fa_01206,2024-09-06,Fall_2024,mattress,1,190.0,xiaohongshu_wechat,Fenway,high,True
+Fa_01207,2024-10-11,Fall_2024,cleaning_set,2,79.98,xiaohongshu_wechat,Cambridgeport,high,False
+Fa_01208,2024-10-09,Fall_2024,mattress,1,210.0,xiaohongshu_wechat,Allston,high,True
+Fa_01209,2024-10-21,Fall_2024,mattress,2,380.0,website,Somerville,medium,False
+Fa_01210,2024-09-27,Fall_2024,bed_frame,2,90.0,xiaohongshu_wechat,Brighton,high,True
+Fa_01211,2024-09-16,Fall_2024,desk,1,79.0,xiaohongshu_wechat,Brighton,high,False
+Fa_01212,2024-09-12,Fall_2024,desk,1,79.0,xiaohongshu_wechat,Brighton,high,True
+Fa_01213,2024-10-20,Fall_2024,cleaning_set,2,79.98,website,Somerville,medium,True
+Fa_01214,2024-09-22,Fall_2024,cleaning_set,1,39.99,website,Cambridgeport,high,True
+Fa_01215,2024-09-05,Fall_2024,cleaning_set,2,79.98,xiaohongshu_wechat,Revere,low,False
+Fa_01216,2024-08-13,Fall_2024,mattress,1,190.0,other,Fenway,high,False
+Fa_01217,2024-08-04,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,Malden,medium,True
+Fa_01218,2024-10-13,Fall_2024,chair,1,69.0,xiaohongshu_wechat,Cambridgeport,high,False
+Fa_01219,2024-09-27,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,Allston,high,False
+Fa_01220,2024-10-01,Fall_2024,desk,1,79.0,website,Cambridgeport,high,True
+Fa_01221,2024-08-31,Fall_2024,bed_frame,2,120.0,website,Cambridgeport,high,True
+Fa_01222,2024-10-05,Fall_2024,bed_frame,2,90.0,other,Brighton,high,False
+Fa_01223,2024-08-29,Fall_2024,mattress,3,630.0,other,Brighton,high,True
+Fa_01224,2024-10-29,Fall_2024,cleaning_set,1,39.99,website,Brookline,medium,True
+Fa_01225,2024-10-27,Fall_2024,mattress,1,210.0,xiaohongshu_wechat,Dorchester,medium,True
+Fa_01226,2024-09-01,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,Brookline,medium,True
+Fa_01227,2024-09-08,Fall_2024,desk,1,79.0,website,Allston,high,False
+Fa_01228,2024-08-04,Fall_2024,bed_frame,1,30.0,xiaohongshu_wechat,Medford,medium,True
+Fa_01229,2024-10-24,Fall_2024,bed_frame,1,45.0,website,Mission Hill,high,False
+Fa_01230,2024-10-13,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,Brighton,high,True
+Fa_01231,2024-10-05,Fall_2024,desk,1,79.0,xiaohongshu_wechat,Watertown,medium,True
+Fa_01232,2024-09-17,Fall_2024,mattress,1,190.0,other,Quincy,low,True
+Fa_01233,2024-09-14,Fall_2024,kitchen_set,2,79.98,xiaohongshu_wechat,Mission Hill,high,False
+Fa_01234,2024-08-31,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,Revere,low,False
+Fa_01235,2024-08-29,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,Mission Hill,high,True
+Fa_01236,2024-08-13,Fall_2024,desk,1,79.0,xiaohongshu_wechat,Fenway,high,True
+Fa_01237,2024-10-30,Fall_2024,chair,1,69.0,xiaohongshu_wechat,Cambridgeport,high,False
+Fa_01238,2024-10-05,Fall_2024,chair,1,69.0,other,Brookline,medium,False
+Fa_01239,2024-08-21,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,Jamaica Plain,medium,True
+Fa_01240,2024-09-07,Fall_2024,chair,1,69.0,xiaohongshu_wechat,Quincy,low,False
+Fa_01241,2024-09-01,Fall_2024,mattress,3,630.0,website,Medford,medium,False
+Fa_01242,2024-08-22,Fall_2024,bed_frame,1,30.0,other,Brighton,high,False
+Fa_01243,2024-09-03,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,Mission Hill,high,False
+Fa_01244,2024-08-21,Fall_2024,desk,1,79.0,other,Brookline,medium,True
+Fa_01245,2024-09-16,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,Quincy,low,True
+Fa_01246,2024-09-02,Fall_2024,bed_frame,2,120.0,website,Allston,high,False
+Fa_01247,2024-08-05,Fall_2024,chair,2,138.0,other,Brighton,high,True
+Fa_01248,2024-08-18,Fall_2024,cleaning_set,2,79.98,xiaohongshu_wechat,Fenway,high,True
+Fa_01249,2024-08-24,Fall_2024,mattress,1,210.0,other,Cambridgeport,high,True
+Fa_01250,2024-09-29,Fall_2024,desk,1,79.0,other,Mission Hill,high,True
+Fa_01251,2024-10-15,Fall_2024,kitchen_set,2,79.98,other,Brighton,high,True
+Fa_01252,2024-10-19,Fall_2024,mattress,2,380.0,xiaohongshu_wechat,Fenway,high,True
+Fa_01253,2024-10-20,Fall_2024,desk,1,79.0,website,East Boston,medium,True
+Fa_01254,2024-09-20,Fall_2024,chair,1,69.0,xiaohongshu_wechat,Brighton,high,False
+Fa_01255,2024-09-01,Fall_2024,mattress,1,210.0,xiaohongshu_wechat,Brookline,medium,True
+Fa_01256,2024-08-22,Fall_2024,chair,1,69.0,xiaohongshu_wechat,Brighton,high,True
+Fa_01257,2024-08-07,Fall_2024,bed_frame,1,30.0,other,Brighton,high,True
+Fa_01258,2024-09-12,Fall_2024,bed_frame,1,30.0,xiaohongshu_wechat,Mission Hill,high,True
+Fa_01259,2024-09-29,Fall_2024,chair,1,69.0,xiaohongshu_wechat,Mission Hill,high,True
+Fa_01260,2024-10-08,Fall_2024,kitchen_set,2,79.98,xiaohongshu_wechat,Cambridgeport,high,True
+Fa_01261,2024-10-10,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,Brighton,high,False
+Fa_01262,2024-08-16,Fall_2024,mattress,2,420.0,xiaohongshu_wechat,Mission Hill,high,True
+Fa_01263,2024-10-30,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,Cambridgeport,high,True
+Fa_01264,2024-08-25,Fall_2024,cleaning_set,2,79.98,xiaohongshu_wechat,Mission Hill,high,True
+Fa_01265,2024-09-27,Fall_2024,mattress,1,210.0,xiaohongshu_wechat,Watertown,medium,True
+Fa_01266,2024-10-05,Fall_2024,mattress,2,420.0,xiaohongshu_wechat,Mission Hill,high,True
+Fa_01267,2024-09-08,Fall_2024,cleaning_set,2,79.98,xiaohongshu_wechat,Brighton,high,False
+Fa_01268,2024-10-05,Fall_2024,bed_frame,1,30.0,website,Brighton,high,True
+Fa_01269,2024-10-08,Fall_2024,chair,1,69.0,xiaohongshu_wechat,Medford,medium,True
+Fa_01270,2024-08-09,Fall_2024,desk,2,158.0,website,Mission Hill,high,False
+Fa_01271,2024-08-31,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,Cambridgeport,high,False
+Fa_01272,2024-10-03,Fall_2024,mattress,2,380.0,xiaohongshu_wechat,Mission Hill,high,False
+Fa_01273,2024-08-19,Fall_2024,desk,2,158.0,website,Allston,high,True
+Fa_01274,2024-10-17,Fall_2024,desk,1,79.0,xiaohongshu_wechat,Mission Hill,high,False
+Fa_01275,2024-09-13,Fall_2024,desk,2,158.0,website,Cambridgeport,high,True
+Fa_01276,2024-10-11,Fall_2024,bed_frame,3,90.0,xiaohongshu_wechat,East Boston,medium,False
+Fa_01277,2024-08-09,Fall_2024,desk,1,79.0,other,Somerville,medium,False
+Fa_01278,2024-08-10,Fall_2024,bed_frame,1,30.0,xiaohongshu_wechat,Revere,low,True
+Fa_01279,2024-10-28,Fall_2024,bed_frame,2,120.0,xiaohongshu_wechat,Allston,high,True
+Fa_01280,2024-10-31,Fall_2024,bed_frame,2,90.0,other,Fenway,high,True
+Fa_01281,2024-09-04,Fall_2024,bed_frame,3,135.0,xiaohongshu_wechat,Fenway,high,True
+Fa_01282,2024-10-11,Fall_2024,chair,1,69.0,xiaohongshu_wechat,Medford,medium,True
+Fa_01283,2024-10-10,Fall_2024,cleaning_set,1,39.99,website,Medford,medium,True
+Fa_01284,2024-10-26,Fall_2024,mattress,1,190.0,xiaohongshu_wechat,East Boston,medium,True
+Fa_01285,2024-10-05,Fall_2024,mattress,2,380.0,website,Revere,low,False
+Fa_01286,2024-08-15,Fall_2024,mattress,3,630.0,xiaohongshu_wechat,Fenway,high,True
+Fa_01287,2024-08-12,Fall_2024,bed_frame,1,60.0,xiaohongshu_wechat,Fenway,high,False
+Fa_01288,2024-09-07,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,Brighton,high,True
+Fa_01289,2024-09-03,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,Allston,high,True
+Fa_01290,2024-09-22,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,Somerville,medium,True
+Fa_01291,2024-10-21,Fall_2024,chair,2,138.0,xiaohongshu_wechat,Allston,high,False
+Fa_01292,2024-10-08,Fall_2024,chair,1,69.0,website,Fenway,high,False
+Fa_01293,2024-10-16,Fall_2024,cleaning_set,2,79.98,xiaohongshu_wechat,Quincy,low,True
+Fa_01294,2024-09-23,Fall_2024,desk,3,237.0,xiaohongshu_wechat,East Boston,medium,True
+Fa_01295,2024-08-23,Fall_2024,mattress,1,210.0,xiaohongshu_wechat,Fenway,high,True
+Fa_01296,2024-10-31,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,Quincy,low,True
+Fa_01297,2024-10-20,Fall_2024,kitchen_set,2,79.98,xiaohongshu_wechat,Fenway,high,True
+Fa_01298,2024-08-10,Fall_2024,kitchen_set,1,39.99,other,Allston,high,True
+Fa_01299,2024-09-13,Fall_2024,cleaning_set,2,79.98,other,Somerville,medium,False
+Fa_01300,2024-10-08,Fall_2024,cleaning_set,2,79.98,xiaohongshu_wechat,Malden,medium,True
+Fa_01301,2024-10-30,Fall_2024,kitchen_set,1,39.99,website,Cambridgeport,high,True
+Fa_01302,2024-08-20,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,Malden,medium,True
+Fa_01303,2024-08-15,Fall_2024,kitchen_set,3,119.97,xiaohongshu_wechat,Medford,medium,True
+Fa_01304,2024-08-02,Fall_2024,kitchen_set,1,39.99,website,Allston,high,False
+Fa_01305,2024-09-30,Fall_2024,chair,3,207.0,xiaohongshu_wechat,Jamaica Plain,medium,True
+Fa_01306,2024-10-04,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,Cambridgeport,high,True
+Fa_01307,2024-10-31,Fall_2024,chair,2,138.0,other,Mission Hill,high,True
+Fa_01308,2024-08-08,Fall_2024,desk,1,79.0,xiaohongshu_wechat,Dorchester,medium,False
+Fa_01309,2024-09-26,Fall_2024,kitchen_set,3,119.97,website,Dorchester,medium,True
+Fa_01310,2024-10-25,Fall_2024,desk,1,79.0,xiaohongshu_wechat,Fenway,high,False
+Fa_01311,2024-08-21,Fall_2024,cleaning_set,1,39.99,website,Somerville,medium,False
+Fa_01312,2024-08-31,Fall_2024,desk,2,158.0,xiaohongshu_wechat,Quincy,low,False
+Fa_01313,2024-10-03,Fall_2024,chair,1,69.0,website,Somerville,medium,True
+Fa_01314,2024-09-23,Fall_2024,desk,3,237.0,xiaohongshu_wechat,Malden,medium,True
+Fa_01315,2024-08-03,Fall_2024,cleaning_set,1,39.99,website,Mission Hill,high,False
+Fa_01316,2024-10-28,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,Allston,high,True
+Fa_01317,2024-09-18,Fall_2024,desk,1,79.0,xiaohongshu_wechat,Allston,high,True
+Fa_01318,2024-10-29,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,Cambridgeport,high,True
+Fa_01319,2024-08-15,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,Mission Hill,high,True
+Fa_01320,2024-10-31,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,Brighton,high,True
+Fa_01321,2024-08-08,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,Brighton,high,True
+Fa_01322,2024-09-27,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,Mission Hill,high,True
+Fa_01323,2024-10-11,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,Allston,high,True
+Fa_01324,2024-10-12,Fall_2024,mattress,1,210.0,xiaohongshu_wechat,Cambridgeport,high,False
+Fa_01325,2024-09-12,Fall_2024,cleaning_set,2,79.98,xiaohongshu_wechat,Cambridgeport,high,False
+Fa_01326,2024-08-12,Fall_2024,chair,1,69.0,other,Watertown,medium,False
+Fa_01327,2024-08-01,Fall_2024,desk,3,237.0,xiaohongshu_wechat,Dorchester,medium,False
+Fa_01328,2024-09-12,Fall_2024,bed_frame,1,60.0,xiaohongshu_wechat,Dorchester,medium,True
+Fa_01329,2024-10-29,Fall_2024,bed_frame,1,45.0,xiaohongshu_wechat,Watertown,medium,False
+Fa_01330,2024-08-10,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,Fenway,high,True
+Fa_01331,2024-10-26,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,Cambridgeport,high,True
+Fa_01332,2024-08-11,Fall_2024,kitchen_set,2,79.98,website,Medford,medium,True
+Fa_01333,2024-10-04,Fall_2024,chair,3,207.0,xiaohongshu_wechat,Fenway,high,True
+Fa_01334,2024-10-31,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,Brighton,high,False
+Fa_01335,2024-09-08,Fall_2024,mattress,3,630.0,xiaohongshu_wechat,East Boston,medium,False
+Fa_01336,2024-08-16,Fall_2024,chair,1,69.0,xiaohongshu_wechat,Cambridgeport,high,True
+Fa_01337,2024-09-25,Fall_2024,cleaning_set,2,79.98,xiaohongshu_wechat,Somerville,medium,False
+Fa_01338,2024-09-22,Fall_2024,desk,1,79.0,xiaohongshu_wechat,Fenway,high,False
+Fa_01339,2024-09-06,Fall_2024,desk,1,79.0,xiaohongshu_wechat,Medford,medium,False
+Fa_01340,2024-08-27,Fall_2024,kitchen_set,2,79.98,xiaohongshu_wechat,Brookline,medium,True
+Fa_01341,2024-09-18,Fall_2024,bed_frame,1,60.0,xiaohongshu_wechat,Fenway,high,False
+Fa_01342,2024-09-01,Fall_2024,chair,2,138.0,xiaohongshu_wechat,Cambridgeport,high,True
+Fa_01343,2024-09-30,Fall_2024,mattress,1,190.0,xiaohongshu_wechat,Jamaica Plain,medium,True
+Fa_01344,2024-10-09,Fall_2024,bed_frame,1,30.0,xiaohongshu_wechat,Allston,high,True
+Fa_01345,2024-10-25,Fall_2024,cleaning_set,2,79.98,xiaohongshu_wechat,Mission Hill,high,True
+Fa_01346,2024-10-04,Fall_2024,chair,1,69.0,other,Watertown,medium,True
+Fa_01347,2024-10-27,Fall_2024,bed_frame,3,135.0,xiaohongshu_wechat,Cambridgeport,high,True
+Fa_01348,2024-09-21,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,Mission Hill,high,True
+Fa_01349,2024-08-31,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,Mission Hill,high,True
+Fa_01350,2024-10-14,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,Brighton,high,True
+Fa_01351,2024-08-07,Fall_2024,bed_frame,3,180.0,website,Dorchester,medium,True
+Fa_01352,2024-10-23,Fall_2024,bed_frame,1,45.0,xiaohongshu_wechat,Brighton,high,True
+Fa_01353,2024-10-01,Fall_2024,bed_frame,1,45.0,other,Fenway,high,True
+Fa_01354,2024-10-22,Fall_2024,mattress,2,380.0,website,Cambridgeport,high,True
+Fa_01355,2024-10-02,Fall_2024,mattress,2,420.0,xiaohongshu_wechat,Cambridgeport,high,True
+Fa_01356,2024-10-31,Fall_2024,bed_frame,1,60.0,other,Cambridgeport,high,False
+Fa_01357,2024-09-28,Fall_2024,cleaning_set,2,79.98,xiaohongshu_wechat,Allston,high,False
+Fa_01358,2024-09-08,Fall_2024,bed_frame,2,90.0,xiaohongshu_wechat,Cambridgeport,high,False
+Fa_01359,2024-08-05,Fall_2024,cleaning_set,1,39.99,website,Brookline,medium,False
+Fa_01360,2024-09-09,Fall_2024,chair,1,69.0,xiaohongshu_wechat,Fenway,high,False
+Fa_01361,2024-08-13,Fall_2024,bed_frame,2,90.0,other,Quincy,low,False
+Fa_01362,2024-09-16,Fall_2024,cleaning_set,2,79.98,xiaohongshu_wechat,Fenway,high,True
+Fa_01363,2024-10-14,Fall_2024,mattress,1,210.0,xiaohongshu_wechat,Revere,low,True
+Fa_01364,2024-08-27,Fall_2024,desk,1,79.0,xiaohongshu_wechat,Brighton,high,False
+Fa_01365,2024-09-09,Fall_2024,desk,3,237.0,xiaohongshu_wechat,Watertown,medium,False
+Fa_01366,2024-09-06,Fall_2024,desk,2,158.0,xiaohongshu_wechat,Allston,high,True
+Fa_01367,2024-08-21,Fall_2024,desk,2,158.0,xiaohongshu_wechat,Fenway,high,True
+Fa_01368,2024-10-11,Fall_2024,mattress,1,210.0,website,Fenway,high,True
+Fa_01369,2024-10-26,Fall_2024,chair,1,69.0,website,Allston,high,False
+Fa_01370,2024-10-24,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,Mission Hill,high,True
+Fa_01371,2024-10-25,Fall_2024,mattress,1,190.0,website,Brookline,medium,True
+Fa_01372,2024-08-08,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,Quincy,low,False
+Fa_01373,2024-10-20,Fall_2024,kitchen_set,3,119.97,xiaohongshu_wechat,Cambridgeport,high,False
+Fa_01374,2024-10-11,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,Allston,high,True
+Fa_01375,2024-09-26,Fall_2024,chair,2,138.0,website,Fenway,high,True
+Fa_01376,2024-08-20,Fall_2024,bed_frame,1,60.0,xiaohongshu_wechat,Cambridgeport,high,True
+Fa_01377,2024-09-23,Fall_2024,chair,1,69.0,xiaohongshu_wechat,Quincy,low,True
+Fa_01378,2024-10-14,Fall_2024,kitchen_set,2,79.98,xiaohongshu_wechat,Revere,low,False
+Fa_01379,2024-08-30,Fall_2024,kitchen_set,2,79.98,xiaohongshu_wechat,Allston,high,True
+Fa_01380,2024-10-05,Fall_2024,kitchen_set,2,79.98,xiaohongshu_wechat,Medford,medium,True
+Fa_01381,2024-08-29,Fall_2024,mattress,2,420.0,other,Mission Hill,high,True
+Fa_01382,2024-09-21,Fall_2024,desk,1,79.0,other,Fenway,high,True
+Fa_01383,2024-09-16,Fall_2024,desk,2,158.0,xiaohongshu_wechat,Dorchester,medium,True
+Fa_01384,2024-10-15,Fall_2024,mattress,1,190.0,website,Allston,high,True
+Fa_01385,2024-09-16,Fall_2024,mattress,2,380.0,other,Jamaica Plain,medium,True
+Fa_01386,2024-08-30,Fall_2024,cleaning_set,2,79.98,xiaohongshu_wechat,Brighton,high,False
+Fa_01387,2024-08-09,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,Brighton,high,False
+Fa_01388,2024-10-07,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,East Boston,medium,True
+Fa_01389,2024-10-31,Fall_2024,chair,1,69.0,other,Cambridgeport,high,False
+Fa_01390,2024-10-02,Fall_2024,desk,2,158.0,xiaohongshu_wechat,Fenway,high,False
+Fa_01391,2024-08-07,Fall_2024,bed_frame,1,60.0,website,Dorchester,medium,False
+Fa_01392,2024-10-11,Fall_2024,mattress,1,190.0,xiaohongshu_wechat,Dorchester,medium,True
+Fa_01393,2024-08-18,Fall_2024,kitchen_set,2,79.98,xiaohongshu_wechat,Malden,medium,True
+Fa_01394,2024-08-11,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,Allston,high,True
+Fa_01395,2024-09-07,Fall_2024,desk,2,158.0,xiaohongshu_wechat,Somerville,medium,False
+Fa_01396,2024-09-01,Fall_2024,desk,1,79.0,other,Fenway,high,False
+Fa_01397,2024-10-17,Fall_2024,desk,2,158.0,website,Cambridgeport,high,True
+Fa_01398,2024-10-22,Fall_2024,mattress,1,190.0,website,Allston,high,True
+Fa_01399,2024-09-16,Fall_2024,kitchen_set,2,79.98,xiaohongshu_wechat,Allston,high,False
+Fa_01400,2024-09-22,Fall_2024,kitchen_set,1,39.99,other,Brighton,high,True
+Fa_01401,2024-08-14,Fall_2024,bed_frame,1,30.0,website,Cambridgeport,high,False
+Fa_01402,2024-08-14,Fall_2024,kitchen_set,2,79.98,other,Brighton,high,False
+Fa_01403,2024-08-13,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,Allston,high,False
+Fa_01404,2024-10-11,Fall_2024,cleaning_set,1,39.99,website,Allston,high,True
+Fa_01405,2024-09-08,Fall_2024,mattress,2,380.0,other,Brighton,high,True
+Fa_01406,2024-09-23,Fall_2024,bed_frame,1,30.0,other,Malden,medium,True
+Fa_01407,2024-09-03,Fall_2024,mattress,2,420.0,xiaohongshu_wechat,Watertown,medium,True
+Fa_01408,2024-09-15,Fall_2024,chair,1,69.0,xiaohongshu_wechat,Mission Hill,high,True
+Fa_01409,2024-09-16,Fall_2024,desk,1,79.0,other,Watertown,medium,True
+Fa_01410,2024-08-20,Fall_2024,desk,1,79.0,other,Allston,high,True
+Fa_01411,2024-09-11,Fall_2024,desk,1,79.0,xiaohongshu_wechat,Allston,high,False
+Fa_01412,2024-09-22,Fall_2024,mattress,1,190.0,xiaohongshu_wechat,Fenway,high,False
+Fa_01413,2024-09-01,Fall_2024,kitchen_set,2,79.98,xiaohongshu_wechat,Medford,medium,False
+Fa_01414,2024-08-26,Fall_2024,cleaning_set,2,79.98,xiaohongshu_wechat,Cambridgeport,high,True
+Fa_01415,2024-08-02,Fall_2024,kitchen_set,2,79.98,other,Cambridgeport,high,True
+Fa_01416,2024-08-28,Fall_2024,desk,1,79.0,other,Allston,high,True
+Fa_01417,2024-09-25,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,Somerville,medium,False
+Fa_01418,2024-08-31,Fall_2024,desk,1,79.0,xiaohongshu_wechat,Fenway,high,False
+Fa_01419,2024-08-13,Fall_2024,mattress,2,420.0,xiaohongshu_wechat,Somerville,medium,True
+Fa_01420,2024-08-24,Fall_2024,mattress,1,210.0,xiaohongshu_wechat,Brighton,high,True
+Fa_01421,2024-08-19,Fall_2024,bed_frame,2,60.0,other,Allston,high,True
+Fa_01422,2024-08-27,Fall_2024,mattress,1,190.0,xiaohongshu_wechat,Somerville,medium,True
+Fa_01423,2024-10-02,Fall_2024,mattress,1,190.0,xiaohongshu_wechat,Cambridgeport,high,True
+Fa_01424,2024-10-11,Fall_2024,bed_frame,2,60.0,xiaohongshu_wechat,Brighton,high,False
+Fa_01425,2024-09-26,Fall_2024,bed_frame,1,30.0,other,Brookline,medium,True
+Fa_01426,2024-09-24,Fall_2024,desk,1,79.0,xiaohongshu_wechat,Fenway,high,True
+Fa_01427,2024-10-20,Fall_2024,chair,1,69.0,other,Mission Hill,high,False
+Fa_01428,2024-09-25,Fall_2024,bed_frame,1,45.0,xiaohongshu_wechat,Cambridgeport,high,True
+Fa_01429,2024-09-03,Fall_2024,desk,1,79.0,website,Somerville,medium,True
+Fa_01430,2024-09-21,Fall_2024,cleaning_set,1,39.99,website,Malden,medium,True
+Fa_01431,2024-10-31,Fall_2024,chair,1,69.0,xiaohongshu_wechat,Revere,low,True
+Fa_01432,2024-08-09,Fall_2024,bed_frame,1,45.0,xiaohongshu_wechat,Quincy,low,True
+Fa_01433,2024-09-25,Fall_2024,kitchen_set,1,39.99,other,Jamaica Plain,medium,True
+Fa_01434,2024-09-12,Fall_2024,chair,2,138.0,website,Mission Hill,high,True
+Fa_01435,2024-08-10,Fall_2024,kitchen_set,2,79.98,xiaohongshu_wechat,Fenway,high,True
+Fa_01436,2024-08-17,Fall_2024,chair,1,69.0,xiaohongshu_wechat,Dorchester,medium,False
+Fa_01437,2024-08-15,Fall_2024,mattress,2,380.0,other,Fenway,high,True
+Fa_01438,2024-10-14,Fall_2024,mattress,1,190.0,xiaohongshu_wechat,Allston,high,False
+Fa_01439,2024-09-15,Fall_2024,mattress,1,210.0,xiaohongshu_wechat,Quincy,low,True
+Fa_01440,2024-09-15,Fall_2024,cleaning_set,2,79.98,xiaohongshu_wechat,Quincy,low,False
+Fa_01441,2024-08-31,Fall_2024,mattress,2,420.0,website,Allston,high,True
+Fa_01442,2024-08-28,Fall_2024,bed_frame,1,30.0,xiaohongshu_wechat,Mission Hill,high,False
+Fa_01443,2024-09-24,Fall_2024,mattress,1,190.0,xiaohongshu_wechat,Fenway,high,True
+Fa_01444,2024-10-17,Fall_2024,cleaning_set,3,119.97,xiaohongshu_wechat,Dorchester,medium,True
+Fa_01445,2024-09-05,Fall_2024,desk,2,158.0,other,Brookline,medium,False
+Fa_01446,2024-09-10,Fall_2024,cleaning_set,1,39.99,website,Brighton,high,False
+Fa_01447,2024-09-21,Fall_2024,mattress,1,210.0,xiaohongshu_wechat,Fenway,high,False
+Fa_01448,2024-08-07,Fall_2024,mattress,1,190.0,xiaohongshu_wechat,Brighton,high,True
+Fa_01449,2024-08-25,Fall_2024,mattress,2,380.0,xiaohongshu_wechat,Brighton,high,False
+Fa_01450,2024-10-04,Fall_2024,desk,2,158.0,xiaohongshu_wechat,Allston,high,True
+Fa_01451,2024-09-04,Fall_2024,desk,2,158.0,other,Quincy,low,False
+Fa_01452,2024-10-21,Fall_2024,chair,1,69.0,website,Mission Hill,high,True
+Fa_01453,2024-09-12,Fall_2024,chair,1,69.0,xiaohongshu_wechat,Allston,high,False
+Fa_01454,2024-09-23,Fall_2024,kitchen_set,3,119.97,xiaohongshu_wechat,Brookline,medium,True
+Fa_01455,2024-10-17,Fall_2024,bed_frame,3,90.0,xiaohongshu_wechat,Fenway,high,True
+Fa_01456,2024-08-16,Fall_2024,bed_frame,1,30.0,xiaohongshu_wechat,Mission Hill,high,True
+Fa_01457,2024-09-22,Fall_2024,mattress,1,190.0,website,Cambridgeport,high,True
+Fa_01458,2024-10-12,Fall_2024,kitchen_set,2,79.98,website,East Boston,medium,False
+Fa_01459,2024-08-10,Fall_2024,mattress,2,420.0,other,Brighton,high,True
+Fa_01460,2024-08-17,Fall_2024,mattress,1,210.0,website,Allston,high,True
+Fa_01461,2024-09-14,Fall_2024,chair,2,138.0,other,Brookline,medium,True
+Fa_01462,2024-08-23,Fall_2024,desk,1,79.0,other,Allston,high,True
+Fa_01463,2024-10-18,Fall_2024,chair,1,69.0,xiaohongshu_wechat,Mission Hill,high,False
+Fa_01464,2024-09-15,Fall_2024,desk,2,158.0,website,Medford,medium,True
+Fa_01465,2024-10-08,Fall_2024,cleaning_set,2,79.98,xiaohongshu_wechat,Brighton,high,True
+Fa_01466,2024-10-23,Fall_2024,mattress,2,380.0,xiaohongshu_wechat,Allston,high,True
+Fa_01467,2024-09-09,Fall_2024,desk,1,79.0,xiaohongshu_wechat,Brighton,high,False
+Fa_01468,2024-10-09,Fall_2024,mattress,1,210.0,other,Jamaica Plain,medium,True
+Fa_01469,2024-08-26,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,Brighton,high,False
+Fa_01470,2024-08-31,Fall_2024,bed_frame,2,120.0,xiaohongshu_wechat,Dorchester,medium,True
+Fa_01471,2024-10-22,Fall_2024,kitchen_set,3,119.97,xiaohongshu_wechat,Mission Hill,high,False
+Fa_01472,2024-09-08,Fall_2024,desk,3,237.0,xiaohongshu_wechat,Fenway,high,False
+Fa_01473,2024-09-18,Fall_2024,kitchen_set,3,119.97,xiaohongshu_wechat,Cambridgeport,high,False
+Fa_01474,2024-10-01,Fall_2024,desk,1,79.0,xiaohongshu_wechat,Quincy,low,True
+Fa_01475,2024-10-24,Fall_2024,mattress,2,380.0,website,Allston,high,True
+Fa_01476,2024-09-05,Fall_2024,chair,3,207.0,xiaohongshu_wechat,Cambridgeport,high,True
+Fa_01477,2024-09-27,Fall_2024,kitchen_set,1,39.99,other,Medford,medium,False
+Fa_01478,2024-09-18,Fall_2024,mattress,3,570.0,xiaohongshu_wechat,Revere,low,True
+Fa_01479,2024-08-06,Fall_2024,desk,1,79.0,xiaohongshu_wechat,Cambridgeport,high,True
+Fa_01480,2024-09-19,Fall_2024,cleaning_set,3,119.97,xiaohongshu_wechat,Brighton,high,True
+Fa_01481,2024-08-21,Fall_2024,bed_frame,1,45.0,xiaohongshu_wechat,Fenway,high,True
+Fa_01482,2024-09-12,Fall_2024,chair,2,138.0,xiaohongshu_wechat,Somerville,medium,True
+Fa_01483,2024-10-03,Fall_2024,kitchen_set,1,39.99,website,Brighton,high,True
+Fa_01484,2024-10-01,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,Brighton,high,True
+Fa_01485,2024-10-27,Fall_2024,bed_frame,1,45.0,xiaohongshu_wechat,Brookline,medium,True
+Fa_01486,2024-08-17,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,Allston,high,True
+Fa_01487,2024-08-09,Fall_2024,chair,2,138.0,xiaohongshu_wechat,Fenway,high,True
+Fa_01488,2024-08-22,Fall_2024,desk,2,158.0,xiaohongshu_wechat,Watertown,medium,False
+Fa_01489,2024-09-07,Fall_2024,cleaning_set,2,79.98,xiaohongshu_wechat,Fenway,high,True
+Fa_01490,2024-08-29,Fall_2024,desk,1,79.0,other,Fenway,high,True
+Fa_01491,2024-10-12,Fall_2024,kitchen_set,1,39.99,xiaohongshu_wechat,Allston,high,True
+Fa_01492,2024-08-02,Fall_2024,bed_frame,1,45.0,xiaohongshu_wechat,Revere,low,True
+Fa_01493,2024-10-31,Fall_2024,kitchen_set,2,79.98,xiaohongshu_wechat,Cambridgeport,high,True
+Fa_01494,2024-08-22,Fall_2024,cleaning_set,1,39.99,xiaohongshu_wechat,Fenway,high,True
+Fa_01495,2024-09-15,Fall_2024,mattress,1,210.0,xiaohongshu_wechat,Cambridgeport,high,False
+Fa_01496,2024-09-08,Fall_2024,bed_frame,1,45.0,xiaohongshu_wechat,Fenway,high,True
+Fa_01497,2024-08-27,Fall_2024,mattress,1,210.0,xiaohongshu_wechat,Fenway,high,True
+Fa_01498,2024-09-09,Fall_2024,chair,3,207.0,xiaohongshu_wechat,Dorchester,medium,False
+Fa_01499,2024-08-15,Fall_2024,bed_frame,1,30.0,website,Mission Hill,high,True
+Fa_01500,2024-09-27,Fall_2024,kitchen_set,2,79.98,xiaohongshu_wechat,Jamaica Plain,medium,True
+Sp_00001,2025-01-04,Spring_2025,cleaning_set,3,119.97,website,Mission Hill,high,True
+Sp_00002,2025-02-26,Spring_2025,kitchen_set,1,39.99,xiaohongshu_wechat,Fenway,high,True
+Sp_00003,2025-01-10,Spring_2025,mattress,1,190.0,other,Allston,high,True
+Sp_00004,2025-01-28,Spring_2025,mattress,1,190.0,website,Mission Hill,high,False
+Sp_00005,2025-02-28,Spring_2025,mattress,2,420.0,xiaohongshu_wechat,Fenway,high,False
+Sp_00006,2025-01-31,Spring_2025,desk,2,158.0,other,Mission Hill,high,True
+Sp_00007,2024-12-07,Spring_2025,kitchen_set,1,39.99,xiaohongshu_wechat,Brighton,high,True
+Sp_00008,2025-01-02,Spring_2025,chair,1,69.0,xiaohongshu_wechat,Cambridgeport,high,True
+Sp_00009,2025-01-02,Spring_2025,bed_frame,2,120.0,xiaohongshu_wechat,Allston,high,False
+Sp_00010,2025-01-17,Spring_2025,desk,1,79.0,xiaohongshu_wechat,Brighton,high,False
+Sp_00011,2025-01-26,Spring_2025,desk,1,79.0,xiaohongshu_wechat,Mission Hill,high,True
+Sp_00012,2025-02-27,Spring_2025,bed_frame,2,90.0,xiaohongshu_wechat,Malden,medium,True
+Sp_00013,2024-12-03,Spring_2025,desk,1,79.0,xiaohongshu_wechat,Brighton,high,True
+Sp_00014,2024-12-14,Spring_2025,mattress,1,190.0,website,Allston,high,True
+Sp_00015,2025-01-01,Spring_2025,kitchen_set,1,39.99,xiaohongshu_wechat,Brookline,medium,False
+Sp_00016,2025-01-22,Spring_2025,chair,1,69.0,xiaohongshu_wechat,Quincy,low,False
+Sp_00017,2025-01-04,Spring_2025,kitchen_set,2,79.98,other,Cambridgeport,high,False
+Sp_00018,2025-01-15,Spring_2025,chair,1,69.0,website,Brighton,high,False
+Sp_00019,2024-12-01,Spring_2025,mattress,1,190.0,xiaohongshu_wechat,Jamaica Plain,medium,True
+Sp_00020,2025-02-07,Spring_2025,kitchen_set,1,39.99,website,Allston,high,False
+Sp_00021,2024-12-01,Spring_2025,cleaning_set,2,79.98,other,East Boston,medium,False
+Sp_00022,2025-01-21,Spring_2025,kitchen_set,2,79.98,xiaohongshu_wechat,Mission Hill,high,False
+Sp_00023,2025-02-01,Spring_2025,mattress,1,190.0,xiaohongshu_wechat,Fenway,high,False
+Sp_00024,2025-02-02,Spring_2025,kitchen_set,1,39.99,other,Medford,medium,False
+Sp_00025,2025-02-14,Spring_2025,cleaning_set,1,39.99,website,Jamaica Plain,medium,True
+Sp_00026,2025-01-12,Spring_2025,bed_frame,3,90.0,xiaohongshu_wechat,Fenway,high,True
+Sp_00027,2024-12-09,Spring_2025,desk,1,79.0,other,Fenway,high,True
+Sp_00028,2024-12-08,Spring_2025,cleaning_set,2,79.98,xiaohongshu_wechat,Mission Hill,high,True
+Sp_00029,2025-01-19,Spring_2025,bed_frame,2,120.0,xiaohongshu_wechat,Watertown,medium,True
+Sp_00030,2025-01-27,Spring_2025,chair,1,69.0,xiaohongshu_wechat,Fenway,high,True
+Sp_00031,2025-02-05,Spring_2025,cleaning_set,1,39.99,xiaohongshu_wechat,Quincy,low,True
+Sp_00032,2024-12-03,Spring_2025,cleaning_set,2,79.98,xiaohongshu_wechat,Mission Hill,high,True
+Sp_00033,2024-12-27,Spring_2025,mattress,3,630.0,xiaohongshu_wechat,Mission Hill,high,False
+Sp_00034,2025-02-12,Spring_2025,cleaning_set,2,79.98,xiaohongshu_wechat,Jamaica Plain,medium,False
+Sp_00035,2025-01-13,Spring_2025,mattress,2,420.0,website,Fenway,high,True
+Sp_00036,2025-02-02,Spring_2025,kitchen_set,1,39.99,xiaohongshu_wechat,Brookline,medium,True
+Sp_00037,2024-12-23,Spring_2025,bed_frame,1,60.0,other,Fenway,high,True
+Sp_00038,2024-12-18,Spring_2025,cleaning_set,1,39.99,xiaohongshu_wechat,Cambridgeport,high,False
+Sp_00039,2025-01-19,Spring_2025,kitchen_set,1,39.99,xiaohongshu_wechat,Allston,high,True
+Sp_00040,2024-12-05,Spring_2025,cleaning_set,1,39.99,xiaohongshu_wechat,Fenway,high,True
+Sp_00041,2024-12-11,Spring_2025,cleaning_set,1,39.99,xiaohongshu_wechat,Jamaica Plain,medium,False
+Sp_00042,2024-12-12,Spring_2025,chair,1,69.0,xiaohongshu_wechat,Fenway,high,False
+Sp_00043,2025-02-22,Spring_2025,kitchen_set,1,39.99,xiaohongshu_wechat,Mission Hill,high,True
+Sp_00044,2024-12-20,Spring_2025,chair,3,207.0,other,Cambridgeport,high,False
+Sp_00045,2025-02-03,Spring_2025,kitchen_set,1,39.99,xiaohongshu_wechat,Brighton,high,True
+Sp_00046,2025-01-03,Spring_2025,chair,1,69.0,website,Mission Hill,high,False
+Sp_00047,2025-02-22,Spring_2025,bed_frame,1,45.0,website,Mission Hill,high,False
+Sp_00048,2025-02-19,Spring_2025,desk,2,158.0,xiaohongshu_wechat,Fenway,high,True
+Sp_00049,2025-01-09,Spring_2025,kitchen_set,2,79.98,xiaohongshu_wechat,Brighton,high,True
+Sp_00050,2024-12-18,Spring_2025,cleaning_set,3,119.97,xiaohongshu_wechat,Mission Hill,high,True
+Sp_00051,2025-01-07,Spring_2025,desk,1,79.0,xiaohongshu_wechat,Dorchester,medium,True
+Sp_00052,2024-12-31,Spring_2025,mattress,1,190.0,xiaohongshu_wechat,Cambridgeport,high,False
+Sp_00053,2025-02-12,Spring_2025,mattress,1,210.0,other,Quincy,low,False
+Sp_00054,2025-01-15,Spring_2025,kitchen_set,1,39.99,other,East Boston,medium,True
+Sp_00055,2025-01-06,Spring_2025,desk,2,158.0,xiaohongshu_wechat,Dorchester,medium,False
+Sp_00056,2024-12-31,Spring_2025,mattress,1,190.0,other,Brighton,high,True
+Sp_00057,2025-01-02,Spring_2025,chair,1,69.0,website,Quincy,low,False
+Sp_00058,2025-02-13,Spring_2025,bed_frame,2,90.0,xiaohongshu_wechat,Dorchester,medium,False
+Sp_00059,2024-12-08,Spring_2025,kitchen_set,3,119.97,other,Watertown,medium,True
+Sp_00060,2025-01-23,Spring_2025,bed_frame,1,45.0,xiaohongshu_wechat,Revere,low,True
+Sp_00061,2025-01-14,Spring_2025,bed_frame,3,90.0,other,East Boston,medium,True
+Sp_00062,2024-12-23,Spring_2025,cleaning_set,1,39.99,xiaohongshu_wechat,Brighton,high,False
+Sp_00063,2025-01-10,Spring_2025,desk,2,158.0,xiaohongshu_wechat,Brighton,high,False
+Sp_00064,2025-01-09,Spring_2025,mattress,2,420.0,xiaohongshu_wechat,Mission Hill,high,False
+Sp_00065,2025-02-07,Spring_2025,cleaning_set,1,39.99,website,Brighton,high,True
+Sp_00066,2024-12-23,Spring_2025,mattress,2,420.0,xiaohongshu_wechat,Allston,high,True
+Sp_00067,2025-01-12,Spring_2025,cleaning_set,3,119.97,xiaohongshu_wechat,Mission Hill,high,False
+Sp_00068,2025-02-22,Spring_2025,mattress,1,210.0,other,Allston,high,True
+Sp_00069,2025-02-24,Spring_2025,chair,1,69.0,xiaohongshu_wechat,Cambridgeport,high,False
+Sp_00070,2025-02-25,Spring_2025,bed_frame,2,60.0,xiaohongshu_wechat,Mission Hill,high,True
+Sp_00071,2024-12-27,Spring_2025,desk,2,158.0,xiaohongshu_wechat,Mission Hill,high,True
+Sp_00072,2025-01-10,Spring_2025,bed_frame,1,30.0,other,Watertown,medium,True
+Sp_00073,2025-02-09,Spring_2025,kitchen_set,2,79.98,xiaohongshu_wechat,Fenway,high,True
+Sp_00074,2025-01-27,Spring_2025,cleaning_set,2,79.98,xiaohongshu_wechat,Fenway,high,True
+Sp_00075,2025-02-08,Spring_2025,chair,1,69.0,xiaohongshu_wechat,Mission Hill,high,False
+Sp_00076,2025-01-27,Spring_2025,cleaning_set,3,119.97,other,Mission Hill,high,False
+Sp_00077,2024-12-05,Spring_2025,mattress,1,210.0,xiaohongshu_wechat,Quincy,low,False
+Sp_00078,2024-12-05,Spring_2025,chair,2,138.0,xiaohongshu_wechat,Cambridgeport,high,True
+Sp_00079,2025-02-04,Spring_2025,bed_frame,2,120.0,xiaohongshu_wechat,Brighton,high,True
+Sp_00080,2024-12-12,Spring_2025,bed_frame,1,60.0,website,Allston,high,False
+Sp_00081,2024-12-23,Spring_2025,cleaning_set,2,79.98,xiaohongshu_wechat,Cambridgeport,high,True
+Sp_00082,2024-12-10,Spring_2025,desk,2,158.0,other,Fenway,high,False
+Sp_00083,2024-12-07,Spring_2025,bed_frame,1,45.0,other,Dorchester,medium,True
+Sp_00084,2024-12-06,Spring_2025,bed_frame,1,60.0,xiaohongshu_wechat,Brighton,high,True
+Sp_00085,2025-02-15,Spring_2025,cleaning_set,2,79.98,other,Revere,low,False
+Sp_00086,2025-01-07,Spring_2025,cleaning_set,1,39.99,other,East Boston,medium,True
+Sp_00087,2025-02-25,Spring_2025,chair,1,69.0,website,Malden,medium,True
+Sp_00088,2024-12-26,Spring_2025,bed_frame,1,45.0,xiaohongshu_wechat,Brighton,high,True
+Sp_00089,2025-01-10,Spring_2025,mattress,1,210.0,xiaohongshu_wechat,Brookline,medium,False
+Sp_00090,2024-12-19,Spring_2025,mattress,1,190.0,xiaohongshu_wechat,Fenway,high,False
+Sp_00091,2024-12-12,Spring_2025,desk,2,158.0,xiaohongshu_wechat,Brighton,high,True
+Sp_00092,2025-01-21,Spring_2025,bed_frame,1,60.0,xiaohongshu_wechat,Brighton,high,False
+Sp_00093,2025-01-18,Spring_2025,cleaning_set,1,39.99,xiaohongshu_wechat,Allston,high,False
+Sp_00094,2025-02-04,Spring_2025,kitchen_set,1,39.99,website,Dorchester,medium,True
+Sp_00095,2024-12-19,Spring_2025,kitchen_set,1,39.99,xiaohongshu_wechat,Brighton,high,False
+Sp_00096,2025-01-26,Spring_2025,mattress,1,210.0,xiaohongshu_wechat,Jamaica Plain,medium,True
+Sp_00097,2025-01-28,Spring_2025,bed_frame,1,45.0,xiaohongshu_wechat,Brighton,high,True
+Sp_00098,2024-12-21,Spring_2025,cleaning_set,2,79.98,xiaohongshu_wechat,Brighton,high,True
+Sp_00099,2025-01-01,Spring_2025,mattress,3,630.0,xiaohongshu_wechat,Brighton,high,False
+Sp_00100,2025-02-13,Spring_2025,desk,1,79.0,xiaohongshu_wechat,Allston,high,False
+Sp_00101,2024-12-02,Spring_2025,cleaning_set,1,39.99,xiaohongshu_wechat,Mission Hill,high,False
+Sp_00102,2024-12-07,Spring_2025,chair,2,138.0,xiaohongshu_wechat,Fenway,high,False
+Sp_00103,2025-02-27,Spring_2025,desk,1,79.0,other,Mission Hill,high,True
+Sp_00104,2024-12-15,Spring_2025,mattress,1,210.0,other,Cambridgeport,high,False
+Sp_00105,2024-12-31,Spring_2025,chair,1,69.0,other,Brighton,high,True
+Sp_00106,2025-02-10,Spring_2025,bed_frame,2,60.0,xiaohongshu_wechat,Mission Hill,high,False
+Sp_00107,2024-12-24,Spring_2025,cleaning_set,1,39.99,xiaohongshu_wechat,Revere,low,True
+Sp_00108,2025-02-11,Spring_2025,cleaning_set,1,39.99,xiaohongshu_wechat,Allston,high,False
+Sp_00109,2024-12-10,Spring_2025,mattress,3,630.0,xiaohongshu_wechat,Somerville,medium,True
+Sp_00110,2025-01-16,Spring_2025,bed_frame,1,45.0,xiaohongshu_wechat,Quincy,low,False
+Sp_00111,2025-01-15,Spring_2025,cleaning_set,1,39.99,xiaohongshu_wechat,Mission Hill,high,False
+Sp_00112,2024-12-25,Spring_2025,mattress,1,210.0,other,Brighton,high,True
+Sp_00113,2025-02-07,Spring_2025,bed_frame,1,45.0,xiaohongshu_wechat,Malden,medium,False
+Sp_00114,2025-01-23,Spring_2025,kitchen_set,2,79.98,other,Allston,high,False
+Sp_00115,2025-01-06,Spring_2025,cleaning_set,1,39.99,xiaohongshu_wechat,Brighton,high,True
+Sp_00116,2025-01-01,Spring_2025,chair,1,69.0,xiaohongshu_wechat,Allston,high,True
+Sp_00117,2025-02-06,Spring_2025,chair,2,138.0,xiaohongshu_wechat,Allston,high,False
+Sp_00118,2024-12-12,Spring_2025,kitchen_set,1,39.99,website,Allston,high,False
+Sp_00119,2025-02-17,Spring_2025,desk,1,79.0,xiaohongshu_wechat,Brighton,high,True
+Sp_00120,2025-02-08,Spring_2025,desk,1,79.0,xiaohongshu_wechat,Cambridgeport,high,True
+Sp_00121,2025-01-26,Spring_2025,chair,1,69.0,xiaohongshu_wechat,Cambridgeport,high,True
+Sp_00122,2025-01-29,Spring_2025,mattress,2,420.0,other,Quincy,low,True
+Sp_00123,2025-02-23,Spring_2025,cleaning_set,1,39.99,xiaohongshu_wechat,Cambridgeport,high,True
+Sp_00124,2024-12-25,Spring_2025,desk,2,158.0,xiaohongshu_wechat,Mission Hill,high,True
+Sp_00125,2025-02-08,Spring_2025,cleaning_set,2,79.98,xiaohongshu_wechat,Quincy,low,False
+Sp_00126,2025-02-11,Spring_2025,chair,1,69.0,xiaohongshu_wechat,Brighton,high,True
+Sp_00127,2025-01-20,Spring_2025,chair,1,69.0,xiaohongshu_wechat,Somerville,medium,True
+Sp_00128,2025-02-11,Spring_2025,desk,1,79.0,website,Watertown,medium,True
+Sp_00129,2025-02-27,Spring_2025,kitchen_set,1,39.99,xiaohongshu_wechat,Somerville,medium,True
+Sp_00130,2025-01-22,Spring_2025,mattress,1,210.0,xiaohongshu_wechat,Mission Hill,high,True
+Sp_00131,2025-02-07,Spring_2025,kitchen_set,1,39.99,website,Allston,high,True
+Sp_00132,2025-02-08,Spring_2025,bed_frame,1,30.0,other,Mission Hill,high,True
+Sp_00133,2025-02-09,Spring_2025,cleaning_set,1,39.99,website,Malden,medium,False
+Sp_00134,2024-12-11,Spring_2025,chair,1,69.0,website,Mission Hill,high,True
+Sp_00135,2024-12-23,Spring_2025,desk,1,79.0,xiaohongshu_wechat,Fenway,high,True
+Sp_00136,2025-02-17,Spring_2025,desk,2,158.0,xiaohongshu_wechat,Brighton,high,True
+Sp_00137,2025-01-12,Spring_2025,mattress,1,190.0,website,Cambridgeport,high,False
+Sp_00138,2024-12-28,Spring_2025,cleaning_set,1,39.99,other,Quincy,low,True
+Sp_00139,2025-01-26,Spring_2025,bed_frame,2,60.0,other,Quincy,low,True
+Sp_00140,2024-12-13,Spring_2025,cleaning_set,2,79.98,xiaohongshu_wechat,Jamaica Plain,medium,True
+Sp_00141,2025-02-19,Spring_2025,bed_frame,2,120.0,xiaohongshu_wechat,Mission Hill,high,True
+Sp_00142,2025-01-20,Spring_2025,cleaning_set,3,119.97,xiaohongshu_wechat,Mission Hill,high,False
+Sp_00143,2025-01-07,Spring_2025,kitchen_set,1,39.99,website,Allston,high,False
+Sp_00144,2024-12-08,Spring_2025,mattress,2,420.0,xiaohongshu_wechat,Quincy,low,True
+Sp_00145,2025-02-19,Spring_2025,desk,2,158.0,other,Brookline,medium,True
+Sp_00146,2025-01-10,Spring_2025,cleaning_set,2,79.98,xiaohongshu_wechat,Allston,high,False
+Sp_00147,2025-01-10,Spring_2025,kitchen_set,2,79.98,website,Dorchester,medium,True
+Sp_00148,2024-12-30,Spring_2025,kitchen_set,2,79.98,xiaohongshu_wechat,Cambridgeport,high,True
+Sp_00149,2025-01-04,Spring_2025,chair,1,69.0,website,Allston,high,True
+Sp_00150,2024-12-15,Spring_2025,desk,1,79.0,xiaohongshu_wechat,Jamaica Plain,medium,True
+Sp_00151,2025-01-06,Spring_2025,mattress,1,210.0,other,Watertown,medium,True
+Sp_00152,2024-12-03,Spring_2025,bed_frame,1,30.0,xiaohongshu_wechat,East Boston,medium,False
+Sp_00153,2025-02-15,Spring_2025,desk,2,158.0,xiaohongshu_wechat,Brighton,high,True
+Sp_00154,2025-01-22,Spring_2025,cleaning_set,1,39.99,xiaohongshu_wechat,Cambridgeport,high,True
+Sp_00155,2025-01-17,Spring_2025,chair,1,69.0,other,Fenway,high,True
+Sp_00156,2025-02-28,Spring_2025,bed_frame,2,120.0,website,Malden,medium,False
+Sp_00157,2025-01-07,Spring_2025,bed_frame,1,60.0,xiaohongshu_wechat,Allston,high,True
+Sp_00158,2025-01-05,Spring_2025,desk,1,79.0,xiaohongshu_wechat,Brookline,medium,False
+Sp_00159,2024-12-02,Spring_2025,kitchen_set,2,79.98,other,Cambridgeport,high,True
+Sp_00160,2024-12-18,Spring_2025,mattress,2,420.0,xiaohongshu_wechat,Mission Hill,high,True
+Sp_00161,2024-12-15,Spring_2025,bed_frame,2,90.0,website,Brighton,high,True
+Sp_00162,2024-12-24,Spring_2025,chair,1,69.0,other,Quincy,low,True
+Sp_00163,2024-12-30,Spring_2025,desk,1,79.0,xiaohongshu_wechat,Brighton,high,False
+Sp_00164,2025-02-17,Spring_2025,cleaning_set,1,39.99,xiaohongshu_wechat,Cambridgeport,high,False
+Sp_00165,2024-12-30,Spring_2025,bed_frame,1,60.0,xiaohongshu_wechat,Cambridgeport,high,False
+Sp_00166,2024-12-26,Spring_2025,cleaning_set,1,39.99,xiaohongshu_wechat,Medford,medium,True
+Sp_00167,2025-02-22,Spring_2025,desk,2,158.0,xiaohongshu_wechat,Cambridgeport,high,True
+Sp_00168,2024-12-21,Spring_2025,bed_frame,2,120.0,xiaohongshu_wechat,Cambridgeport,high,True
+Sp_00169,2025-02-13,Spring_2025,kitchen_set,1,39.99,website,Brighton,high,True
+Sp_00170,2025-01-19,Spring_2025,kitchen_set,1,39.99,xiaohongshu_wechat,Mission Hill,high,False
+Sp_00171,2024-12-01,Spring_2025,desk,1,79.0,xiaohongshu_wechat,Cambridgeport,high,False
+Sp_00172,2025-02-03,Spring_2025,chair,1,69.0,website,Watertown,medium,False
+Sp_00173,2025-01-08,Spring_2025,mattress,1,210.0,other,Revere,low,True
+Sp_00174,2025-01-24,Spring_2025,cleaning_set,2,79.98,xiaohongshu_wechat,Mission Hill,high,True
+Sp_00175,2025-02-23,Spring_2025,desk,1,79.0,website,Allston,high,False
+Sp_00176,2025-01-24,Spring_2025,mattress,1,210.0,xiaohongshu_wechat,Brighton,high,True
+Sp_00177,2025-01-12,Spring_2025,cleaning_set,1,39.99,xiaohongshu_wechat,Cambridgeport,high,True
+Sp_00178,2025-01-09,Spring_2025,chair,2,138.0,xiaohongshu_wechat,Mission Hill,high,True
+Sp_00179,2025-02-12,Spring_2025,mattress,2,380.0,xiaohongshu_wechat,Mission Hill,high,True
+Sp_00180,2025-01-24,Spring_2025,cleaning_set,2,79.98,website,Allston,high,True
+Sp_00181,2025-01-03,Spring_2025,desk,1,79.0,other,Mission Hill,high,True
+Sp_00182,2024-12-30,Spring_2025,cleaning_set,1,39.99,other,Brookline,medium,False
+Sp_00183,2025-02-27,Spring_2025,desk,1,79.0,xiaohongshu_wechat,Mission Hill,high,True
+Sp_00184,2024-12-10,Spring_2025,mattress,1,190.0,xiaohongshu_wechat,Allston,high,False
+Sp_00185,2025-02-05,Spring_2025,cleaning_set,1,39.99,xiaohongshu_wechat,Mission Hill,high,False
+Sp_00186,2024-12-24,Spring_2025,desk,1,79.0,xiaohongshu_wechat,Fenway,high,True
+Sp_00187,2025-02-10,Spring_2025,bed_frame,1,45.0,website,Mission Hill,high,True
+Sp_00188,2024-12-31,Spring_2025,bed_frame,1,45.0,website,Fenway,high,False
+Sp_00189,2025-01-08,Spring_2025,kitchen_set,1,39.99,xiaohongshu_wechat,Mission Hill,high,True
+Sp_00190,2024-12-03,Spring_2025,mattress,1,190.0,website,Dorchester,medium,True
+Sp_00191,2024-12-23,Spring_2025,cleaning_set,1,39.99,xiaohongshu_wechat,Allston,high,True
+Sp_00192,2025-01-28,Spring_2025,bed_frame,3,180.0,xiaohongshu_wechat,Revere,low,False
+Sp_00193,2024-12-14,Spring_2025,mattress,2,420.0,xiaohongshu_wechat,Brookline,medium,False
+Sp_00194,2024-12-14,Spring_2025,cleaning_set,1,39.99,website,Mission Hill,high,True
+Sp_00195,2025-02-21,Spring_2025,bed_frame,1,30.0,xiaohongshu_wechat,Brookline,medium,True
+Sp_00196,2024-12-07,Spring_2025,mattress,2,420.0,xiaohongshu_wechat,Allston,high,True
+Sp_00197,2024-12-22,Spring_2025,mattress,1,190.0,other,Mission Hill,high,True
+Sp_00198,2025-02-14,Spring_2025,kitchen_set,1,39.99,xiaohongshu_wechat,Watertown,medium,True
+Sp_00199,2025-01-25,Spring_2025,desk,2,158.0,other,Quincy,low,True
+Sp_00200,2024-12-12,Spring_2025,kitchen_set,1,39.99,website,Mission Hill,high,False
+Sp_00201,2025-01-12,Spring_2025,mattress,1,210.0,xiaohongshu_wechat,Medford,medium,False
+Sp_00202,2024-12-03,Spring_2025,mattress,3,570.0,xiaohongshu_wechat,Cambridgeport,high,True
+Sp_00203,2025-02-17,Spring_2025,bed_frame,1,60.0,xiaohongshu_wechat,Mission Hill,high,True
+Sp_00204,2024-12-23,Spring_2025,kitchen_set,3,119.97,xiaohongshu_wechat,Allston,high,False
+Sp_00205,2025-01-09,Spring_2025,kitchen_set,1,39.99,xiaohongshu_wechat,Allston,high,False
+Sp_00206,2025-02-02,Spring_2025,desk,2,158.0,website,East Boston,medium,False
+Sp_00207,2025-02-18,Spring_2025,mattress,1,210.0,xiaohongshu_wechat,Fenway,high,True
+Sp_00208,2025-02-04,Spring_2025,kitchen_set,2,79.98,xiaohongshu_wechat,Mission Hill,high,False
+Sp_00209,2025-01-10,Spring_2025,chair,1,69.0,other,Watertown,medium,False
+Sp_00210,2025-01-12,Spring_2025,desk,2,158.0,website,Mission Hill,high,False
+Sp_00211,2025-01-28,Spring_2025,desk,1,79.0,xiaohongshu_wechat,Mission Hill,high,True
+Sp_00212,2025-01-12,Spring_2025,desk,1,79.0,xiaohongshu_wechat,Allston,high,True
+Sp_00213,2025-01-24,Spring_2025,mattress,2,420.0,website,Cambridgeport,high,True
+Sp_00214,2025-01-07,Spring_2025,cleaning_set,1,39.99,other,Watertown,medium,True
+Sp_00215,2025-01-22,Spring_2025,chair,1,69.0,xiaohongshu_wechat,Mission Hill,high,True
+Sp_00216,2025-02-19,Spring_2025,cleaning_set,3,119.97,other,Cambridgeport,high,False
+Sp_00217,2025-02-21,Spring_2025,chair,2,138.0,xiaohongshu_wechat,Fenway,high,False
+Sp_00218,2025-01-01,Spring_2025,bed_frame,3,90.0,xiaohongshu_wechat,Mission Hill,high,True
+Sp_00219,2025-02-16,Spring_2025,desk,1,79.0,xiaohongshu_wechat,Somerville,medium,True
+Sp_00220,2024-12-02,Spring_2025,kitchen_set,3,119.97,xiaohongshu_wechat,Allston,high,True
+Sp_00221,2025-01-31,Spring_2025,kitchen_set,1,39.99,xiaohongshu_wechat,Medford,medium,True
+Sp_00222,2025-01-23,Spring_2025,bed_frame,2,120.0,xiaohongshu_wechat,Fenway,high,True
+Sp_00223,2025-02-05,Spring_2025,desk,1,79.0,xiaohongshu_wechat,Cambridgeport,high,False
+Sp_00224,2025-01-04,Spring_2025,cleaning_set,2,79.98,xiaohongshu_wechat,Brighton,high,True
+Sp_00225,2025-01-14,Spring_2025,desk,1,79.0,other,Watertown,medium,True
+Sp_00226,2024-12-20,Spring_2025,chair,1,69.0,other,Mission Hill,high,True
+Sp_00227,2025-02-04,Spring_2025,chair,1,69.0,xiaohongshu_wechat,Quincy,low,False
+Sp_00228,2025-02-16,Spring_2025,desk,2,158.0,xiaohongshu_wechat,Cambridgeport,high,True
+Sp_00229,2025-02-24,Spring_2025,kitchen_set,1,39.99,xiaohongshu_wechat,Cambridgeport,high,True
+Sp_00230,2024-12-27,Spring_2025,desk,1,79.0,other,Brighton,high,False
+Sp_00231,2024-12-18,Spring_2025,bed_frame,1,45.0,xiaohongshu_wechat,Jamaica Plain,medium,True
+Sp_00232,2025-01-04,Spring_2025,cleaning_set,3,119.97,xiaohongshu_wechat,Brighton,high,False
+Sp_00233,2024-12-05,Spring_2025,mattress,1,190.0,website,Allston,high,False
+Sp_00234,2025-02-05,Spring_2025,chair,2,138.0,website,Somerville,medium,False
+Sp_00235,2024-12-09,Spring_2025,bed_frame,2,120.0,xiaohongshu_wechat,Allston,high,True
+Sp_00236,2025-01-07,Spring_2025,bed_frame,1,45.0,xiaohongshu_wechat,Allston,high,False
+Sp_00237,2025-02-05,Spring_2025,bed_frame,1,60.0,xiaohongshu_wechat,Brighton,high,True
+Sp_00238,2025-01-06,Spring_2025,bed_frame,3,180.0,xiaohongshu_wechat,Mission Hill,high,False
+Sp_00239,2024-12-20,Spring_2025,desk,2,158.0,xiaohongshu_wechat,Quincy,low,True
+Sp_00240,2025-01-10,Spring_2025,mattress,2,380.0,xiaohongshu_wechat,Dorchester,medium,False
+Sp_00241,2025-01-28,Spring_2025,cleaning_set,2,79.98,xiaohongshu_wechat,Fenway,high,False
+Sp_00242,2024-12-23,Spring_2025,bed_frame,3,180.0,other,Fenway,high,False
+Sp_00243,2025-02-19,Spring_2025,desk,3,237.0,xiaohongshu_wechat,Cambridgeport,high,True
+Sp_00244,2025-02-08,Spring_2025,desk,2,158.0,website,Cambridgeport,high,False
+Sp_00245,2025-02-18,Spring_2025,desk,2,158.0,xiaohongshu_wechat,Malden,medium,True
+Sp_00246,2025-02-15,Spring_2025,desk,1,79.0,xiaohongshu_wechat,Allston,high,True
+Sp_00247,2025-01-09,Spring_2025,mattress,1,190.0,xiaohongshu_wechat,Fenway,high,True
+Sp_00248,2025-01-09,Spring_2025,kitchen_set,2,79.98,xiaohongshu_wechat,Allston,high,True
+Sp_00249,2025-01-27,Spring_2025,desk,1,79.0,website,Brighton,high,False
+Sp_00250,2025-02-05,Spring_2025,mattress,2,420.0,xiaohongshu_wechat,Cambridgeport,high,True
+Sp_00251,2025-02-04,Spring_2025,chair,1,69.0,website,Mission Hill,high,True
+Sp_00252,2025-01-16,Spring_2025,bed_frame,2,60.0,xiaohongshu_wechat,Cambridgeport,high,False
+Sp_00253,2024-12-16,Spring_2025,desk,2,158.0,other,Allston,high,False
+Sp_00254,2025-01-28,Spring_2025,cleaning_set,2,79.98,website,Revere,low,True
+Sp_00255,2025-02-21,Spring_2025,desk,3,237.0,xiaohongshu_wechat,Mission Hill,high,True
+Sp_00256,2025-01-18,Spring_2025,chair,2,138.0,other,Cambridgeport,high,True
+Sp_00257,2025-01-06,Spring_2025,bed_frame,3,90.0,website,Fenway,high,False
+Sp_00258,2025-01-21,Spring_2025,kitchen_set,1,39.99,other,Mission Hill,high,False
+Sp_00259,2025-01-01,Spring_2025,desk,3,237.0,xiaohongshu_wechat,Allston,high,False
+Sp_00260,2025-02-10,Spring_2025,cleaning_set,3,119.97,xiaohongshu_wechat,Mission Hill,high,True
+Sp_00261,2025-01-18,Spring_2025,chair,2,138.0,other,Medford,medium,False
+Sp_00262,2024-12-14,Spring_2025,mattress,2,420.0,xiaohongshu_wechat,Brighton,high,True
+Sp_00263,2024-12-22,Spring_2025,bed_frame,1,30.0,website,Fenway,high,True
+Sp_00264,2024-12-30,Spring_2025,chair,3,207.0,website,Somerville,medium,True
+Sp_00265,2024-12-01,Spring_2025,cleaning_set,1,39.99,xiaohongshu_wechat,Mission Hill,high,False
+Sp_00266,2024-12-26,Spring_2025,cleaning_set,1,39.99,website,Revere,low,True
+Sp_00267,2024-12-22,Spring_2025,cleaning_set,1,39.99,website,Mission Hill,high,True
+Sp_00268,2025-01-11,Spring_2025,bed_frame,3,180.0,other,Fenway,high,True
+Sp_00269,2025-01-27,Spring_2025,cleaning_set,1,39.99,other,Allston,high,True
+Sp_00270,2024-12-24,Spring_2025,mattress,1,210.0,xiaohongshu_wechat,Fenway,high,False
+Sp_00271,2025-01-18,Spring_2025,desk,2,158.0,website,Jamaica Plain,medium,True
+Sp_00272,2025-01-14,Spring_2025,bed_frame,1,45.0,xiaohongshu_wechat,Brighton,high,True
+Sp_00273,2025-01-11,Spring_2025,kitchen_set,2,79.98,xiaohongshu_wechat,Brookline,medium,True
+Sp_00274,2025-01-03,Spring_2025,bed_frame,2,60.0,xiaohongshu_wechat,Quincy,low,True
+Sp_00275,2024-12-21,Spring_2025,bed_frame,1,30.0,xiaohongshu_wechat,Jamaica Plain,medium,True
+Sp_00276,2025-02-22,Spring_2025,kitchen_set,1,39.99,website,Quincy,low,True
+Sp_00277,2025-01-19,Spring_2025,bed_frame,3,180.0,xiaohongshu_wechat,Malden,medium,True
+Sp_00278,2025-02-12,Spring_2025,chair,1,69.0,website,Brookline,medium,True
+Sp_00279,2025-01-28,Spring_2025,kitchen_set,3,119.97,website,Mission Hill,high,True
+Sp_00280,2025-02-12,Spring_2025,cleaning_set,1,39.99,website,Mission Hill,high,True
+Sp_00281,2024-12-08,Spring_2025,cleaning_set,1,39.99,xiaohongshu_wechat,Brighton,high,True
+Sp_00282,2025-02-24,Spring_2025,kitchen_set,1,39.99,website,Dorchester,medium,False
+Sp_00283,2025-01-23,Spring_2025,desk,1,79.0,xiaohongshu_wechat,Brighton,high,True
+Sp_00284,2025-02-08,Spring_2025,chair,2,138.0,xiaohongshu_wechat,Cambridgeport,high,True
+Sp_00285,2025-02-13,Spring_2025,cleaning_set,1,39.99,xiaohongshu_wechat,Cambridgeport,high,True
+Sp_00286,2025-01-14,Spring_2025,kitchen_set,1,39.99,xiaohongshu_wechat,Fenway,high,True
+Sp_00287,2024-12-17,Spring_2025,kitchen_set,2,79.98,other,Mission Hill,high,False
+Sp_00288,2024-12-10,Spring_2025,cleaning_set,1,39.99,website,Revere,low,False
+Sp_00289,2024-12-28,Spring_2025,desk,1,79.0,xiaohongshu_wechat,Somerville,medium,False
+Sp_00290,2024-12-29,Spring_2025,chair,1,69.0,xiaohongshu_wechat,Fenway,high,True
+Sp_00291,2024-12-09,Spring_2025,bed_frame,1,30.0,xiaohongshu_wechat,Cambridgeport,high,True
+Sp_00292,2025-01-07,Spring_2025,desk,1,79.0,xiaohongshu_wechat,Brighton,high,False
+Sp_00293,2024-12-07,Spring_2025,bed_frame,1,30.0,xiaohongshu_wechat,Somerville,medium,True
+Sp_00294,2024-12-07,Spring_2025,chair,1,69.0,other,Brookline,medium,True
+Sp_00295,2025-02-10,Spring_2025,bed_frame,1,45.0,xiaohongshu_wechat,Mission Hill,high,True
+Sp_00296,2024-12-23,Spring_2025,mattress,1,190.0,xiaohongshu_wechat,Dorchester,medium,True
+Sp_00297,2025-02-15,Spring_2025,chair,2,138.0,other,East Boston,medium,True
+Sp_00298,2025-01-19,Spring_2025,cleaning_set,1,39.99,xiaohongshu_wechat,Mission Hill,high,False
+Sp_00299,2025-02-12,Spring_2025,chair,1,69.0,xiaohongshu_wechat,Cambridgeport,high,True
+Sp_00300,2025-01-25,Spring_2025,desk,1,79.0,website,Mission Hill,high,False
+Sp_00301,2025-01-02,Spring_2025,bed_frame,2,60.0,other,Brookline,medium,False
+Sp_00302,2025-01-09,Spring_2025,desk,1,79.0,xiaohongshu_wechat,Mission Hill,high,False
+Sp_00303,2025-02-20,Spring_2025,cleaning_set,1,39.99,website,Mission Hill,high,True
+Sp_00304,2024-12-13,Spring_2025,cleaning_set,1,39.99,website,Cambridgeport,high,False
+Sp_00305,2024-12-17,Spring_2025,kitchen_set,1,39.99,xiaohongshu_wechat,Cambridgeport,high,True
+Sp_00306,2024-12-12,Spring_2025,mattress,2,380.0,xiaohongshu_wechat,Allston,high,False
+Sp_00307,2025-01-16,Spring_2025,mattress,1,190.0,xiaohongshu_wechat,Cambridgeport,high,True
+Sp_00308,2025-02-18,Spring_2025,chair,2,138.0,website,Brighton,high,False
+Sp_00309,2025-02-17,Spring_2025,cleaning_set,1,39.99,xiaohongshu_wechat,East Boston,medium,False
+Sp_00310,2025-01-15,Spring_2025,chair,3,207.0,xiaohongshu_wechat,Allston,high,False
+Sp_00311,2025-02-01,Spring_2025,cleaning_set,3,119.97,xiaohongshu_wechat,Fenway,high,False
+Sp_00312,2024-12-24,Spring_2025,chair,2,138.0,other,Fenway,high,False
+Sp_00313,2025-01-05,Spring_2025,kitchen_set,1,39.99,xiaohongshu_wechat,Revere,low,False
+Sp_00314,2025-02-27,Spring_2025,cleaning_set,2,79.98,website,East Boston,medium,False
+Sp_00315,2025-02-08,Spring_2025,bed_frame,2,120.0,xiaohongshu_wechat,Mission Hill,high,True
+Sp_00316,2024-12-16,Spring_2025,chair,1,69.0,xiaohongshu_wechat,Allston,high,False
+Sp_00317,2024-12-16,Spring_2025,desk,1,79.0,xiaohongshu_wechat,Allston,high,False
+Sp_00318,2024-12-13,Spring_2025,kitchen_set,1,39.99,xiaohongshu_wechat,Cambridgeport,high,False
+Sp_00319,2025-02-15,Spring_2025,bed_frame,1,60.0,website,Allston,high,True
+Sp_00320,2024-12-04,Spring_2025,bed_frame,1,45.0,xiaohongshu_wechat,Allston,high,False
+Sp_00321,2025-01-08,Spring_2025,desk,1,79.0,website,Cambridgeport,high,True
+Sp_00322,2025-01-05,Spring_2025,kitchen_set,1,39.99,xiaohongshu_wechat,Brighton,high,True
+Sp_00323,2024-12-24,Spring_2025,mattress,2,420.0,xiaohongshu_wechat,Allston,high,True
+Sp_00324,2025-01-03,Spring_2025,mattress,2,420.0,xiaohongshu_wechat,Brighton,high,True
+Sp_00325,2024-12-24,Spring_2025,desk,2,158.0,xiaohongshu_wechat,Watertown,medium,False
+Sp_00326,2025-01-05,Spring_2025,bed_frame,1,60.0,xiaohongshu_wechat,Somerville,medium,True
+Sp_00327,2024-12-01,Spring_2025,mattress,1,210.0,xiaohongshu_wechat,Cambridgeport,high,True
+Sp_00328,2025-01-31,Spring_2025,desk,2,158.0,xiaohongshu_wechat,Allston,high,False
+Sp_00329,2025-01-10,Spring_2025,bed_frame,1,45.0,xiaohongshu_wechat,Quincy,low,False
+Sp_00330,2025-02-06,Spring_2025,mattress,2,420.0,other,Revere,low,False
+Sp_00331,2025-02-20,Spring_2025,cleaning_set,1,39.99,website,Quincy,low,True
+Sp_00332,2024-12-26,Spring_2025,mattress,3,630.0,xiaohongshu_wechat,Mission Hill,high,False
+Sp_00333,2024-12-23,Spring_2025,cleaning_set,2,79.98,other,Allston,high,True
+Sp_00334,2025-01-05,Spring_2025,chair,1,69.0,xiaohongshu_wechat,Mission Hill,high,True
+Sp_00335,2025-02-26,Spring_2025,kitchen_set,2,79.98,xiaohongshu_wechat,Fenway,high,True
+Sp_00336,2024-12-18,Spring_2025,cleaning_set,1,39.99,website,Mission Hill,high,False
+Sp_00337,2025-01-23,Spring_2025,desk,1,79.0,xiaohongshu_wechat,Mission Hill,high,False
+Sp_00338,2024-12-27,Spring_2025,kitchen_set,3,119.97,xiaohongshu_wechat,Watertown,medium,False
+Sp_00339,2025-01-06,Spring_2025,cleaning_set,1,39.99,xiaohongshu_wechat,Mission Hill,high,False
+Sp_00340,2025-01-21,Spring_2025,kitchen_set,1,39.99,other,Dorchester,medium,True
+Sp_00341,2024-12-28,Spring_2025,kitchen_set,1,39.99,xiaohongshu_wechat,Malden,medium,True
+Sp_00342,2024-12-12,Spring_2025,kitchen_set,1,39.99,xiaohongshu_wechat,Cambridgeport,high,False
+Sp_00343,2025-02-22,Spring_2025,chair,2,138.0,xiaohongshu_wechat,Dorchester,medium,True
+Sp_00344,2025-01-21,Spring_2025,chair,1,69.0,xiaohongshu_wechat,Allston,high,False
+Sp_00345,2024-12-09,Spring_2025,cleaning_set,2,79.98,xiaohongshu_wechat,Jamaica Plain,medium,True
+Sp_00346,2025-01-30,Spring_2025,desk,2,158.0,xiaohongshu_wechat,Brighton,high,True
+Sp_00347,2024-12-17,Spring_2025,desk,1,79.0,xiaohongshu_wechat,Fenway,high,True
+Sp_00348,2024-12-26,Spring_2025,kitchen_set,1,39.99,xiaohongshu_wechat,Allston,high,True
+Sp_00349,2025-01-23,Spring_2025,bed_frame,1,60.0,xiaohongshu_wechat,Brighton,high,True
+Sp_00350,2025-02-13,Spring_2025,cleaning_set,1,39.99,website,Cambridgeport,high,False
+Sp_00351,2024-12-17,Spring_2025,bed_frame,1,30.0,other,Fenway,high,True
+Sp_00352,2024-12-12,Spring_2025,cleaning_set,2,79.98,xiaohongshu_wechat,Dorchester,medium,True
+Sp_00353,2024-12-18,Spring_2025,cleaning_set,1,39.99,xiaohongshu_wechat,Watertown,medium,False
+Sp_00354,2025-02-20,Spring_2025,kitchen_set,1,39.99,other,Watertown,medium,False
+Sp_00355,2025-02-25,Spring_2025,kitchen_set,1,39.99,xiaohongshu_wechat,Mission Hill,high,True
+Sp_00356,2025-01-14,Spring_2025,chair,1,69.0,other,Jamaica Plain,medium,True
+Sp_00357,2025-01-29,Spring_2025,kitchen_set,1,39.99,xiaohongshu_wechat,Cambridgeport,high,False
+Sp_00358,2024-12-03,Spring_2025,cleaning_set,1,39.99,xiaohongshu_wechat,Brookline,medium,True
+Sp_00359,2025-02-07,Spring_2025,kitchen_set,1,39.99,xiaohongshu_wechat,Revere,low,True
+Sp_00360,2025-02-18,Spring_2025,bed_frame,2,60.0,xiaohongshu_wechat,Brighton,high,True
+Sp_00361,2025-02-24,Spring_2025,bed_frame,1,30.0,other,Allston,high,True
+Sp_00362,2025-02-06,Spring_2025,mattress,2,420.0,xiaohongshu_wechat,Allston,high,False
+Sp_00363,2024-12-15,Spring_2025,kitchen_set,1,39.99,xiaohongshu_wechat,Dorchester,medium,False
+Sp_00364,2024-12-20,Spring_2025,kitchen_set,1,39.99,xiaohongshu_wechat,Dorchester,medium,True
+Sp_00365,2024-12-02,Spring_2025,cleaning_set,2,79.98,xiaohongshu_wechat,Malden,medium,True
+Sp_00366,2025-02-10,Spring_2025,kitchen_set,2,79.98,other,Fenway,high,False
+Sp_00367,2024-12-09,Spring_2025,bed_frame,2,120.0,xiaohongshu_wechat,East Boston,medium,False
+Sp_00368,2024-12-22,Spring_2025,chair,2,138.0,xiaohongshu_wechat,Cambridgeport,high,True
+Sp_00369,2024-12-23,Spring_2025,cleaning_set,2,79.98,xiaohongshu_wechat,Allston,high,True
+Sp_00370,2024-12-31,Spring_2025,kitchen_set,1,39.99,xiaohongshu_wechat,Brighton,high,False
+Sp_00371,2024-12-12,Spring_2025,desk,1,79.0,xiaohongshu_wechat,Cambridgeport,high,True
+Sp_00372,2025-01-23,Spring_2025,bed_frame,1,45.0,xiaohongshu_wechat,Cambridgeport,high,True
+Sp_00373,2025-01-04,Spring_2025,bed_frame,2,90.0,xiaohongshu_wechat,Fenway,high,False
+Sp_00374,2025-02-25,Spring_2025,cleaning_set,1,39.99,xiaohongshu_wechat,Revere,low,True
+Sp_00375,2024-12-04,Spring_2025,kitchen_set,1,39.99,xiaohongshu_wechat,Brighton,high,False
+Sp_00376,2025-01-29,Spring_2025,cleaning_set,1,39.99,other,Brighton,high,True
+Sp_00377,2025-02-17,Spring_2025,mattress,1,190.0,xiaohongshu_wechat,Fenway,high,True
+Sp_00378,2025-02-12,Spring_2025,bed_frame,2,120.0,website,Allston,high,True
+Sp_00379,2025-02-26,Spring_2025,mattress,3,570.0,xiaohongshu_wechat,Allston,high,False
+Sp_00380,2025-02-10,Spring_2025,mattress,3,570.0,xiaohongshu_wechat,Mission Hill,high,False
+Sp_00381,2025-01-22,Spring_2025,desk,1,79.0,website,East Boston,medium,True
+Sp_00382,2025-02-24,Spring_2025,bed_frame,1,30.0,xiaohongshu_wechat,Cambridgeport,high,True
+Sp_00383,2025-02-16,Spring_2025,cleaning_set,2,79.98,xiaohongshu_wechat,Revere,low,True
+Sp_00384,2025-02-08,Spring_2025,desk,1,79.0,xiaohongshu_wechat,Fenway,high,True
+Sp_00385,2024-12-02,Spring_2025,bed_frame,1,45.0,xiaohongshu_wechat,Dorchester,medium,False
+Sp_00386,2025-02-21,Spring_2025,desk,2,158.0,xiaohongshu_wechat,Allston,high,False
+Sp_00387,2025-01-29,Spring_2025,chair,2,138.0,website,Mission Hill,high,True
+Sp_00388,2025-02-08,Spring_2025,desk,2,158.0,xiaohongshu_wechat,Cambridgeport,high,False
+Sp_00389,2025-01-18,Spring_2025,bed_frame,2,120.0,xiaohongshu_wechat,Cambridgeport,high,False
+Sp_00390,2024-12-22,Spring_2025,kitchen_set,1,39.99,xiaohongshu_wechat,Malden,medium,True
+Sp_00391,2024-12-09,Spring_2025,bed_frame,1,45.0,xiaohongshu_wechat,Mission Hill,high,True
+Sp_00392,2024-12-15,Spring_2025,bed_frame,1,30.0,website,Watertown,medium,False
+Sp_00393,2024-12-20,Spring_2025,bed_frame,1,30.0,xiaohongshu_wechat,Brookline,medium,True
+Sp_00394,2024-12-04,Spring_2025,mattress,1,190.0,other,Cambridgeport,high,True
+Sp_00395,2024-12-02,Spring_2025,bed_frame,1,45.0,xiaohongshu_wechat,Jamaica Plain,medium,True
+Sp_00396,2025-01-22,Spring_2025,cleaning_set,2,79.98,website,Medford,medium,True
+Sp_00397,2025-02-07,Spring_2025,chair,1,69.0,xiaohongshu_wechat,Fenway,high,True
+Sp_00398,2024-12-14,Spring_2025,cleaning_set,2,79.98,xiaohongshu_wechat,Quincy,low,True
+Sp_00399,2025-02-11,Spring_2025,desk,1,79.0,xiaohongshu_wechat,Brookline,medium,False
+Sp_00400,2025-01-29,Spring_2025,cleaning_set,3,119.97,xiaohongshu_wechat,Cambridgeport,high,False
+Sp_00401,2025-02-12,Spring_2025,desk,1,79.0,other,Brighton,high,False
+Sp_00402,2025-02-19,Spring_2025,mattress,2,380.0,xiaohongshu_wechat,Fenway,high,True
+Sp_00403,2024-12-13,Spring_2025,kitchen_set,3,119.97,xiaohongshu_wechat,Brighton,high,False
+Sp_00404,2025-01-22,Spring_2025,mattress,1,190.0,website,Cambridgeport,high,True
+Sp_00405,2024-12-31,Spring_2025,bed_frame,1,30.0,xiaohongshu_wechat,Fenway,high,False
+Sp_00406,2025-02-25,Spring_2025,cleaning_set,2,79.98,xiaohongshu_wechat,Allston,high,True
+Sp_00407,2025-02-11,Spring_2025,mattress,2,420.0,xiaohongshu_wechat,Brighton,high,True
+Sp_00408,2024-12-08,Spring_2025,bed_frame,1,60.0,website,Cambridgeport,high,True
+Sp_00409,2024-12-16,Spring_2025,cleaning_set,2,79.98,xiaohongshu_wechat,Jamaica Plain,medium,True
+Sp_00410,2025-02-14,Spring_2025,mattress,1,210.0,xiaohongshu_wechat,Cambridgeport,high,True
+Sp_00411,2025-01-23,Spring_2025,cleaning_set,2,79.98,website,Fenway,high,True
+Sp_00412,2024-12-10,Spring_2025,desk,1,79.0,xiaohongshu_wechat,Cambridgeport,high,False
+Sp_00413,2025-01-16,Spring_2025,bed_frame,1,45.0,xiaohongshu_wechat,Watertown,medium,False
+Sp_00414,2025-01-15,Spring_2025,kitchen_set,1,39.99,xiaohongshu_wechat,Cambridgeport,high,True
+Sp_00415,2025-02-20,Spring_2025,mattress,2,380.0,other,Dorchester,medium,True
+Sp_00416,2025-01-13,Spring_2025,bed_frame,1,30.0,website,Mission Hill,high,False
+Sp_00417,2024-12-18,Spring_2025,chair,1,69.0,other,Revere,low,True
+Sp_00418,2025-01-07,Spring_2025,chair,2,138.0,xiaohongshu_wechat,Brookline,medium,False
+Sp_00419,2024-12-12,Spring_2025,mattress,1,190.0,website,Fenway,high,False
+Sp_00420,2025-02-11,Spring_2025,desk,1,79.0,xiaohongshu_wechat,Medford,medium,True
+Sp_00421,2025-02-21,Spring_2025,mattress,2,420.0,xiaohongshu_wechat,East Boston,medium,False
+Sp_00422,2025-01-30,Spring_2025,chair,1,69.0,website,Mission Hill,high,False
+Sp_00423,2025-01-24,Spring_2025,desk,1,79.0,xiaohongshu_wechat,Fenway,high,True
+Sp_00424,2025-01-25,Spring_2025,desk,1,79.0,xiaohongshu_wechat,Cambridgeport,high,True
+Sp_00425,2025-01-16,Spring_2025,chair,2,138.0,xiaohongshu_wechat,Brighton,high,False
+Sp_00426,2025-01-27,Spring_2025,bed_frame,1,60.0,xiaohongshu_wechat,Brookline,medium,True
+Sp_00427,2025-01-01,Spring_2025,desk,1,79.0,xiaohongshu_wechat,Malden,medium,True
+Sp_00428,2025-02-24,Spring_2025,cleaning_set,1,39.99,xiaohongshu_wechat,Brighton,high,True
+Sp_00429,2025-02-06,Spring_2025,kitchen_set,1,39.99,xiaohongshu_wechat,Fenway,high,False
+Sp_00430,2025-01-26,Spring_2025,desk,2,158.0,xiaohongshu_wechat,Cambridgeport,high,True
+Sp_00431,2025-01-02,Spring_2025,mattress,1,190.0,xiaohongshu_wechat,Brighton,high,True
+Sp_00432,2025-02-17,Spring_2025,kitchen_set,3,119.97,website,Cambridgeport,high,True
+Sp_00433,2024-12-17,Spring_2025,kitchen_set,2,79.98,xiaohongshu_wechat,Mission Hill,high,False
+Sp_00434,2025-01-21,Spring_2025,mattress,1,210.0,xiaohongshu_wechat,Mission Hill,high,True
+Sp_00435,2025-02-07,Spring_2025,bed_frame,1,45.0,xiaohongshu_wechat,Cambridgeport,high,True
+Sp_00436,2024-12-21,Spring_2025,mattress,1,210.0,other,Mission Hill,high,True
+Sp_00437,2025-02-15,Spring_2025,cleaning_set,2,79.98,xiaohongshu_wechat,Cambridgeport,high,True
+Sp_00438,2024-12-27,Spring_2025,kitchen_set,2,79.98,other,Mission Hill,high,True
+Sp_00439,2025-02-18,Spring_2025,desk,2,158.0,website,Allston,high,False
+Sp_00440,2025-02-22,Spring_2025,kitchen_set,1,39.99,website,Allston,high,False
+Sp_00441,2025-01-10,Spring_2025,cleaning_set,2,79.98,xiaohongshu_wechat,Cambridgeport,high,False
+Sp_00442,2025-02-21,Spring_2025,desk,1,79.0,website,Revere,low,True
+Sp_00443,2024-12-16,Spring_2025,cleaning_set,2,79.98,xiaohongshu_wechat,Cambridgeport,high,True
+Sp_00444,2025-01-04,Spring_2025,bed_frame,2,90.0,website,Allston,high,True
+Sp_00445,2024-12-28,Spring_2025,mattress,1,190.0,xiaohongshu_wechat,Allston,high,True
+Sp_00446,2025-01-04,Spring_2025,chair,3,207.0,other,Brighton,high,True
+Sp_00447,2024-12-06,Spring_2025,desk,1,79.0,website,Dorchester,medium,False
+Sp_00448,2025-01-10,Spring_2025,desk,2,158.0,website,Quincy,low,True
+Sp_00449,2025-02-19,Spring_2025,cleaning_set,1,39.99,xiaohongshu_wechat,Fenway,high,False
+Sp_00450,2025-02-19,Spring_2025,cleaning_set,1,39.99,xiaohongshu_wechat,Cambridgeport,high,True
+Sp_00451,2025-02-14,Spring_2025,chair,1,69.0,other,Allston,high,True
+Sp_00452,2025-02-26,Spring_2025,kitchen_set,2,79.98,xiaohongshu_wechat,Cambridgeport,high,True
+Sp_00453,2025-01-08,Spring_2025,cleaning_set,3,119.97,website,Cambridgeport,high,True
+Sp_00454,2025-01-22,Spring_2025,chair,2,138.0,xiaohongshu_wechat,Fenway,high,False
+Sp_00455,2025-02-06,Spring_2025,cleaning_set,2,79.98,xiaohongshu_wechat,Cambridgeport,high,False
+Sp_00456,2025-01-12,Spring_2025,desk,1,79.0,xiaohongshu_wechat,Allston,high,False
+Sp_00457,2025-02-16,Spring_2025,kitchen_set,2,79.98,xiaohongshu_wechat,Brighton,high,True
+Sp_00458,2025-01-27,Spring_2025,kitchen_set,1,39.99,xiaohongshu_wechat,Mission Hill,high,True
+Sp_00459,2025-02-11,Spring_2025,bed_frame,2,120.0,website,Fenway,high,False
+Sp_00460,2024-12-05,Spring_2025,desk,1,79.0,xiaohongshu_wechat,Fenway,high,True
+Sp_00461,2025-01-17,Spring_2025,kitchen_set,1,39.99,xiaohongshu_wechat,Allston,high,True
+Sp_00462,2025-01-30,Spring_2025,kitchen_set,1,39.99,website,Cambridgeport,high,False
+Sp_00463,2024-12-05,Spring_2025,mattress,1,210.0,website,Brighton,high,True
+Sp_00464,2025-01-01,Spring_2025,chair,1,69.0,xiaohongshu_wechat,Brighton,high,False
+Sp_00465,2025-01-08,Spring_2025,desk,2,158.0,xiaohongshu_wechat,Brookline,medium,True
+Sp_00466,2025-01-07,Spring_2025,kitchen_set,2,79.98,xiaohongshu_wechat,Fenway,high,False
+Sp_00467,2025-02-14,Spring_2025,cleaning_set,2,79.98,website,Brighton,high,True
+Sp_00468,2024-12-31,Spring_2025,kitchen_set,1,39.99,website,Jamaica Plain,medium,True
+Sp_00469,2025-02-20,Spring_2025,desk,1,79.0,website,Revere,low,False
+Sp_00470,2025-02-12,Spring_2025,desk,2,158.0,xiaohongshu_wechat,Cambridgeport,high,False
+Sp_00471,2025-01-08,Spring_2025,desk,2,158.0,xiaohongshu_wechat,Watertown,medium,False
+Sp_00472,2024-12-23,Spring_2025,mattress,1,190.0,website,Brighton,high,True
+Sp_00473,2024-12-22,Spring_2025,bed_frame,1,30.0,website,Allston,high,False
+Sp_00474,2024-12-11,Spring_2025,mattress,3,570.0,xiaohongshu_wechat,Allston,high,False
+Sp_00475,2025-01-29,Spring_2025,chair,1,69.0,website,Mission Hill,high,True
+Sp_00476,2025-01-02,Spring_2025,cleaning_set,2,79.98,xiaohongshu_wechat,Fenway,high,False
+Sp_00477,2025-01-12,Spring_2025,desk,1,79.0,website,Brighton,high,False
+Sp_00478,2024-12-22,Spring_2025,kitchen_set,2,79.98,xiaohongshu_wechat,Mission Hill,high,True
+Sp_00479,2025-02-28,Spring_2025,desk,1,79.0,xiaohongshu_wechat,Mission Hill,high,False
+Sp_00480,2025-01-26,Spring_2025,mattress,3,630.0,other,Brighton,high,True
+Sp_00481,2025-02-07,Spring_2025,kitchen_set,1,39.99,website,Brighton,high,True
+Sp_00482,2024-12-05,Spring_2025,desk,1,79.0,website,Mission Hill,high,True
+Sp_00483,2025-01-11,Spring_2025,mattress,1,190.0,xiaohongshu_wechat,Fenway,high,True
+Sp_00484,2025-01-26,Spring_2025,bed_frame,3,90.0,xiaohongshu_wechat,Fenway,high,True
+Sp_00485,2025-02-21,Spring_2025,cleaning_set,2,79.98,xiaohongshu_wechat,Allston,high,False
+Sp_00486,2025-02-23,Spring_2025,cleaning_set,2,79.98,xiaohongshu_wechat,Fenway,high,False
+Sp_00487,2025-02-09,Spring_2025,desk,1,79.0,xiaohongshu_wechat,Allston,high,True
+Sp_00488,2024-12-01,Spring_2025,kitchen_set,2,79.98,xiaohongshu_wechat,Brighton,high,True
+Sp_00489,2025-01-26,Spring_2025,chair,2,138.0,xiaohongshu_wechat,Somerville,medium,True
+Sp_00490,2025-02-22,Spring_2025,cleaning_set,2,79.98,xiaohongshu_wechat,Cambridgeport,high,False
+Sp_00491,2025-02-21,Spring_2025,chair,1,69.0,xiaohongshu_wechat,Fenway,high,True
+Sp_00492,2024-12-18,Spring_2025,mattress,2,380.0,other,Dorchester,medium,False
+Sp_00493,2025-02-04,Spring_2025,chair,2,138.0,website,East Boston,medium,False
+Sp_00494,2025-01-25,Spring_2025,desk,2,158.0,website,Allston,high,True
+Sp_00495,2025-02-20,Spring_2025,kitchen_set,2,79.98,other,Brighton,high,False
+Sp_00496,2024-12-24,Spring_2025,kitchen_set,1,39.99,xiaohongshu_wechat,Allston,high,True
+Sp_00497,2024-12-01,Spring_2025,kitchen_set,2,79.98,other,Quincy,low,False
+Sp_00498,2025-01-02,Spring_2025,mattress,1,210.0,website,Fenway,high,True
+Sp_00499,2025-01-18,Spring_2025,cleaning_set,1,39.99,xiaohongshu_wechat,Brighton,high,True
+Sp_00500,2025-01-08,Spring_2025,bed_frame,2,60.0,website,Allston,high,False
+Sp_00501,2025-02-25,Spring_2025,desk,1,79.0,xiaohongshu_wechat,Quincy,low,False
+Sp_00502,2025-02-23,Spring_2025,bed_frame,2,120.0,xiaohongshu_wechat,Dorchester,medium,True
+Sp_00503,2024-12-26,Spring_2025,chair,1,69.0,xiaohongshu_wechat,Mission Hill,high,True
+Sp_00504,2024-12-06,Spring_2025,bed_frame,1,60.0,xiaohongshu_wechat,Brighton,high,True
+Sp_00505,2025-01-25,Spring_2025,cleaning_set,1,39.99,xiaohongshu_wechat,Brighton,high,False
+Sp_00506,2024-12-03,Spring_2025,cleaning_set,1,39.99,xiaohongshu_wechat,Quincy,low,False
+Sp_00507,2025-02-20,Spring_2025,bed_frame,2,90.0,xiaohongshu_wechat,Fenway,high,True
+Sp_00508,2025-02-05,Spring_2025,bed_frame,1,60.0,xiaohongshu_wechat,Mission Hill,high,False
+Sp_00509,2024-12-17,Spring_2025,bed_frame,1,45.0,xiaohongshu_wechat,Cambridgeport,high,True
+Sp_00510,2025-02-17,Spring_2025,cleaning_set,3,119.97,website,Brighton,high,False
+Sp_00511,2025-01-17,Spring_2025,bed_frame,1,30.0,xiaohongshu_wechat,Fenway,high,False
+Sp_00512,2025-01-09,Spring_2025,bed_frame,2,60.0,xiaohongshu_wechat,Cambridgeport,high,True
+Sp_00513,2024-12-19,Spring_2025,kitchen_set,1,39.99,xiaohongshu_wechat,Fenway,high,True
+Sp_00514,2024-12-20,Spring_2025,chair,2,138.0,xiaohongshu_wechat,Fenway,high,True
+Sp_00515,2024-12-04,Spring_2025,kitchen_set,3,119.97,xiaohongshu_wechat,Quincy,low,False
+Sp_00516,2024-12-31,Spring_2025,kitchen_set,1,39.99,xiaohongshu_wechat,Dorchester,medium,True
+Sp_00517,2024-12-19,Spring_2025,kitchen_set,1,39.99,xiaohongshu_wechat,Allston,high,False
+Sp_00518,2025-02-07,Spring_2025,bed_frame,1,60.0,xiaohongshu_wechat,Cambridgeport,high,False
+Sp_00519,2025-01-21,Spring_2025,cleaning_set,1,39.99,other,Allston,high,True
+Sp_00520,2024-12-28,Spring_2025,chair,1,69.0,xiaohongshu_wechat,Mission Hill,high,True
+Sp_00521,2025-01-03,Spring_2025,desk,2,158.0,website,Revere,low,True
+Sp_00522,2025-02-16,Spring_2025,kitchen_set,1,39.99,xiaohongshu_wechat,Allston,high,False
+Sp_00523,2025-01-22,Spring_2025,chair,2,138.0,xiaohongshu_wechat,Brighton,high,False
+Sp_00524,2025-01-27,Spring_2025,mattress,3,570.0,other,East Boston,medium,False
+Sp_00525,2025-02-27,Spring_2025,bed_frame,3,135.0,website,Brighton,high,True
+Sp_00526,2024-12-09,Spring_2025,kitchen_set,2,79.98,website,Brighton,high,True
+Sp_00527,2025-02-11,Spring_2025,desk,1,79.0,xiaohongshu_wechat,Brighton,high,False
+Sp_00528,2025-01-07,Spring_2025,desk,1,79.0,website,Cambridgeport,high,True
+Sp_00529,2024-12-08,Spring_2025,bed_frame,1,60.0,website,Fenway,high,True
+Sp_00530,2024-12-27,Spring_2025,bed_frame,2,90.0,xiaohongshu_wechat,Mission Hill,high,False
+Sp_00531,2025-01-26,Spring_2025,mattress,1,190.0,xiaohongshu_wechat,Brighton,high,False
+Sp_00532,2025-01-15,Spring_2025,mattress,1,210.0,other,Revere,low,True
+Sp_00533,2025-02-10,Spring_2025,chair,1,69.0,xiaohongshu_wechat,Mission Hill,high,True
+Sp_00534,2024-12-29,Spring_2025,bed_frame,1,45.0,other,Revere,low,False
+Sp_00535,2024-12-02,Spring_2025,desk,1,79.0,website,Brighton,high,True
+Sp_00536,2025-02-10,Spring_2025,chair,1,69.0,xiaohongshu_wechat,Mission Hill,high,True
+Sp_00537,2025-01-14,Spring_2025,bed_frame,2,90.0,xiaohongshu_wechat,Cambridgeport,high,True
+Sp_00538,2025-02-21,Spring_2025,mattress,1,210.0,xiaohongshu_wechat,Brookline,medium,True
+Sp_00539,2024-12-18,Spring_2025,bed_frame,2,60.0,website,Mission Hill,high,False
+Sp_00540,2025-01-27,Spring_2025,desk,2,158.0,website,Cambridgeport,high,True
+Sp_00541,2025-01-07,Spring_2025,chair,1,69.0,xiaohongshu_wechat,Mission Hill,high,True
+Sp_00542,2025-01-05,Spring_2025,mattress,2,380.0,other,Somerville,medium,True
+Sp_00543,2024-12-03,Spring_2025,chair,1,69.0,xiaohongshu_wechat,Brighton,high,True
+Sp_00544,2025-02-24,Spring_2025,bed_frame,1,30.0,other,Cambridgeport,high,True
+Sp_00545,2025-02-28,Spring_2025,mattress,1,210.0,xiaohongshu_wechat,Brookline,medium,True
+Sp_00546,2025-02-01,Spring_2025,cleaning_set,2,79.98,other,Brighton,high,False
+Sp_00547,2025-02-16,Spring_2025,bed_frame,1,30.0,other,Cambridgeport,high,False
+Sp_00548,2025-01-02,Spring_2025,desk,1,79.0,xiaohongshu_wechat,Revere,low,False
+Sp_00549,2024-12-21,Spring_2025,kitchen_set,1,39.99,website,Cambridgeport,high,False
+Sp_00550,2024-12-02,Spring_2025,chair,1,69.0,website,Watertown,medium,False
+Sp_00551,2025-01-02,Spring_2025,chair,2,138.0,xiaohongshu_wechat,Fenway,high,False
+Sp_00552,2024-12-16,Spring_2025,mattress,2,420.0,website,Cambridgeport,high,True
+Sp_00553,2025-02-22,Spring_2025,bed_frame,2,90.0,website,Revere,low,True
+Sp_00554,2025-02-20,Spring_2025,chair,1,69.0,xiaohongshu_wechat,Malden,medium,True
+Sp_00555,2024-12-24,Spring_2025,desk,1,79.0,xiaohongshu_wechat,Cambridgeport,high,True
+Sp_00556,2024-12-03,Spring_2025,bed_frame,1,60.0,other,Fenway,high,False
+Sp_00557,2024-12-01,Spring_2025,bed_frame,1,30.0,xiaohongshu_wechat,Brighton,high,False
+Sp_00558,2024-12-16,Spring_2025,desk,2,158.0,xiaohongshu_wechat,Mission Hill,high,True
+Sp_00559,2024-12-19,Spring_2025,mattress,1,210.0,xiaohongshu_wechat,Fenway,high,True
+Sp_00560,2025-02-05,Spring_2025,bed_frame,1,30.0,website,Brighton,high,True
+Sp_00561,2024-12-02,Spring_2025,bed_frame,1,60.0,xiaohongshu_wechat,Malden,medium,False
+Sp_00562,2025-01-09,Spring_2025,cleaning_set,2,79.98,xiaohongshu_wechat,Quincy,low,False
+Sp_00563,2025-02-03,Spring_2025,kitchen_set,1,39.99,xiaohongshu_wechat,Cambridgeport,high,False
+Sp_00564,2025-02-05,Spring_2025,chair,1,69.0,xiaohongshu_wechat,Fenway,high,False
+Sp_00565,2025-01-28,Spring_2025,kitchen_set,3,119.97,website,Fenway,high,False
+Sp_00566,2024-12-12,Spring_2025,kitchen_set,2,79.98,xiaohongshu_wechat,Mission Hill,high,False
+Sp_00567,2025-01-17,Spring_2025,mattress,2,380.0,xiaohongshu_wechat,Watertown,medium,True
+Sp_00568,2025-01-23,Spring_2025,chair,1,69.0,other,Fenway,high,True
+Sp_00569,2024-12-24,Spring_2025,bed_frame,2,120.0,website,Malden,medium,True
+Sp_00570,2025-02-19,Spring_2025,cleaning_set,2,79.98,other,Brighton,high,False
+Sp_00571,2025-02-27,Spring_2025,desk,2,158.0,website,Watertown,medium,True
+Sp_00572,2025-02-12,Spring_2025,bed_frame,2,120.0,xiaohongshu_wechat,Brighton,high,False
+Sp_00573,2024-12-11,Spring_2025,mattress,1,210.0,xiaohongshu_wechat,Watertown,medium,False
+Sp_00574,2025-02-16,Spring_2025,kitchen_set,2,79.98,xiaohongshu_wechat,Mission Hill,high,True
+Sp_00575,2024-12-21,Spring_2025,kitchen_set,1,39.99,xiaohongshu_wechat,Mission Hill,high,False
+Sp_00576,2024-12-17,Spring_2025,chair,1,69.0,website,Mission Hill,high,False
+Sp_00577,2025-01-19,Spring_2025,chair,2,138.0,website,Allston,high,True
+Sp_00578,2024-12-02,Spring_2025,kitchen_set,1,39.99,xiaohongshu_wechat,Fenway,high,True
+Sp_00579,2024-12-20,Spring_2025,mattress,1,190.0,xiaohongshu_wechat,Mission Hill,high,True
+Sp_00580,2025-01-26,Spring_2025,chair,3,207.0,xiaohongshu_wechat,Somerville,medium,True
+Sp_00581,2024-12-13,Spring_2025,chair,1,69.0,xiaohongshu_wechat,Allston,high,True
+Sp_00582,2024-12-29,Spring_2025,kitchen_set,1,39.99,xiaohongshu_wechat,Brighton,high,True
+Sp_00583,2025-01-07,Spring_2025,chair,1,69.0,xiaohongshu_wechat,Brighton,high,False
+Sp_00584,2024-12-21,Spring_2025,desk,1,79.0,xiaohongshu_wechat,Brighton,high,False
+Sp_00585,2025-01-25,Spring_2025,cleaning_set,2,79.98,website,Brighton,high,False
+Sp_00586,2024-12-24,Spring_2025,kitchen_set,1,39.99,xiaohongshu_wechat,Cambridgeport,high,True
+Sp_00587,2025-02-14,Spring_2025,chair,2,138.0,website,Mission Hill,high,True
+Sp_00588,2024-12-18,Spring_2025,desk,1,79.0,xiaohongshu_wechat,Brighton,high,False
+Sp_00589,2024-12-23,Spring_2025,cleaning_set,1,39.99,xiaohongshu_wechat,Allston,high,True
+Sp_00590,2025-01-07,Spring_2025,desk,3,237.0,other,Mission Hill,high,True
+Sp_00591,2025-02-13,Spring_2025,bed_frame,1,60.0,xiaohongshu_wechat,Allston,high,True
+Sp_00592,2025-01-20,Spring_2025,desk,1,79.0,xiaohongshu_wechat,Cambridgeport,high,True
+Sp_00593,2025-02-12,Spring_2025,bed_frame,1,60.0,xiaohongshu_wechat,Fenway,high,True
+Sp_00594,2025-01-01,Spring_2025,mattress,1,210.0,xiaohongshu_wechat,Cambridgeport,high,False
+Sp_00595,2024-12-17,Spring_2025,cleaning_set,1,39.99,xiaohongshu_wechat,Cambridgeport,high,False
+Sp_00596,2025-01-15,Spring_2025,chair,2,138.0,xiaohongshu_wechat,Brookline,medium,True
+Sp_00597,2025-02-16,Spring_2025,mattress,2,420.0,xiaohongshu_wechat,Mission Hill,high,False
+Sp_00598,2024-12-12,Spring_2025,desk,1,79.0,xiaohongshu_wechat,Quincy,low,True
+Sp_00599,2025-01-03,Spring_2025,kitchen_set,3,119.97,other,Allston,high,False
+Sp_00600,2024-12-26,Spring_2025,desk,1,79.0,xiaohongshu_wechat,Brighton,high,False
+Sp_00601,2025-01-11,Spring_2025,desk,1,79.0,xiaohongshu_wechat,Mission Hill,high,False
+Sp_00602,2025-02-11,Spring_2025,kitchen_set,1,39.99,xiaohongshu_wechat,Fenway,high,False
+Sp_00603,2025-01-02,Spring_2025,mattress,1,210.0,other,Allston,high,True
+Sp_00604,2025-02-22,Spring_2025,kitchen_set,1,39.99,website,Mission Hill,high,False
+Sp_00605,2025-01-20,Spring_2025,bed_frame,2,90.0,xiaohongshu_wechat,Brighton,high,True
+Sp_00606,2024-12-12,Spring_2025,bed_frame,1,45.0,xiaohongshu_wechat,Allston,high,True
+Sp_00607,2024-12-22,Spring_2025,bed_frame,1,30.0,xiaohongshu_wechat,Brighton,high,True
+Sp_00608,2025-01-22,Spring_2025,chair,1,69.0,xiaohongshu_wechat,Cambridgeport,high,True
+Sp_00609,2025-01-28,Spring_2025,chair,1,69.0,xiaohongshu_wechat,Jamaica Plain,medium,False
+Sp_00610,2024-12-05,Spring_2025,mattress,2,420.0,xiaohongshu_wechat,Brighton,high,False
+Sp_00611,2025-01-06,Spring_2025,kitchen_set,1,39.99,xiaohongshu_wechat,Quincy,low,True
+Sp_00612,2025-01-04,Spring_2025,desk,1,79.0,other,Allston,high,False
+Sp_00613,2025-01-29,Spring_2025,cleaning_set,2,79.98,xiaohongshu_wechat,Cambridgeport,high,False
+Sp_00614,2025-02-28,Spring_2025,kitchen_set,1,39.99,xiaohongshu_wechat,Medford,medium,False
+Sp_00615,2025-01-09,Spring_2025,mattress,1,190.0,xiaohongshu_wechat,Mission Hill,high,False
+Sp_00616,2025-01-02,Spring_2025,chair,2,138.0,xiaohongshu_wechat,Brighton,high,False
+Sp_00617,2025-01-14,Spring_2025,mattress,3,630.0,website,Cambridgeport,high,True
+Sp_00618,2025-01-15,Spring_2025,bed_frame,1,45.0,other,Mission Hill,high,False
+Sp_00619,2025-02-15,Spring_2025,bed_frame,2,60.0,website,Quincy,low,True
+Sp_00620,2024-12-21,Spring_2025,kitchen_set,1,39.99,xiaohongshu_wechat,Mission Hill,high,True
+Sp_00621,2025-01-08,Spring_2025,chair,2,138.0,xiaohongshu_wechat,Allston,high,True
+Sp_00622,2024-12-08,Spring_2025,chair,3,207.0,xiaohongshu_wechat,Brighton,high,False
+Sp_00623,2025-01-23,Spring_2025,bed_frame,1,45.0,website,Cambridgeport,high,True
+Sp_00624,2025-02-16,Spring_2025,bed_frame,1,45.0,xiaohongshu_wechat,Brighton,high,False
+Sp_00625,2025-02-04,Spring_2025,desk,1,79.0,other,Fenway,high,True
+Sp_00626,2025-01-02,Spring_2025,chair,1,69.0,xiaohongshu_wechat,Brighton,high,True
+Sp_00627,2025-01-10,Spring_2025,desk,2,158.0,other,Brighton,high,False
+Sp_00628,2024-12-08,Spring_2025,chair,2,138.0,website,Medford,medium,True
+Sp_00629,2025-02-08,Spring_2025,cleaning_set,1,39.99,website,Brighton,high,False
+Sp_00630,2024-12-04,Spring_2025,mattress,1,190.0,other,Cambridgeport,high,False
+Sp_00631,2025-01-07,Spring_2025,bed_frame,2,90.0,xiaohongshu_wechat,Medford,medium,True
+Sp_00632,2025-01-17,Spring_2025,kitchen_set,1,39.99,website,Cambridgeport,high,True
+Sp_00633,2024-12-06,Spring_2025,desk,2,158.0,other,Allston,high,True
+Sp_00634,2025-02-01,Spring_2025,bed_frame,2,120.0,website,Allston,high,False
+Sp_00635,2025-01-29,Spring_2025,bed_frame,1,45.0,website,Dorchester,medium,True
+Sp_00636,2025-01-26,Spring_2025,mattress,1,210.0,xiaohongshu_wechat,Mission Hill,high,True
+Sp_00637,2024-12-07,Spring_2025,kitchen_set,1,39.99,website,Somerville,medium,True
+Sp_00638,2025-01-21,Spring_2025,kitchen_set,2,79.98,xiaohongshu_wechat,Cambridgeport,high,False
+Sp_00639,2024-12-12,Spring_2025,chair,1,69.0,xiaohongshu_wechat,Allston,high,True
+Sp_00640,2025-01-21,Spring_2025,chair,3,207.0,other,Cambridgeport,high,False
+Sp_00641,2025-02-13,Spring_2025,kitchen_set,1,39.99,xiaohongshu_wechat,East Boston,medium,True
+Sp_00642,2025-01-07,Spring_2025,cleaning_set,1,39.99,other,Fenway,high,False
+Sp_00643,2024-12-03,Spring_2025,bed_frame,2,120.0,website,Dorchester,medium,True
+Sp_00644,2025-01-03,Spring_2025,bed_frame,1,45.0,website,Mission Hill,high,False
+Sp_00645,2025-02-04,Spring_2025,bed_frame,1,30.0,website,Cambridgeport,high,True
+Sp_00646,2025-02-08,Spring_2025,cleaning_set,2,79.98,website,Dorchester,medium,True
+Sp_00647,2025-01-30,Spring_2025,kitchen_set,3,119.97,xiaohongshu_wechat,Mission Hill,high,False
+Sp_00648,2024-12-10,Spring_2025,bed_frame,1,60.0,website,Somerville,medium,True
+Sp_00649,2025-01-01,Spring_2025,kitchen_set,1,39.99,xiaohongshu_wechat,Fenway,high,False
+Sp_00650,2025-02-21,Spring_2025,cleaning_set,2,79.98,website,Mission Hill,high,True
+Sp_00651,2025-01-17,Spring_2025,kitchen_set,2,79.98,xiaohongshu_wechat,Cambridgeport,high,True
+Sp_00652,2025-02-19,Spring_2025,bed_frame,2,120.0,xiaohongshu_wechat,Cambridgeport,high,False
+Sp_00653,2024-12-10,Spring_2025,desk,2,158.0,xiaohongshu_wechat,Cambridgeport,high,False
+Sp_00654,2024-12-14,Spring_2025,bed_frame,2,60.0,xiaohongshu_wechat,Allston,high,True
+Sp_00655,2025-01-08,Spring_2025,bed_frame,2,90.0,xiaohongshu_wechat,Jamaica Plain,medium,True
+Sp_00656,2025-02-27,Spring_2025,mattress,2,420.0,xiaohongshu_wechat,Cambridgeport,high,False
+Sp_00657,2024-12-28,Spring_2025,mattress,1,190.0,other,Cambridgeport,high,True
+Sp_00658,2024-12-23,Spring_2025,kitchen_set,1,39.99,other,Cambridgeport,high,True
+Sp_00659,2025-01-19,Spring_2025,desk,1,79.0,website,Brighton,high,True
+Sp_00660,2024-12-26,Spring_2025,mattress,1,190.0,website,East Boston,medium,True
+Sp_00661,2025-01-27,Spring_2025,bed_frame,1,30.0,xiaohongshu_wechat,Cambridgeport,high,False
+Sp_00662,2025-01-18,Spring_2025,chair,2,138.0,website,Mission Hill,high,False
+Sp_00663,2024-12-15,Spring_2025,mattress,1,210.0,xiaohongshu_wechat,Cambridgeport,high,False
+Sp_00664,2025-01-25,Spring_2025,bed_frame,1,45.0,xiaohongshu_wechat,Mission Hill,high,True
+Sp_00665,2024-12-15,Spring_2025,desk,1,79.0,xiaohongshu_wechat,Fenway,high,True
+Sp_00666,2025-01-03,Spring_2025,chair,1,69.0,other,Jamaica Plain,medium,True
+Sp_00667,2025-01-31,Spring_2025,cleaning_set,1,39.99,xiaohongshu_wechat,Brighton,high,True
+Sp_00668,2024-12-10,Spring_2025,bed_frame,2,120.0,xiaohongshu_wechat,Medford,medium,False
+Sp_00669,2024-12-12,Spring_2025,mattress,2,420.0,website,Brookline,medium,False
+Sp_00670,2025-01-13,Spring_2025,chair,1,69.0,xiaohongshu_wechat,Mission Hill,high,True
+Sp_00671,2025-01-05,Spring_2025,bed_frame,2,120.0,other,Medford,medium,True
+Sp_00672,2025-01-03,Spring_2025,chair,1,69.0,website,Fenway,high,True
+Sp_00673,2025-02-09,Spring_2025,bed_frame,2,90.0,xiaohongshu_wechat,Fenway,high,True
+Sp_00674,2025-02-22,Spring_2025,desk,3,237.0,xiaohongshu_wechat,Brighton,high,False
+Sp_00675,2024-12-16,Spring_2025,chair,2,138.0,other,Somerville,medium,True
+Sp_00676,2024-12-27,Spring_2025,mattress,2,420.0,xiaohongshu_wechat,Cambridgeport,high,True
+Sp_00677,2025-01-31,Spring_2025,desk,1,79.0,website,Quincy,low,True
+Sp_00678,2024-12-28,Spring_2025,mattress,1,190.0,xiaohongshu_wechat,Jamaica Plain,medium,True
+Sp_00679,2024-12-01,Spring_2025,cleaning_set,2,79.98,xiaohongshu_wechat,Brighton,high,True
+Sp_00680,2024-12-19,Spring_2025,bed_frame,1,45.0,xiaohongshu_wechat,Medford,medium,False
+Sp_00681,2025-02-22,Spring_2025,bed_frame,1,45.0,xiaohongshu_wechat,Medford,medium,True
+Sp_00682,2024-12-02,Spring_2025,chair,1,69.0,xiaohongshu_wechat,Mission Hill,high,True
+Sp_00683,2024-12-18,Spring_2025,desk,1,79.0,xiaohongshu_wechat,Brighton,high,True
+Sp_00684,2025-01-21,Spring_2025,mattress,3,630.0,website,Brookline,medium,False
+Sp_00685,2025-01-26,Spring_2025,bed_frame,1,60.0,other,East Boston,medium,True
+Sp_00686,2025-01-15,Spring_2025,cleaning_set,1,39.99,website,Mission Hill,high,True
+Sp_00687,2024-12-22,Spring_2025,kitchen_set,3,119.97,xiaohongshu_wechat,Allston,high,True
+Sp_00688,2024-12-24,Spring_2025,cleaning_set,1,39.99,website,Allston,high,True
+Sp_00689,2025-01-03,Spring_2025,kitchen_set,1,39.99,xiaohongshu_wechat,Allston,high,False
+Sp_00690,2025-01-21,Spring_2025,mattress,1,190.0,xiaohongshu_wechat,East Boston,medium,True
+Sp_00691,2025-01-27,Spring_2025,bed_frame,1,60.0,xiaohongshu_wechat,Fenway,high,False
+Sp_00692,2024-12-10,Spring_2025,desk,2,158.0,website,Brighton,high,True
+Sp_00693,2025-02-03,Spring_2025,cleaning_set,2,79.98,xiaohongshu_wechat,Mission Hill,high,False
+Sp_00694,2024-12-30,Spring_2025,cleaning_set,1,39.99,other,Mission Hill,high,True
+Sp_00695,2025-01-15,Spring_2025,chair,1,69.0,xiaohongshu_wechat,Mission Hill,high,True
+Sp_00696,2025-01-17,Spring_2025,mattress,1,210.0,xiaohongshu_wechat,Cambridgeport,high,True
+Sp_00697,2025-01-11,Spring_2025,chair,1,69.0,xiaohongshu_wechat,Malden,medium,True
+Sp_00698,2025-01-03,Spring_2025,kitchen_set,1,39.99,xiaohongshu_wechat,Allston,high,True
+Sp_00699,2024-12-16,Spring_2025,bed_frame,1,30.0,xiaohongshu_wechat,Mission Hill,high,False
+Sp_00700,2025-02-19,Spring_2025,chair,2,138.0,xiaohongshu_wechat,Fenway,high,True
+Sp_00701,2025-02-04,Spring_2025,cleaning_set,1,39.99,xiaohongshu_wechat,Brookline,medium,False
+Sp_00702,2025-01-28,Spring_2025,cleaning_set,2,79.98,website,Jamaica Plain,medium,False
+Sp_00703,2025-01-15,Spring_2025,bed_frame,2,90.0,xiaohongshu_wechat,Cambridgeport,high,True
+Sp_00704,2025-02-19,Spring_2025,chair,1,69.0,xiaohongshu_wechat,Cambridgeport,high,False
+Sp_00705,2025-01-20,Spring_2025,desk,3,237.0,other,Allston,high,True
+Sp_00706,2024-12-20,Spring_2025,kitchen_set,1,39.99,other,Allston,high,True
+Sp_00707,2024-12-31,Spring_2025,cleaning_set,1,39.99,xiaohongshu_wechat,Brighton,high,False
+Sp_00708,2025-01-05,Spring_2025,bed_frame,1,30.0,xiaohongshu_wechat,Mission Hill,high,True
+Sp_00709,2025-01-27,Spring_2025,mattress,2,380.0,website,Mission Hill,high,False
+Sp_00710,2024-12-29,Spring_2025,mattress,1,190.0,website,Quincy,low,False
+Sp_00711,2025-01-02,Spring_2025,desk,1,79.0,xiaohongshu_wechat,Brighton,high,True
+Sp_00712,2025-01-07,Spring_2025,bed_frame,3,180.0,xiaohongshu_wechat,Cambridgeport,high,False
+Sp_00713,2024-12-01,Spring_2025,cleaning_set,2,79.98,other,Brighton,high,False
+Sp_00714,2024-12-15,Spring_2025,desk,3,237.0,other,Revere,low,False
+Sp_00715,2025-01-01,Spring_2025,desk,1,79.0,xiaohongshu_wechat,Mission Hill,high,False
+Sp_00716,2025-01-03,Spring_2025,kitchen_set,1,39.99,xiaohongshu_wechat,Malden,medium,False
+Sp_00717,2025-02-22,Spring_2025,mattress,1,210.0,xiaohongshu_wechat,Cambridgeport,high,True
+Sp_00718,2025-01-06,Spring_2025,kitchen_set,1,39.99,xiaohongshu_wechat,Allston,high,True
+Sp_00719,2025-01-08,Spring_2025,desk,1,79.0,website,Mission Hill,high,True
+Sp_00720,2025-02-28,Spring_2025,bed_frame,2,120.0,xiaohongshu_wechat,Allston,high,False
+Sp_00721,2025-01-14,Spring_2025,chair,1,69.0,xiaohongshu_wechat,Cambridgeport,high,False
+Sp_00722,2025-01-12,Spring_2025,cleaning_set,3,119.97,other,Cambridgeport,high,False
+Sp_00723,2025-02-16,Spring_2025,kitchen_set,1,39.99,xiaohongshu_wechat,Allston,high,False
+Sp_00724,2025-01-18,Spring_2025,chair,1,69.0,website,Quincy,low,True
+Sp_00725,2025-02-06,Spring_2025,kitchen_set,2,79.98,website,Brighton,high,True
+Sp_00726,2024-12-12,Spring_2025,cleaning_set,2,79.98,xiaohongshu_wechat,Cambridgeport,high,True
+Sp_00727,2024-12-17,Spring_2025,chair,1,69.0,xiaohongshu_wechat,Allston,high,False
+Sp_00728,2025-01-09,Spring_2025,bed_frame,2,120.0,xiaohongshu_wechat,Allston,high,True
+Sp_00729,2025-02-02,Spring_2025,cleaning_set,1,39.99,xiaohongshu_wechat,Mission Hill,high,True
+Sp_00730,2024-12-23,Spring_2025,desk,2,158.0,xiaohongshu_wechat,Allston,high,True
+Sp_00731,2024-12-24,Spring_2025,cleaning_set,2,79.98,other,Allston,high,True
+Sp_00732,2024-12-26,Spring_2025,kitchen_set,1,39.99,xiaohongshu_wechat,Fenway,high,True
+Sp_00733,2024-12-23,Spring_2025,cleaning_set,1,39.99,xiaohongshu_wechat,Fenway,high,True
+Sp_00734,2025-02-04,Spring_2025,desk,1,79.0,xiaohongshu_wechat,Mission Hill,high,True
+Sp_00735,2024-12-11,Spring_2025,chair,1,69.0,website,Quincy,low,False
+Sp_00736,2025-01-06,Spring_2025,kitchen_set,2,79.98,xiaohongshu_wechat,Brighton,high,False
+Sp_00737,2025-02-10,Spring_2025,kitchen_set,2,79.98,other,Fenway,high,False
+Sp_00738,2025-02-22,Spring_2025,cleaning_set,1,39.99,website,Fenway,high,True
+Sp_00739,2025-02-14,Spring_2025,bed_frame,2,90.0,xiaohongshu_wechat,Brighton,high,True
+Sp_00740,2025-01-10,Spring_2025,chair,1,69.0,other,Allston,high,True
+Sp_00741,2025-02-21,Spring_2025,mattress,1,210.0,website,Mission Hill,high,True
+Sp_00742,2025-02-06,Spring_2025,cleaning_set,1,39.99,xiaohongshu_wechat,Brookline,medium,True
+Sp_00743,2024-12-29,Spring_2025,chair,1,69.0,xiaohongshu_wechat,Dorchester,medium,False
+Sp_00744,2025-02-14,Spring_2025,chair,2,138.0,website,Cambridgeport,high,True
+Sp_00745,2025-01-11,Spring_2025,desk,1,79.0,xiaohongshu_wechat,Brookline,medium,False
+Sp_00746,2025-02-07,Spring_2025,chair,1,69.0,xiaohongshu_wechat,Mission Hill,high,False
+Sp_00747,2025-01-13,Spring_2025,chair,1,69.0,website,Malden,medium,False
+Sp_00748,2025-01-17,Spring_2025,cleaning_set,1,39.99,website,Cambridgeport,high,False
+Sp_00749,2025-02-01,Spring_2025,chair,1,69.0,website,Fenway,high,False
+Sp_00750,2025-02-07,Spring_2025,chair,1,69.0,xiaohongshu_wechat,Revere,low,False
+Sp_00751,2024-12-02,Spring_2025,cleaning_set,1,39.99,website,Jamaica Plain,medium,True
+Sp_00752,2025-01-18,Spring_2025,bed_frame,2,90.0,other,Allston,high,False
+Sp_00753,2025-02-12,Spring_2025,mattress,1,190.0,xiaohongshu_wechat,Medford,medium,True
+Sp_00754,2025-01-10,Spring_2025,desk,1,79.0,xiaohongshu_wechat,Fenway,high,True
+Sp_00755,2025-01-01,Spring_2025,mattress,2,380.0,xiaohongshu_wechat,Mission Hill,high,True
+Sp_00756,2024-12-30,Spring_2025,cleaning_set,3,119.97,website,Dorchester,medium,True
+Sp_00757,2025-01-07,Spring_2025,mattress,3,570.0,xiaohongshu_wechat,Allston,high,True
+Sp_00758,2024-12-15,Spring_2025,chair,3,207.0,xiaohongshu_wechat,East Boston,medium,False
+Sp_00759,2025-02-09,Spring_2025,mattress,1,190.0,xiaohongshu_wechat,Brighton,high,False
+Sp_00760,2025-02-14,Spring_2025,chair,2,138.0,other,Medford,medium,False
+Sp_00761,2025-02-21,Spring_2025,bed_frame,2,60.0,xiaohongshu_wechat,Quincy,low,False
+Sp_00762,2025-02-04,Spring_2025,mattress,2,420.0,other,Cambridgeport,high,True
+Sp_00763,2024-12-10,Spring_2025,chair,3,207.0,xiaohongshu_wechat,Dorchester,medium,False
+Sp_00764,2025-01-20,Spring_2025,desk,3,237.0,xiaohongshu_wechat,Revere,low,True
+Sp_00765,2024-12-11,Spring_2025,cleaning_set,1,39.99,other,Brookline,medium,False
+Sp_00766,2024-12-27,Spring_2025,chair,3,207.0,xiaohongshu_wechat,Brighton,high,True
+Sp_00767,2025-02-01,Spring_2025,cleaning_set,1,39.99,xiaohongshu_wechat,Fenway,high,True
+Sp_00768,2025-02-01,Spring_2025,mattress,1,210.0,xiaohongshu_wechat,Brighton,high,True
+Sp_00769,2025-02-07,Spring_2025,mattress,2,380.0,xiaohongshu_wechat,Allston,high,True
+Sp_00770,2025-02-19,Spring_2025,mattress,1,190.0,other,Fenway,high,True
+Sp_00771,2024-12-23,Spring_2025,kitchen_set,1,39.99,xiaohongshu_wechat,Brookline,medium,True
+Sp_00772,2025-01-20,Spring_2025,desk,1,79.0,other,Quincy,low,False
+Sp_00773,2025-01-26,Spring_2025,desk,2,158.0,xiaohongshu_wechat,Malden,medium,True
+Sp_00774,2025-02-02,Spring_2025,mattress,2,380.0,xiaohongshu_wechat,Cambridgeport,high,True
+Sp_00775,2024-12-24,Spring_2025,bed_frame,2,120.0,website,Cambridgeport,high,True
+Sp_00776,2024-12-20,Spring_2025,bed_frame,1,45.0,xiaohongshu_wechat,Mission Hill,high,True
+Sp_00777,2025-02-16,Spring_2025,desk,2,158.0,website,Fenway,high,True
+Sp_00778,2025-02-16,Spring_2025,mattress,1,190.0,website,Watertown,medium,True
+Sp_00779,2025-02-04,Spring_2025,kitchen_set,2,79.98,xiaohongshu_wechat,Quincy,low,True
+Sp_00780,2024-12-03,Spring_2025,mattress,2,380.0,other,Allston,high,False
+Sp_00781,2024-12-18,Spring_2025,cleaning_set,1,39.99,other,Watertown,medium,False
+Sp_00782,2024-12-16,Spring_2025,kitchen_set,1,39.99,xiaohongshu_wechat,Cambridgeport,high,False
+Sp_00783,2025-02-07,Spring_2025,cleaning_set,2,79.98,xiaohongshu_wechat,Revere,low,False
+Sp_00784,2024-12-02,Spring_2025,cleaning_set,3,119.97,xiaohongshu_wechat,Cambridgeport,high,True
+Sp_00785,2025-01-13,Spring_2025,mattress,2,420.0,other,Allston,high,False
+Sp_00786,2024-12-28,Spring_2025,bed_frame,1,45.0,xiaohongshu_wechat,Brookline,medium,True
+Sp_00787,2024-12-24,Spring_2025,cleaning_set,2,79.98,xiaohongshu_wechat,Fenway,high,False
+Sp_00788,2025-02-12,Spring_2025,mattress,3,570.0,website,Mission Hill,high,True
+Sp_00789,2025-02-25,Spring_2025,desk,1,79.0,other,Mission Hill,high,True
+Sp_00790,2024-12-15,Spring_2025,chair,2,138.0,xiaohongshu_wechat,Brighton,high,False
+Sp_00791,2024-12-11,Spring_2025,bed_frame,1,60.0,xiaohongshu_wechat,Mission Hill,high,False
+Sp_00792,2025-01-10,Spring_2025,bed_frame,1,45.0,other,Mission Hill,high,True
+Sp_00793,2025-02-10,Spring_2025,desk,3,237.0,xiaohongshu_wechat,Medford,medium,True
+Sp_00794,2025-02-02,Spring_2025,desk,3,237.0,website,Medford,medium,True
+Sp_00795,2025-01-02,Spring_2025,chair,3,207.0,website,Mission Hill,high,True
+Sp_00796,2025-02-14,Spring_2025,kitchen_set,1,39.99,xiaohongshu_wechat,Allston,high,False
+Sp_00797,2025-01-06,Spring_2025,chair,1,69.0,website,Fenway,high,True
+Sp_00798,2024-12-10,Spring_2025,desk,1,79.0,xiaohongshu_wechat,Allston,high,True
+Sp_00799,2025-02-14,Spring_2025,kitchen_set,2,79.98,xiaohongshu_wechat,Jamaica Plain,medium,True
+Sp_00800,2025-01-03,Spring_2025,chair,1,69.0,other,Brighton,high,True
