@@ -1,5 +1,6 @@
 # AI Marketing Analytics Agent
 
+##
 Natural Language Question
         ↓
 LLM Analysis Planner
@@ -11,6 +12,8 @@ Business Metrics
 LLM Insight Generation
         ↓
 Actionable Recommendations
+
+---
 
 ## Project Overview
 
@@ -37,20 +40,6 @@ The goal of this project is to automate parts of the marketing analytics workflo
 - AI-generated business insights
 
 Instead of manually summarizing reports, the workflow uses LLM-assisted insight generation to support faster business decision-making.
-
----
-
-## Workflow
-
-CSV Data  
-↓  
-Pandas Aggregation  
-↓  
-Automated Analysis Engine  
-↓  
-OpenAI API Insight Generation  
-↓  
-Business Recommendations
 
 ---
 
