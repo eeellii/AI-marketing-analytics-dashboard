@@ -1,17 +1,27 @@
 # AI Marketing Analytics Agent
 
-Natural Language Question  
-↓  
-LLM Analysis Planner  
-↓  
-Dynamic Pandas Execution  
-↓  
-Business Metrics  
-↓  
-LLM Insight Generation  
-↓  
+Natural Language Question
+
+↓
+
+LLM Analysis Planner
+
+↓
+
+Dynamic Pandas Execution
+
+↓
+
+Business Metrics
+
+↓
+
+LLM Insight Generation
+
+↓
+
 Actionable Recommendations
----
+
 
 ## Project Overview
 
