@@ -1,6 +1,5 @@
 # AI Marketing Analytics Agent
 
-##
 Natural Language Question
         ↓
 LLM Analysis Planner
