@@ -1,4 +1,16 @@
-# AI-Powered Marketing Analytics Dashboard
+# AI Marketing Analytics Agent
+
+User Question
+      ↓
+LLM Analysis Planner
+      ↓
+Pandas Execution Engine
+      ↓
+Analysis Results
+      ↓
+LLM Insight Generator
+      ↓
+Business Recommendation
 
 ## Project Overview
 
@@ -55,25 +67,41 @@ Business Recommendations
 
 ## Example Questions
 
-- Which channel generated the highest total sales?
-- Which neighborhood had the most orders?
-- Which product category performed best?
-- Which season generated the strongest revenue?
+- Which neighborhood generated the highest total sales?
+
+- Which product category has the highest average order value?
+
+- Which customer segment contributes the most revenue?
+
+- Which season shows the strongest sales performance?
+
+- What growth opportunities can be identified from the sales data?
 
 ---
 
-## Current Version
+# Current Version
 
-Prototype v1:
-- Rule-based analysis routing
-- AI-generated business insight summaries
-- Automated grouped analysis workflow
+### V1 – Rule-Based Analytics
+- Fixed analysis routes
+- Basic business insight generation
 
-Future improvements:
-- Streamlit dashboard
-- Dynamic chart generation
-- Natural language analytics interface
-- CSV upload support
+### V2 – Automated Business Reporting
+- Marketing Report generation
+- Growth Report generation
+- E-commerce Report generation
+- Automated KPI summaries
+
+### V3 – AI Analytics Agent
+- Understands natural language questions
+- Creates analysis plans automatically
+- Executes Pandas aggregations dynamically
+- Generates AI-powered business insights
+- End-to-end workflow through a single function:
+```python
+ask_data(
+    "Which neighborhood generated the highest total sales?"
+)
+```
 
 ---
 
