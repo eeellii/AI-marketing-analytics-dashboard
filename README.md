@@ -1,16 +1,16 @@
 # AI Marketing Analytics Agent
 
-User Question
-      ↓
+Natural Language Question
+        ↓
 LLM Analysis Planner
-      ↓
-Pandas Execution Engine
-      ↓
-Analysis Results
-      ↓
-LLM Insight Generator
-      ↓
-Business Recommendation
+        ↓
+Dynamic Pandas Execution
+        ↓
+Business Metrics
+        ↓
+LLM Insight Generation
+        ↓
+Actionable Recommendations
 
 ## Project Overview
 
@@ -102,7 +102,24 @@ ask_data(
     "Which neighborhood generated the highest total sales?"
 )
 ```
+Example Output
 
+Analysis Plan:
+{
+  "group_by": "neighborhood",
+  "metric": "order_amount",
+  "aggregation": "sum"
+}
+
+Analysis Result:
+Fenway        37730.66
+Cambridgeport 36657.22
+
+AI Insight:
+1. Fenway generated the highest sales.
+2. Strong demand is concentrated in several neighborhoods.
+3. Consider increasing marketing investment in top-performing regions.
+   
 ---
 
 ## Disclaimer
